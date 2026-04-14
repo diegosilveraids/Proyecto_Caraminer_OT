@@ -1,1 +1,1 @@
-# Proyecto_Caraminer_OT
+Proyecto de carga automática de Ordenes de Trabajo a GMAO de Caraminer.
