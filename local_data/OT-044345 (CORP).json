@@ -1,0 +1,487 @@
+{
+    "data": [
+        {
+            "id": "19adf35bdec-102",
+            "type": "wo",
+            "links": {
+                "self": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102",
+                "workflow-transitions": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/workflow-transitions"
+            },
+            "attributes": {
+                "onSitePresenceComment": null,
+                "socotecRptNbObs": null,
+                "expectedToolCost": 0.0,
+                "toSchedule": false,
+                "xtraTxt01": null,
+                "xtraTxt02": null,
+                "xtraTxt03": null,
+                "xtraTxt04": null,
+                "xtraNum05": null,
+                "xtraTxt05": null,
+                "xtraTxt06": null,
+                "descriptionSearch": "02_CERCOS Y ALAMBRADOS DE LEY",
+                "xtraTxt07": null,
+                "expStockCost": 0.0,
+                "WOEnd": "2025-12-02T10:46:56.691-03:00",
+                "xtraTxt08": null,
+                "xtraTxt09": "162/0x",
+                "workInvoice": false,
+                "reportDate": null,
+                "deviatedExpKPBegin": null,
+                "geometryAsEWKT": null,
+                "expTimeTools": null,
+                "taskStatus": null,
+                "directKPBegin": 40.0,
+                "actItemCost": 0.0,
+                "WOLegacyCostCenter": false,
+                "xtraTxt10": null,
+                "xtraTxt11": "Wxx",
+                "xtraTxt12": null,
+                "expItemCost": 0.0,
+                "xtraTxt13": "Observaciones (CFU)",
+                "xtraTxt14": null,
+                "xtraTxt15": null,
+                "xtraTxt16": null,
+                "onSitePresenceScanSuccessful": false,
+                "xtraTxt17": null,
+                "xtraTxt18": null,
+                "xtraTxt19": null,
+                "xtraNum03": 2203.0,
+                "xtraNum04": null,
+                "expWOEnd": "2025-12-02T18:00:00.000-03:00",
+                "xtraNum01": 40.0,
+                "xtraNum02": 259.48,
+                "statusCode": "CLOSED",
+                "xtraTxt20": null,
+                "xtraTxt21": null,
+                "latitude": null,
+                "WOResult": null,
+                "returnDate": null,
+                "createDate": "2025-12-02T10:44:18.934-03:00",
+                "consequence": null,
+                "maintStopTime": null,
+                "directExpKPEnd": null,
+                "expTime": null,
+                "remoteChangedDate": null,
+                "expectedCost": 0.0,
+                "WOBegin": "2025-12-02T10:43:00.000-03:00",
+                "actToolCost": 0.0,
+                "deviatedExpKPEnd": null,
+                "currencyCode": "UYU",
+                "actMiscCost": 0.0,
+                "statusChangedDate": "2025-12-02T10:46:56.706-03:00",
+                "expMiscCost": 0.0,
+                "project": null,
+                "providerWorkId": null,
+                "actServiceCost": 0.0,
+                "actStockCost": 0.0,
+                "fixedDt": false,
+                "xtraBool02": null,
+                "xtraBool01": null,
+                "xtraBool04": null,
+                "xtraBool03": null,
+                "xtraBool05": null,
+                "socotecStatus": null,
+                "longitude": null,
+                "modifyDate": "2025-12-02T10:49:59.250-03:00",
+                "globalId": null,
+                "socotecRptNbObsCritical": null,
+                "xtraDate01": null,
+                "xtraDate02": null,
+                "xtraDate03": null,
+                "providerWorkReference": null,
+                "realisedRate": 0.0,
+                "xtraDate04": null,
+                "xtraDate05": null,
+                "xtraDate06": null,
+                "eqptBroken": false,
+                "workPriority": "URGENT",
+                "persoId": null,
+                "directExpKPBegin": null,
+                "providerVersion": null,
+                "UOwner": "CON",
+                "code": "OT-044345",
+                "createFromTouch": false,
+                "workCategory": null,
+                "codeSearch": "OT-044345",
+                "xtraDate07": null,
+                "description": "02_Cercos y alambrados de ley",
+                "xtraDate08": null,
+                "xtraDate09": null,
+                "eqptStop": false,
+                "processTime": 0.0,
+                "expServiceCost": 0.0,
+                "sideTaskStartingDate": null,
+                "xtraDate10": null,
+                "WOFromEstimate": false,
+                "outOfGuarantee": false,
+                "expLabourCost": 0.0,
+                "issueDate": null,
+                "providerSite": null,
+                "continuation": null,
+                "directKPEnd": 259.48,
+                "technicalDomain": null,
+                "initWOEnd": "2025-12-02T18:00:00.000-03:00",
+                "workRecept": false,
+                "initWOBegin": "2025-12-02T10:43:00.000-03:00",
+                "actLabourCost": 0.0,
+                "workType": "WORKORDER",
+                "exceptView": false
+            },
+            "relationships": {
+                "WOMeasure": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/relationships/WOMeasure",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/WOMeasure"
+                    }
+                },
+                "WOTools": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/relationships/WOTools",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/WOTools"
+                    }
+                },
+                "maintPlan": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/relationships/maintPlan",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/maintPlan"
+                    }
+                },
+                "cure": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/relationships/cure",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/cure"
+                    }
+                },
+                "secuPolicy": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/relationships/secuPolicy",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/secuPolicy"
+                    }
+                },
+                "WOResources": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/relationships/WOResources",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/WOResources"
+                    }
+                },
+                "sideTask": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/relationships/sideTask",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/sideTask"
+                    }
+                },
+                "WOToolOccupations": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/relationships/WOToolOccupations",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/WOToolOccupations"
+                    }
+                },
+                "evaluation": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/relationships/evaluation",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/evaluation"
+                    }
+                },
+                "equipmentMoves": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/relationships/equipmentMoves",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/equipmentMoves"
+                    }
+                },
+                "links": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/relationships/links",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/links"
+                    }
+                },
+                "stockMovements": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/relationships/stockMovements",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/stockMovements"
+                    }
+                },
+                "costCenter": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/relationships/costCenter",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/costCenter"
+                    }
+                },
+                "WOFatherLink": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/relationships/WOFatherLink",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/WOFatherLink"
+                    }
+                },
+                "habilitations": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/relationships/habilitations",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/habilitations"
+                    }
+                },
+                "scannedEquipmentTag": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/relationships/scannedEquipmentTag",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/scannedEquipmentTag"
+                    }
+                },
+                "PWO": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/relationships/PWO",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/PWO"
+                    }
+                },
+                "contractPeriod": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/relationships/contractPeriod",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/contractPeriod"
+                    }
+                },
+                "symptom": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/relationships/symptom",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/symptom"
+                    }
+                },
+                "expHabilitations": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/relationships/expHabilitations",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/expHabilitations"
+                    }
+                },
+                "expWOResources": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/relationships/expWOResources",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/expWOResources"
+                    }
+                },
+                "expectedEquipmentTag": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/relationships/expectedEquipmentTag",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/expectedEquipmentTag"
+                    }
+                },
+                "WOContractItems": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/relationships/WOContractItems",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/WOContractItems"
+                    }
+                },
+                "expServices": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/relationships/expServices",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/expServices"
+                    }
+                },
+                "WOEstimate": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/relationships/WOEstimate",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/WOEstimate"
+                    }
+                },
+                "statusChangedBy": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/relationships/statusChangedBy",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/statusChangedBy"
+                    }
+                },
+                "supervisor": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/relationships/supervisor",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/supervisor"
+                    }
+                },
+                "WOContractServices": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/relationships/WOContractServices",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/WOContractServices"
+                    }
+                },
+                "expItems": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/relationships/expItems",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/expItems"
+                    }
+                },
+                "signature": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/relationships/signature",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/signature"
+                    }
+                },
+                "guarantee": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/relationships/guarantee",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/guarantee"
+                    }
+                },
+                "occupations": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/relationships/occupations",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/occupations"
+                    }
+                },
+                "tools": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/relationships/tools",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/tools"
+                    }
+                },
+                "assignedTo": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/relationships/assignedTo",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/assignedTo"
+                    }
+                },
+                "expWOTools": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/relationships/expWOTools",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/expWOTools"
+                    }
+                },
+                "provider": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/relationships/provider",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/provider"
+                    }
+                },
+                "vendor": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/relationships/vendor",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/vendor"
+                    }
+                },
+                "allAddresses": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/relationships/allAddresses",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/allAddresses"
+                    }
+                },
+                "expProcesses": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/relationships/expProcesses",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/expProcesses"
+                    }
+                },
+                "preventiveTrigger": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/relationships/preventiveTrigger",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/preventiveTrigger"
+                    }
+                },
+                "purchaseItems": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/relationships/purchaseItems",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/purchaseItems"
+                    }
+                },
+                "processes": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/relationships/processes",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/processes"
+                    }
+                },
+                "MRlinks": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/relationships/MRlinks",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/MRlinks"
+                    }
+                },
+                "reservedItems": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/relationships/reservedItems",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/reservedItems"
+                    }
+                },
+                "failureCause": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/relationships/failureCause",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/failureCause"
+                    }
+                },
+                "reverseLinks": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/relationships/reverseLinks",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/reverseLinks"
+                    }
+                },
+                "assignedTeam": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/relationships/assignedTeam",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/assignedTeam"
+                    }
+                },
+                "equipments": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/relationships/equipments",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/equipments"
+                    }
+                },
+                "actionType": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/relationships/actionType",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/actionType"
+                    }
+                },
+                "site": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/relationships/site",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/site"
+                    }
+                },
+                "statusHistory": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/relationships/statusHistory",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/statusHistory"
+                    }
+                },
+                "risks": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/relationships/risks",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/risks"
+                    }
+                },
+                "material": {
+                    "data": null,
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/relationships/material",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/material"
+                    }
+                },
+                "assignedSkill": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/relationships/assignedSkill",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/assignedSkill"
+                    }
+                },
+                "createdBy": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/relationships/createdBy",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/createdBy"
+                    }
+                },
+                "occupant": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/relationships/occupant",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/occupant"
+                    }
+                },
+                "longDesc": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/relationships/longDesc",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/longDesc"
+                    }
+                },
+                "customer": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/relationships/customer",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/wo/19adf35bdec-102/customer"
+                    }
+                }
+            }
+        }
+    ],
+    "links": {
+        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/wo?filter[wo][code]=OT-044345"
+    }
+}

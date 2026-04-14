@@ -1,0 +1,637 @@
+{
+    "data": [
+        {
+            "id": "1922ea069c2-5018a",
+            "type": "site",
+            "links": {
+                "self": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1922ea069c2-5018a"
+            },
+            "attributes": {
+                "UOwner": "ALE",
+                "code": "IZ1",
+                "modifyDate": "2024-10-21T12:30:04.825-03:00",
+                "active": true,
+                "description": "Zona 1 Infraestructura",
+                "persoId": null
+            },
+            "relationships": {
+                "actor": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1922ea069c2-5018a/relationships/actor",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1922ea069c2-5018a/actor"
+                    }
+                },
+                "address": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1922ea069c2-5018a/relationships/address",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1922ea069c2-5018a/address"
+                    }
+                },
+                "secuPolicy": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1922ea069c2-5018a/relationships/secuPolicy",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1922ea069c2-5018a/secuPolicy"
+                    }
+                }
+            }
+        },
+        {
+            "id": "1922ea069c2-5018c",
+            "type": "site",
+            "links": {
+                "self": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1922ea069c2-5018c"
+            },
+            "attributes": {
+                "UOwner": "ALE",
+                "code": "IZ2",
+                "modifyDate": "2024-10-21T12:30:08.707-03:00",
+                "active": true,
+                "description": "Zona 2 Infraestructura",
+                "persoId": null
+            },
+            "relationships": {
+                "actor": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1922ea069c2-5018c/relationships/actor",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1922ea069c2-5018c/actor"
+                    }
+                },
+                "address": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1922ea069c2-5018c/relationships/address",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1922ea069c2-5018c/address"
+                    }
+                },
+                "secuPolicy": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1922ea069c2-5018c/relationships/secuPolicy",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1922ea069c2-5018c/secuPolicy"
+                    }
+                }
+            }
+        },
+        {
+            "id": "1922ea069c2-5018e",
+            "type": "site",
+            "links": {
+                "self": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1922ea069c2-5018e"
+            },
+            "attributes": {
+                "UOwner": "ALE",
+                "code": "IZ3",
+                "modifyDate": "2024-10-21T12:30:13.142-03:00",
+                "active": true,
+                "description": "Zona 3 Infraestructura",
+                "persoId": null
+            },
+            "relationships": {
+                "actor": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1922ea069c2-5018e/relationships/actor",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1922ea069c2-5018e/actor"
+                    }
+                },
+                "address": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1922ea069c2-5018e/relationships/address",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1922ea069c2-5018e/address"
+                    }
+                },
+                "secuPolicy": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1922ea069c2-5018e/relationships/secuPolicy",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1922ea069c2-5018e/secuPolicy"
+                    }
+                }
+            }
+        },
+        {
+            "id": "1926cf3acb8-66882",
+            "type": "site",
+            "links": {
+                "self": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1926cf3acb8-66882"
+            },
+            "attributes": {
+                "UOwner": "ALE",
+                "code": "VZ1",
+                "modifyDate": "2024-10-21T12:30:31.248-03:00",
+                "active": true,
+                "description": "Zona 1 Vías",
+                "persoId": null
+            },
+            "relationships": {
+                "actor": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1926cf3acb8-66882/relationships/actor",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1926cf3acb8-66882/actor"
+                    }
+                },
+                "address": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1926cf3acb8-66882/relationships/address",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1926cf3acb8-66882/address"
+                    }
+                },
+                "secuPolicy": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1926cf3acb8-66882/relationships/secuPolicy",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1926cf3acb8-66882/secuPolicy"
+                    }
+                }
+            }
+        },
+        {
+            "id": "1926cf3acb8-66884",
+            "type": "site",
+            "links": {
+                "self": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1926cf3acb8-66884"
+            },
+            "attributes": {
+                "UOwner": "ALE",
+                "code": "VZ2",
+                "modifyDate": "2024-10-21T12:30:46.604-03:00",
+                "active": true,
+                "description": "Zona 2 Vías",
+                "persoId": null
+            },
+            "relationships": {
+                "actor": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1926cf3acb8-66884/relationships/actor",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1926cf3acb8-66884/actor"
+                    }
+                },
+                "address": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1926cf3acb8-66884/relationships/address",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1926cf3acb8-66884/address"
+                    }
+                },
+                "secuPolicy": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1926cf3acb8-66884/relationships/secuPolicy",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1926cf3acb8-66884/secuPolicy"
+                    }
+                }
+            }
+        },
+        {
+            "id": "1926cf3acb8-66b15",
+            "type": "site",
+            "links": {
+                "self": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1926cf3acb8-66b15"
+            },
+            "attributes": {
+                "UOwner": "ALE",
+                "code": "VZ3",
+                "modifyDate": "2024-10-21T12:30:57.325-03:00",
+                "active": true,
+                "description": "Zona 3 Vías",
+                "persoId": null
+            },
+            "relationships": {
+                "actor": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1926cf3acb8-66b15/relationships/actor",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1926cf3acb8-66b15/actor"
+                    }
+                },
+                "address": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1926cf3acb8-66b15/relationships/address",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1926cf3acb8-66b15/address"
+                    }
+                },
+                "secuPolicy": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1926cf3acb8-66b15/relationships/secuPolicy",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1926cf3acb8-66b15/secuPolicy"
+                    }
+                }
+            }
+        },
+        {
+            "id": "1926cf3acb8-66b17",
+            "type": "site",
+            "links": {
+                "self": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1926cf3acb8-66b17"
+            },
+            "attributes": {
+                "UOwner": "ALE",
+                "code": "SZ1",
+                "modifyDate": "2024-10-21T12:31:19.566-03:00",
+                "active": true,
+                "description": "Zona 1 Señalización",
+                "persoId": null
+            },
+            "relationships": {
+                "actor": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1926cf3acb8-66b17/relationships/actor",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1926cf3acb8-66b17/actor"
+                    }
+                },
+                "address": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1926cf3acb8-66b17/relationships/address",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1926cf3acb8-66b17/address"
+                    }
+                },
+                "secuPolicy": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1926cf3acb8-66b17/relationships/secuPolicy",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1926cf3acb8-66b17/secuPolicy"
+                    }
+                }
+            }
+        },
+        {
+            "id": "1926cf3acb8-66b19",
+            "type": "site",
+            "links": {
+                "self": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1926cf3acb8-66b19"
+            },
+            "attributes": {
+                "UOwner": "ALE",
+                "code": "SZ2",
+                "modifyDate": "2024-10-21T12:31:33.644-03:00",
+                "active": true,
+                "description": "Zona 2 Señalización",
+                "persoId": null
+            },
+            "relationships": {
+                "actor": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1926cf3acb8-66b19/relationships/actor",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1926cf3acb8-66b19/actor"
+                    }
+                },
+                "address": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1926cf3acb8-66b19/relationships/address",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1926cf3acb8-66b19/address"
+                    }
+                },
+                "secuPolicy": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1926cf3acb8-66b19/relationships/secuPolicy",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1926cf3acb8-66b19/secuPolicy"
+                    }
+                }
+            }
+        },
+        {
+            "id": "1926cf3acb8-66b1b",
+            "type": "site",
+            "links": {
+                "self": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1926cf3acb8-66b1b"
+            },
+            "attributes": {
+                "UOwner": "ALE",
+                "code": "SZ3",
+                "modifyDate": "2024-10-21T12:31:53.857-03:00",
+                "active": true,
+                "description": "Zona 3 Señalización",
+                "persoId": null
+            },
+            "relationships": {
+                "actor": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1926cf3acb8-66b1b/relationships/actor",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1926cf3acb8-66b1b/actor"
+                    }
+                },
+                "address": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1926cf3acb8-66b1b/relationships/address",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1926cf3acb8-66b1b/address"
+                    }
+                },
+                "secuPolicy": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1926cf3acb8-66b1b/relationships/secuPolicy",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1926cf3acb8-66b1b/secuPolicy"
+                    }
+                }
+            }
+        },
+        {
+            "id": "1926cf3acb8-8ce67",
+            "type": "site",
+            "links": {
+                "self": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1926cf3acb8-8ce67"
+            },
+            "attributes": {
+                "UOwner": "ALE",
+                "code": "Z3",
+                "modifyDate": "2024-10-22T12:24:25.108-03:00",
+                "active": true,
+                "description": "Zona 3",
+                "persoId": null
+            },
+            "relationships": {
+                "actor": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1926cf3acb8-8ce67/relationships/actor",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1926cf3acb8-8ce67/actor"
+                    }
+                },
+                "address": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1926cf3acb8-8ce67/relationships/address",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1926cf3acb8-8ce67/address"
+                    }
+                },
+                "secuPolicy": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1926cf3acb8-8ce67/relationships/secuPolicy",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1926cf3acb8-8ce67/secuPolicy"
+                    }
+                }
+            }
+        },
+        {
+            "id": "1926cf3acb8-8ce69",
+            "type": "site",
+            "links": {
+                "self": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1926cf3acb8-8ce69"
+            },
+            "attributes": {
+                "UOwner": "ALE",
+                "code": "Z2",
+                "modifyDate": "2024-10-22T12:25:25.782-03:00",
+                "active": true,
+                "description": "Zona 2",
+                "persoId": null
+            },
+            "relationships": {
+                "actor": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1926cf3acb8-8ce69/relationships/actor",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1926cf3acb8-8ce69/actor"
+                    }
+                },
+                "address": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1926cf3acb8-8ce69/relationships/address",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1926cf3acb8-8ce69/address"
+                    }
+                },
+                "secuPolicy": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1926cf3acb8-8ce69/relationships/secuPolicy",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1926cf3acb8-8ce69/secuPolicy"
+                    }
+                }
+            }
+        },
+        {
+            "id": "1926cf3acb8-8ce6b",
+            "type": "site",
+            "links": {
+                "self": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1926cf3acb8-8ce6b"
+            },
+            "attributes": {
+                "UOwner": "ALE",
+                "code": "Z1",
+                "modifyDate": "2024-10-22T12:26:29.050-03:00",
+                "active": true,
+                "description": "Zona 1",
+                "persoId": null
+            },
+            "relationships": {
+                "actor": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1926cf3acb8-8ce6b/relationships/actor",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1926cf3acb8-8ce6b/actor"
+                    }
+                },
+                "address": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1926cf3acb8-8ce6b/relationships/address",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1926cf3acb8-8ce6b/address"
+                    }
+                },
+                "secuPolicy": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1926cf3acb8-8ce6b/relationships/secuPolicy",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1926cf3acb8-8ce6b/secuPolicy"
+                    }
+                }
+            }
+        },
+        {
+            "id": "1926cf3acb8-9493e",
+            "type": "site",
+            "links": {
+                "self": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1926cf3acb8-9493e"
+            },
+            "attributes": {
+                "UOwner": "ALE",
+                "code": "I",
+                "modifyDate": "2024-10-22T15:28:52.795-03:00",
+                "active": true,
+                "description": "Infraestructura",
+                "persoId": null
+            },
+            "relationships": {
+                "actor": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1926cf3acb8-9493e/relationships/actor",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1926cf3acb8-9493e/actor"
+                    }
+                },
+                "address": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1926cf3acb8-9493e/relationships/address",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1926cf3acb8-9493e/address"
+                    }
+                },
+                "secuPolicy": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1926cf3acb8-9493e/relationships/secuPolicy",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1926cf3acb8-9493e/secuPolicy"
+                    }
+                }
+            }
+        },
+        {
+            "id": "1926cf3acb8-94940",
+            "type": "site",
+            "links": {
+                "self": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1926cf3acb8-94940"
+            },
+            "attributes": {
+                "UOwner": "ALE",
+                "code": "S",
+                "modifyDate": "2024-10-22T15:29:07.054-03:00",
+                "active": true,
+                "description": "Señalización",
+                "persoId": null
+            },
+            "relationships": {
+                "actor": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1926cf3acb8-94940/relationships/actor",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1926cf3acb8-94940/actor"
+                    }
+                },
+                "address": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1926cf3acb8-94940/relationships/address",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1926cf3acb8-94940/address"
+                    }
+                },
+                "secuPolicy": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1926cf3acb8-94940/relationships/secuPolicy",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1926cf3acb8-94940/secuPolicy"
+                    }
+                }
+            }
+        },
+        {
+            "id": "1926cf3acb8-94942",
+            "type": "site",
+            "links": {
+                "self": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1926cf3acb8-94942"
+            },
+            "attributes": {
+                "UOwner": "ALE",
+                "code": "V",
+                "modifyDate": "2024-10-22T15:29:24.339-03:00",
+                "active": true,
+                "description": "Vías",
+                "persoId": null
+            },
+            "relationships": {
+                "actor": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1926cf3acb8-94942/relationships/actor",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1926cf3acb8-94942/actor"
+                    }
+                },
+                "address": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1926cf3acb8-94942/relationships/address",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1926cf3acb8-94942/address"
+                    }
+                },
+                "secuPolicy": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1926cf3acb8-94942/relationships/secuPolicy",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/site/1926cf3acb8-94942/secuPolicy"
+                    }
+                }
+            }
+        },
+        {
+            "id": "192b61fa5f2-3752",
+            "type": "site",
+            "links": {
+                "self": "https://carltest.caraminer.com/cmms/api/entities/v1/site/192b61fa5f2-3752"
+            },
+            "attributes": {
+                "UOwner": "ALE",
+                "code": "CA",
+                "modifyDate": "2024-10-23T12:08:55.970-03:00",
+                "active": true,
+                "description": "Caraminer",
+                "persoId": null
+            },
+            "relationships": {
+                "actor": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/site/192b61fa5f2-3752/relationships/actor",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/site/192b61fa5f2-3752/actor"
+                    }
+                },
+                "address": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/site/192b61fa5f2-3752/relationships/address",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/site/192b61fa5f2-3752/address"
+                    }
+                },
+                "secuPolicy": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/site/192b61fa5f2-3752/relationships/secuPolicy",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/site/192b61fa5f2-3752/secuPolicy"
+                    }
+                }
+            }
+        },
+        {
+            "id": "197270f8f59-2dcf4",
+            "type": "site",
+            "links": {
+                "self": "https://carltest.caraminer.com/cmms/api/entities/v1/site/197270f8f59-2dcf4"
+            },
+            "attributes": {
+                "UOwner": "CON",
+                "code": "CFU",
+                "modifyDate": "2025-06-02T17:11:23.807-03:00",
+                "active": true,
+                "description": "Corporación Ferroviaria del Uruguay",
+                "persoId": null
+            },
+            "relationships": {
+                "actor": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/site/197270f8f59-2dcf4/relationships/actor",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/site/197270f8f59-2dcf4/actor"
+                    }
+                },
+                "address": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/site/197270f8f59-2dcf4/relationships/address",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/site/197270f8f59-2dcf4/address"
+                    }
+                },
+                "secuPolicy": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/site/197270f8f59-2dcf4/relationships/secuPolicy",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/site/197270f8f59-2dcf4/secuPolicy"
+                    }
+                }
+            }
+        },
+        {
+            "id": "197270f8f59-2dcf9",
+            "type": "site",
+            "links": {
+                "self": "https://carltest.caraminer.com/cmms/api/entities/v1/site/197270f8f59-2dcf9"
+            },
+            "attributes": {
+                "UOwner": "CON",
+                "code": "MTOP",
+                "modifyDate": "2025-06-02T17:15:09.850-03:00",
+                "active": true,
+                "description": "Ministerio de Transporte y Obras Públicas",
+                "persoId": null
+            },
+            "relationships": {
+                "actor": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/site/197270f8f59-2dcf9/relationships/actor",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/site/197270f8f59-2dcf9/actor"
+                    }
+                },
+                "address": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/site/197270f8f59-2dcf9/relationships/address",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/site/197270f8f59-2dcf9/address"
+                    }
+                },
+                "secuPolicy": {
+                    "links": {
+                        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/site/197270f8f59-2dcf9/relationships/secuPolicy",
+                        "related": "https://carltest.caraminer.com/cmms/api/entities/v1/site/197270f8f59-2dcf9/secuPolicy"
+                    }
+                }
+            }
+        }
+    ],
+    "links": {
+        "self": "https://carltest.caraminer.com/cmms/api/entities/v1/site"
+    }
+}

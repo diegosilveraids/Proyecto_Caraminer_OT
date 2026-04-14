@@ -1,0 +1,2896 @@
+{
+  "LUNES": {
+    "EVB": [
+      {
+        "area": "Infraestructura",
+        "n_tarea": "443/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Control de Vegetación",
+        "sistema_trabajo": "EVB",
+        "pk": "000+500 a 008+230 Trayecto Nueva Terminal Montevideo (MV) -- Sayago (SY) Via 1y2",
+        "fecha_inicio": "20-10-2025",
+        "fecha_fin": "20-10-2025",
+        "horarios": [
+          { "inicio": "06:30", "fin": "10:00" },
+          { "inicio": "13:00", "fin": "16:00" }
+        ],
+        "dias_semana": "L",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "",
+        "procedimiento": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación"
+      },
+      {
+        "area": "Vías",
+        "n_tarea": "444/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Mantenimiento de PAN",
+        "sistema_trabajo": "EVB",
+        "pk": "008+300 a 012+000 Trayecto Sayago (SY) -- Crossover (CR) Via 1y2",
+        "fecha_inicio": "20-10-2025",
+        "fecha_fin": "20-10-2025",
+        "horarios": [
+          { "inicio": "06:30", "fin": "10:00" },
+          { "inicio": "13:30", "fin": "16:00" },
+          { "inicio": "17:00", "fin": "21:00" }
+        ],
+        "dias_semana": "L",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "Pans: LC027; Gral. Máximo Santos - Waldemar Hansen / LC029; Camino Edison (Parada Edison) / LC030; Bvar. Aparicio Saravia / LC031; Camino Casavalle / LC032; Camino Hudson / LC034; Besnes e Irigoyen / LC035; Camino José Durán / LC036; Camino Carmelo Colman (STC Multimodal Colón)",
+        "procedimiento": "PR O-VIA-CO-PAN-001 Mantenimiento y reparación de PaN"
+      },
+      {
+        "area": "Infraestructura",
+        "n_tarea": "445/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Limpiezas puntuales de zanjas, alcantarillas y sistema de drenaje",
+        "sistema_trabajo": "EVB",
+        "pk": "032+500 a 033+000 Trayecto Progreso (PR) -- Massaro (MS) Via 1y2",
+        "fecha_inicio": "20-10-2025",
+        "fecha_fin": "20-10-2025",
+        "horarios": [
+          { "inicio": "05:30", "fin": "10:00" },
+          { "inicio": "11:00", "fin": "13:30" },
+          { "inicio": "14:00", "fin": "15:30" }
+        ],
+        "dias_semana": "L",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "",
+        "procedimiento": "PR O-INF-PV-DRE-01 Limpieza de drenajes longitudinales y transversales"
+      },
+      {
+        "area": "Infraestructura",
+        "n_tarea": "446/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Limpiezas puntuales de zanjas, alcantarillas y sistema de drenaje",
+        "sistema_trabajo": "EVB",
+        "pk": "040+000 a 043+000 Trayecto Massaro (MS) -- Canelones (CN) Via 1",
+        "fecha_inicio": "20-10-2025",
+        "fecha_fin": "20-10-2025",
+        "horarios": [
+          { "inicio": "07:30", "fin": "09:30" },
+          { "inicio": "10:00", "fin": "12:00" },
+          { "inicio": "14:00", "fin": "15:30" }
+        ],
+        "dias_semana": "L",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "",
+        "procedimiento": "PR O-INF-PV-DRE-01 Limpieza de drenajes longitudinales y transversales"
+      },
+      {
+        "area": "VÍAS",
+        "n_tarea": "447/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Veriﬁcación de las ﬁjaciones y de traviesas de vía (Inspección de los componentes de vía)",
+        "sistema_trabajo": "EVB",
+        "pk": "058+700 a 061+300 Trayecto Santa Lucía (SL) -- 25 de Agosto (AG) Via 1",
+        "fecha_inicio": "20-10-2025",
+        "fecha_fin": "20-10-2025",
+        "horarios": [
+          { "inicio": "08:00", "fin": "09:30" },
+          { "inicio": "10:00", "fin": "12:30" },
+          { "inicio": "15:30", "fin": "19:00" }
+        ],
+        "dias_semana": "L",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "",
+        "procedimiento": "PO O-VIA-PV-INS-001 Recorridos a pie y en cabina"
+      },
+      {
+        "area": "Señalización",
+        "n_tarea": "448/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Instalación de extractores en Armario PaN",
+        "sistema_trabajo": "EVB",
+        "pk": "072+664 a 072+664 Trayecto Independencia (IN) -- Cardal (CD) Via 1",
+        "fecha_inicio": "20-10-2025",
+        "fecha_fin": "20-10-2025",
+        "horarios": [
+          { "inicio": "08:00", "fin": "09:00" },
+          { "inicio": "09:30", "fin": "13:00" },
+          { "inicio": "15:30", "fin": "19:30" }
+        ],
+        "dias_semana": "L",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "PaN: LC126",
+        "procedimiento": "-"
+      },
+      {
+        "area": "Infraestructura",
+        "n_tarea": "449/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Limpieza puntuales de zanjas, alcantarillas y sistema de drenaje, control de vegetación.",
+        "sistema_trabajo": "EVB",
+        "pk": "108+818 a 140+028 Trayecto Florida Norte (FN) -- Pintado (PI) Via 1",
+        "fecha_inicio": "20-10-2025",
+        "fecha_fin": "20-10-2025",
+        "horarios": [
+          { "inicio": "09:00", "fin": "13:30" },
+          { "inicio": "15:30", "fin": "20:00" }
+        ],
+        "dias_semana": "L",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "Mini excavadora, combinada y tractor",
+        "consideraciones": "",
+        "procedimiento": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación PR O -INF-PV-DRE-01 Limpieza de drenajes longitudinales y transversales"
+      },
+      {
+        "area": "Infraestructura",
+        "n_tarea": "450/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Limpieza puntuales de zanjas, alcantarillas y sistema de drenaje, control de vegetación.",
+        "sistema_trabajo": "EVB",
+        "pk": "140+028 a 164+864 Trayecto Pintado (PI) -- Punta de Maciel (MA) Via 1",
+        "fecha_inicio": "20-10-2025",
+        "fecha_fin": "20-10-2025",
+        "horarios": [
+          { "inicio": "09:30", "fin": "13:00" },
+          { "inicio": "16:00", "fin": "19:30" }
+        ],
+        "dias_semana": "L",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "Mini excavadora, combinada y tractor",
+        "consideraciones": "",
+        "procedimiento": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación PR O -INF-PV-DRE-01 Limpieza de drenajes longitudinales y transversales"
+      },
+      {
+        "area": "VÍAS",
+        "n_tarea": "451/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Recorridos a pie",
+        "sistema_trabajo": "EVB",
+        "pk": "177+863 a 187+253 Trayecto Goñi (GO) -- Silos (SI) Via 1",
+        "fecha_inicio": "20-10-2025",
+        "fecha_fin": "20-10-2025",
+        "horarios": [
+          { "inicio": "07:00", "fin": "09:00" },
+          { "inicio": "10:00", "fin": "12:00" },
+          { "inicio": "13:00", "fin": "15:00" }
+        ],
+        "dias_semana": "L",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "",
+        "procedimiento": "PO O-VIA-PV-INS-001 Recorridos a pie y en cabina"
+      },
+      {
+        "area": "Señalización",
+        "n_tarea": "452/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Pasos a Nivel - Mantenimiento semestral",
+        "sistema_trabajo": "EVB",
+        "pk": "195+275 a 198+228 Trayecto Silos (SI) -- Villasboas (VI) Via 1",
+        "fecha_inicio": "20-10-2025",
+        "fecha_fin": "20-10-2025",
+        "horarios": [
+          { "inicio": "10:00", "fin": "12:00" },
+          { "inicio": "16:30", "fin": "19:00" }
+        ],
+        "dias_semana": "L",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "PaN: LC241, LC243, LC246, LC247, LC248",
+        "procedimiento": "PR O-SEN-00-GEN-02 v01 Mantenimiento PAN, SAD y comunicación"
+      },
+      {
+        "area": "Infraestructura",
+        "n_tarea": "453/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Limpieza puntuales de zanjas, alcantarillas y sistema de drenaje, control de vegetación.",
+        "sistema_trabajo": "EVB",
+        "pk": "195+511 a 263+384 Trayecto Durazno (DZ) -- Terminal Centenario (TC) Via 1",
+        "fecha_inicio": "20-10-2025",
+        "fecha_fin": "20-10-2025",
+        "horarios": [
+          { "inicio": "06:30", "fin": "10:00" },
+          { "inicio": "12:30", "fin": "15:30" }
+        ],
+        "dias_semana": "L",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "Mini excavadora, combinada y tractor",
+        "consideraciones": "",
+        "procedimiento": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación PR O -INF-PV-DRE-01 Limpieza de drenajes longitudinales y transversales"
+      },
+      {
+        "area": "VÍAS",
+        "n_tarea": "454/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Control ultrasónico de vías",
+        "sistema_trabajo": "EVB",
+        "pk": "229+400 a 234+400 Trayecto Carlos Reyles Sur (RS) -- Carlos Reyles Norte (RN) Via 1",
+        "fecha_inicio": "20-10-2025",
+        "fecha_fin": "20-10-2025",
+        "horarios": [
+          { "inicio": "06:30", "fin": "10:00" },
+          { "inicio": "12:30", "fin": "15:30" }
+        ],
+        "dias_semana": "L",
+        "responsable": "Se puede realizar con encargado de trabajo en conjunto con tarea N° 453/10",
+        "maquinaria": "",
+        "consideraciones": "",
+        "procedimiento": "PR O-VIA-PV-RIE-002 Control ultrasónico"
+      },
+      {
+        "area": "VÍAS",
+        "n_tarea": "455/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Control geométrico de vía corriente",
+        "sistema_trabajo": "EVB",
+        "pk": "234+500 a 249+000 Trayecto Carlos Reyles Sur (RS) -- Bifurcación Paso de los Toros (PT) Via 1",
+        "fecha_inicio": "20-10-2025",
+        "fecha_fin": "20-10-2025",
+        "horarios": [
+          { "inicio": "06:30", "fin": "10:00" },
+          { "inicio": "12:30", "fin": "15:30" }
+        ],
+        "dias_semana": "L",
+        "responsable": "Se puede realizar con encargado de trabajo en conjunto con tarea N° 453/10",
+        "maquinaria": "",
+        "consideraciones": "Viene de la reocrrida en cabina del 08/10/2025 de OT -065222, se mide en los siguientes PKs: 248+900 / 242+900 / 238+400 / 234+500",
+        "procedimiento": "PR O-VIA-PV-BAL-004 Control geométrico de vía corriente"
+      }
+    ],
+    "TRABAJOS EN ESTACIÓN": [
+      {
+        "area": "Señalización",
+        "n_tarea": "456/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Cambios - Operaciones cada 12 meses o 24000 maniobras",
+        "sistema_trabajo": "ESTACIÓN",
+        "pk": "002+780 a 003+349 Lorenzo Carnelli (LC)",
+        "fecha_inicio": "20-10-2025",
+        "fecha_fin": "20-10-2025",
+        "horarios": [
+          { "inicio": "11:30", "fin": "12:30" },
+          { "inicio": "17:00", "fin": "21:00" }
+        ],
+        "dias_semana": "L",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "Cambios: 7 -LC, 5-LC, 3-LC, 1-LC",
+        "procedimiento": "PR O-SEN-00-MDC-01 v02 Mantenimiento de accionamientos"
+      },
+      {
+        "area": "VÍAS",
+        "n_tarea": "457/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Revisión de seguridad de toperas",
+        "sistema_trabajo": "ESTACIÓN",
+        "pk": "000+478 a 001+800 (PE) Peñarol (PE)",
+        "fecha_inicio": "20-10-2025",
+        "fecha_fin": "20-10-2025",
+        "horarios": [{ "inicio": "05:00", "fin": "22:00" }],
+        "dias_semana": "L",
+        "responsable": "Se puede realizar con encargado de trabajo en conjunto con tarea N° 458/10",
+        "maquinaria": "",
+        "consideraciones": "Ramal Peñarol: 7817 -21-60",
+        "procedimiento": "PO O-VIA-PV-TOP-001 Revisión de seguridad de las toperas"
+      },
+      {
+        "area": "VÍAS",
+        "n_tarea": "458/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Mantenimiento de PAN",
+        "sistema_trabajo": "ESTACIÓN",
+        "pk": "000+500 a 001+900 (PE) Peñarol (PE)",
+        "fecha_inicio": "20-10-2025",
+        "fecha_fin": "20-10-2025",
+        "horarios": [{ "inicio": "05:00", "fin": "22:00" }],
+        "dias_semana": "L",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "Pans: LC291; Camino General Máximo Santos. Ramal Sayago -Peñarol / LC292; Camino Edison. Ramal Sayago - Peñarol / LC293; Bvar. Aparicio Saravia. Ramal Sayago-Peñarol / LC297; Estación Peñarol. Ramal Sayago-Peñarol",
+        "procedimiento": "PR O-VIA-CO-PAN-001 Mantenimiento y reparación de PaN"
+      },
+      {
+        "area": "VÍAS",
+        "n_tarea": "459/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Revisión de seguridad de toperas",
+        "sistema_trabajo": "ESTACIÓN",
+        "pk": "059+487 a 062+521 25 de Agosto (AG)",
+        "fecha_inicio": "20-10-2025",
+        "fecha_fin": "20-10-2025",
+        "horarios": [
+          { "inicio": "08:00", "fin": "09:00" },
+          { "inicio": "10:00", "fin": "12:30" },
+          { "inicio": "15:30", "fin": "19:00" }
+        ],
+        "dias_semana": "L",
+        "responsable": "Se puede realizar con encargado de trabajo en conjunto con tarea N° 447/10",
+        "maquinaria": "",
+        "consideraciones": "25 de agosto: 7817 -21-1 / 7817-21-2 / 7817-21-15 / 7817 -21-8 / 7817-21-5",
+        "procedimiento": "PO O-VIA-PV-TOP-001 Revisión de seguridad de las toperas"
+      },
+      {
+        "area": "Señalización",
+        "n_tarea": "460/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Cambios - Operaciones cada 12 meses o 24000 maniobras",
+        "sistema_trabajo": "ESTACIÓN",
+        "pk": "064+003 a 064+128 Independencia (IN)",
+        "fecha_inicio": "20-10-2025",
+        "fecha_fin": "20-10-2025",
+        "horarios": [
+          { "inicio": "08:00", "fin": "09:00" },
+          { "inicio": "10:00", "fin": "12:30" },
+          { "inicio": "15:30", "fin": "19:00" }
+        ],
+        "dias_semana": "L",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "Cambios: 2 -IN, 4-IN, 6-IN",
+        "procedimiento": "PR O-SEN-00-MDC-01 v02 Mantenimiento de accionamientos"
+      },
+      {
+        "area": "VÍAS",
+        "n_tarea": "461/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Inspección de curvas y engrase manual",
+        "sistema_trabajo": "ESTACIÓN",
+        "pk": "088+200 a 088+500 25 de Mayo (MY)",
+        "fecha_inicio": "20-10-2025",
+        "fecha_fin": "20-10-2025",
+        "horarios": [
+          { "inicio": "09:30", "fin": "13:00" },
+          { "inicio": "13:30", "fin": "14:30" },
+          { "inicio": "15:00", "fin": "19:30" }
+        ],
+        "dias_semana": "L",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "",
+        "procedimiento": "PR O-VIA-PV-ENG-001 Inspección de curvas y engrase manual"
+      }
+    ],
+    "TRABAJOS EN ZONA DE SEGURIDAD": [
+      {
+        "area": "Infraestructura",
+        "n_tarea": "462/10",
+        "zona_ocupacion": "SEGURIDAD",
+        "descripcion": "Control de Vegetación",
+        "sistema_trabajo": "",
+        "pk": "000+500 a 059+784 Trayecto Nueva Terminal Montevideo (MV) -- 25 de Agosto (AG)",
+        "fecha_inicio": "20-10-2025",
+        "fecha_fin": "20-10-2025",
+        "horarios": [{ "inicio": "05:00", "fin": "23:59" }],
+        "dias_semana": "L",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "",
+        "procedimiento": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación"
+      },
+      {
+        "area": "Infraestructura",
+        "n_tarea": "463/10",
+        "zona_ocupacion": "SEGURIDAD",
+        "descripcion": "Control de vegetación",
+        "sistema_trabajo": "",
+        "pk": "060+000 a 148+000 Trayecto 25 de Agosto (AG) -- Sarandí (SR)",
+        "fecha_inicio": "20-10-2025",
+        "fecha_fin": "20-10-2025",
+        "horarios": [{ "inicio": "05:00", "fin": "23:59" }],
+        "dias_semana": "L",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "Tractor",
+        "consideraciones": "",
+        "procedimiento": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación"
+      },
+      {
+        "area": "Infraestructura",
+        "n_tarea": "464/10",
+        "zona_ocupacion": "SEGURIDAD",
+        "descripcion": "Control de vegetación",
+        "sistema_trabajo": "",
+        "pk": "155+552 a 260+034 Trayecto Sarandí (SR) -- Terminal Centenario (TC)",
+        "fecha_inicio": "20-10-2025",
+        "fecha_fin": "20-10-2025",
+        "horarios": [{ "inicio": "05:00", "fin": "23:59" }],
+        "dias_semana": "L",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "Tractor",
+        "consideraciones": "",
+        "procedimiento": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación"
+      }
+    ],
+    "TRABAJOS EN INSTALACIONES DE SEGURIDAD SIN ACCESO A ZONA DE PELIGRO": [
+      {
+        "area": "Señalización",
+        "n_tarea": "465/10",
+        "zona_ocupacion": "",
+        "descripcion": "Mantenimiento de Servidores",
+        "sistema_trabajo": "Instalaciones de seguridad sin acceso a zona de peligro",
+        "pk": "000+000 a 000+000 Nueva Terminal Montevideo (MV)",
+        "fecha_inicio": "20-10-2025",
+        "fecha_fin": "20-10-2025",
+        "horarios": [{ "inicio": "05:00", "fin": "23:59" }],
+        "dias_semana": "L",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "Sala técnica: CTC",
+        "procedimiento": "PR O-SEN-00-LOC-02 v01 mantenimiento diario de servidores"
+      },
+      {
+        "area": "Señalización",
+        "n_tarea": "466/10",
+        "zona_ocupacion": "",
+        "descripcion": "Trabajos asociados a la unidad de mantenimiento de energía en el LT",
+        "sistema_trabajo": "Instalaciones de seguridad sin acceso a zona de peligro",
+        "pk": "104+950 a 104+950 Florida (FL)",
+        "fecha_inicio": "20-10-2025",
+        "fecha_fin": "20-10-2025",
+        "horarios": [{ "inicio": "05:00", "fin": "23:59" }],
+        "dias_semana": "L",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "Sala técnica Florida",
+        "procedimiento": "PR O-SEN-00-LOC-01 v02 Locales Técnicos - Enclavamientos y Equipos de energía"
+      }
+    ],
+    "ILT": [
+      {
+        "area": "VÍAS",
+        "n_tarea": "467/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Inspección de curvas y engrase manual",
+        "sistema_trabajo": "ILT",
+        "pk": "198+270 a 198+770 Trayecto Durazno (DZ) -- Villasboas (VI) Via 1",
+        "fecha_inicio": "20-10-2025",
+        "fecha_fin": "20-10-2025",
+        "horarios": [{ "inicio": "05:00", "fin": "23:59" }],
+        "dias_semana": "L",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "",
+        "procedimiento": "PR O-VIA-PV-ENG-001 Inspección de curvas y engrase manual"
+      }
+    ]
+  },
+  "MARTES": {
+    "EVB": [
+      {
+        "area": "Infraestructura",
+        "n_tarea": "468/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Control de Vegetación",
+        "sistema_trabajo": "EVB",
+        "pk": "000+500 a 008+230 Trayecto Nueva Terminal Montevideo (MV) -- Sayago (SY) Via 1y2",
+        "fecha_inicio": "21-10-2025",
+        "fecha_fin": "21-10-2025",
+        "horarios": [
+          { "inicio": "13:00", "fin": "16:00" },
+          { "inicio": "17:30", "fin": "21:00" }
+        ],
+        "dias_semana": "M",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "",
+        "procedimiento": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación"
+      },
+      {
+        "area": "Señalización",
+        "n_tarea": "469/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Cuenta Ejes - Mantenimiento anual de cuenta ejes",
+        "sistema_trabajo": "EVB",
+        "pk": "023+776 a 025+589 Trayecto Crossover (CR) -- Progreso (PR) Via 1y2",
+        "fecha_inicio": "21-10-2025",
+        "fecha_fin": "21-10-2025",
+        "horarios": [
+          { "inicio": "05:30", "fin": "10:30" },
+          { "inicio": "11:00", "fin": "13:00" },
+          { "inicio": "13:30", "fin": "16:00" }
+        ],
+        "dias_semana": "M",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "Cuenta ejes: TYCRPR/AE´4, TYCRPR/AE´2, AE´4/E´4, AE´2/E´2",
+        "procedimiento": "PR O-SEN-00-CDE-01 v02 Mantenimiento de Contadores de Ejes"
+      },
+      {
+        "area": "Infraestructura",
+        "n_tarea": "470/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Limpiezas puntuales de zanjas, alcantarillas y sistema de drenaje",
+        "sistema_trabajo": "EVB",
+        "pk": "032+500 a 033+000 Trayecto Progreso (PR) -- Massaro (MS) Via 1",
+        "fecha_inicio": "21-10-2025",
+        "fecha_fin": "21-10-2025",
+        "horarios": [
+          { "inicio": "05:30", "fin": "10:00" },
+          { "inicio": "11:00", "fin": "13:30" },
+          { "inicio": "14:00", "fin": "15:30" }
+        ],
+        "dias_semana": "M",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "",
+        "procedimiento": "PR O-INF-PV-DRE-01 Limpieza de drenajes longitudinales y transversales"
+      },
+      {
+        "area": "Infraestructura",
+        "n_tarea": "471/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Limpiezas puntuales de zanjas, alcantarillas y sistema de drenaje",
+        "sistema_trabajo": "EVB",
+        "pk": "040+000 a 043+000 Trayecto Massaro (MS) -- Canelones (CN) Via 1",
+        "fecha_inicio": "21-10-2025",
+        "fecha_fin": "21-10-2025",
+        "horarios": [
+          { "inicio": "07:30", "fin": "10:00" },
+          { "inicio": "10:30", "fin": "12:00" },
+          { "inicio": "14:00", "fin": "15:30" }
+        ],
+        "dias_semana": "M",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "",
+        "procedimiento": "PR O-INF-PV-DRE-01 Limpieza de drenajes longitudinales y transversales"
+      },
+      {
+        "area": "VÍAS",
+        "n_tarea": "472/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Veriﬁcación de las ﬁjaciones y de traviesas de vía (Inspección de los componentes de vía)",
+        "sistema_trabajo": "EVB",
+        "pk": "058+700 a 061+300 Trayecto Santa Lucía (SL) -- 25 de Agosto (AG) Via 1",
+        "fecha_inicio": "21-10-2025",
+        "fecha_fin": "21-10-2025",
+        "horarios": [
+          { "inicio": "08:00", "fin": "09:30" },
+          { "inicio": "10:00", "fin": "12:30" },
+          { "inicio": "15:30", "fin": "19:00" }
+        ],
+        "dias_semana": "M",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "",
+        "procedimiento": "PO O-VIA-PV-INS-001 Recorridos a pie y en cabina"
+      },
+      {
+        "area": "VÍAS",
+        "n_tarea": "473/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Revisión de seguridad de toperas",
+        "sistema_trabajo": "EVB",
+        "pk": "063+621 a 079+561 Trayecto independencia (IN) -- Cardal (CD) Via 1",
+        "fecha_inicio": "21-10-2025",
+        "fecha_fin": "21-10-2025",
+        "horarios": [
+          { "inicio": "08:00", "fin": "09:00" },
+          { "inicio": "10:00", "fin": "12:30" },
+          { "inicio": "15:30", "fin": "19:00" }
+        ],
+        "dias_semana": "M",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "Independencia: 7817 -21-40 / 7817 -21-41. Cardal: 7817 -21-18 / 7817 -21-16.",
+        "procedimiento": "PO O-VIA-PV-TOP-001 Revisión de seguridad de las toperas"
+      },
+      {
+        "area": "Señalización",
+        "n_tarea": "474/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Instalación de extractores en Armario PaN",
+        "sistema_trabajo": "EVB",
+        "pk": "097+640 a 097+640 Trayecto 25 de Mayo (MY) -- Florida(FL) Via 1",
+        "fecha_inicio": "21-10-2025",
+        "fecha_fin": "21-10-2025",
+        "horarios": [
+          { "inicio": "05:00", "fin": "08:00" },
+          { "inicio": "09:30", "fin": "13:30" },
+          { "inicio": "15:00", "fin": "20:00" }
+        ],
+        "dias_semana": "M",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "PaN: LC149",
+        "procedimiento": "-"
+      },
+      {
+        "area": "Señalización",
+        "n_tarea": "475/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "CCTV - Mantenimiento semestral",
+        "sistema_trabajo": "EVB",
+        "pk": "104+363 a 197+374 Trayecto Florida (FL) -- Durazno (DZ) Via 1",
+        "fecha_inicio": "21-10-2025",
+        "fecha_fin": "21-10-2025",
+        "horarios": [
+          { "inicio": "05:00", "fin": "06:30" },
+          { "inicio": "10:00", "fin": "12:30" },
+          { "inicio": "16:30", "fin": "19:00" }
+        ],
+        "dias_semana": "M",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "DRE-VF-02 E: V5 Florida Norte D: V5 Florida",
+        "consideraciones": "Cámaras de Estación Durazno: Cámara 17, Cámara 18",
+        "procedimiento": "PR O-SEN-00-GEN-02 v01 Mantenimiento de cámaras de monitoreo"
+      },
+      {
+        "area": "Infraestructura",
+        "n_tarea": "476/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Limpieza puntuales de zanjas, alcantarillas y sistema de drenaje, control de vegetación.",
+        "sistema_trabajo": "EVB",
+        "pk": "108+818 a 140+028 Trayecto Florida Norte (FN) -- Pintado (PI) Via 1",
+        "fecha_inicio": "21-10-2025",
+        "fecha_fin": "21-10-2025",
+        "horarios": [
+          { "inicio": "09:00", "fin": "13:30" },
+          { "inicio": "15:30", "fin": "20:00" }
+        ],
+        "dias_semana": "M",
+        "responsable": "Se puede realizar con encargado de trabajo en conjunto con tarea N° 475/10",
+        "maquinaria": "Mini excavadora, combinada y tractor",
+        "consideraciones": "",
+        "procedimiento": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación PR O -INF-PV-DRE-01 Limpieza de drenajes longitudinales y transversales"
+      },
+      {
+        "area": "Infraestructura",
+        "n_tarea": "477/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Limpieza puntuales de zanjas, alcantarillas y sistema de drenaje, control de vegetación.",
+        "sistema_trabajo": "EVB",
+        "pk": "140+028 a 164+864 Trayecto Pintado (PI) -- Punta de Maciel (MA) Via 1",
+        "fecha_inicio": "21-10-2025",
+        "fecha_fin": "21-10-2025",
+        "horarios": [
+          { "inicio": "09:30", "fin": "13:00" },
+          { "inicio": "16:00", "fin": "19:30" }
+        ],
+        "dias_semana": "M",
+        "responsable": "Se puede realizar con encargado de trabajo en conjunto con tarea N° 475/10",
+        "maquinaria": "Mini excavadora, combinada y tractor",
+        "consideraciones": "",
+        "procedimiento": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación PR O -INF-PV-DRE-01 Limpieza de drenajes longitudinales y transversales"
+      },
+      {
+        "area": "VÍAS",
+        "n_tarea": "478/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Control geométrico de vía corriente / Recorridos a pie.",
+        "sistema_trabajo": "EVB",
+        "pk": "172+000 a 198+779 Trayecto Puntas de Maciel (MA) -- Villasboas (VI) Via 1",
+        "fecha_inicio": "21-10-2025",
+        "fecha_fin": "21-10-2025",
+        "horarios": [
+          { "inicio": "07:00", "fin": "09:30" },
+          { "inicio": "10:00", "fin": "12:30" },
+          { "inicio": "13:00", "fin": "15:00" }
+        ],
+        "dias_semana": "M",
+        "responsable": "Se puede realizar con encargado de trabajo en conjunto con tarea N° 475/10",
+        "maquinaria": "",
+        "consideraciones": "Viene de la reocrrida en cabina del 08/10/2025 de OT -065222, se mide en los siguientes PKs: 224+150 / 218+800 / 218+400 / 191+600",
+        "procedimiento": "PR O-VIA-PV-BAL-004 Control geométrico de vía corriente. PO O -VIA-PV-INS-001 Recorridos a pie y en cabina"
+      },
+      {
+        "area": "Señalización",
+        "n_tarea": "479/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Pasos a Nivel - Mantenimiento semestral",
+        "sistema_trabajo": "EVB",
+        "pk": "198+749 a 203+920 Trayecto Durazno (DZ) -- Villasboas (VI) Via 1",
+        "fecha_inicio": "21-10-2025",
+        "fecha_fin": "21-10-2025",
+        "horarios": [
+          { "inicio": "06:30", "fin": "10:00" },
+          { "inicio": "10:30", "fin": "12:00" },
+          { "inicio": "12:30", "fin": "15:30" }
+        ],
+        "dias_semana": "M",
+        "responsable": "Se puede realizar con encargado de trabajo en conjunto con tarea N° 480/10",
+        "maquinaria": "",
+        "consideraciones": "PaN: LC249, LC250, LC251, LC252, LC254",
+        "procedimiento": "PR O-SEN-00-GEN-02 v01 Mantenimiento PAN, SAD y comunicación"
+      },
+      {
+        "area": "Infraestructura",
+        "n_tarea": "480/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Limpieza puntuales de zanjas, alcantarillas y sistema de drenaje, control de vegetación.",
+        "sistema_trabajo": "EVB",
+        "pk": "198+780 a 263+384 Trayecto Durazno (DZ) -- Terminal Centenario (TC) Via 1",
+        "fecha_inicio": "21-10-2025",
+        "fecha_fin": "21-10-2025",
+        "horarios": [
+          { "inicio": "06:30", "fin": "10:00" },
+          { "inicio": "12:30", "fin": "15:30" }
+        ],
+        "dias_semana": "M",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "Mini excavadora, combinada y tractor",
+        "consideraciones": "",
+        "procedimiento": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación PR O -INF-PV-DRE-01 Limpieza de drenajes longitudinales y transversales"
+      },
+      {
+        "area": "VÍAS",
+        "n_tarea": "481/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Control ultrasónico de vías",
+        "sistema_trabajo": "EVB",
+        "pk": "234+400 a 239+400 Trayecto Carlos Reyles Sur (RS) -- Carlos Reyles Norte (RN) Via 1",
+        "fecha_inicio": "21-10-2025",
+        "fecha_fin": "21-10-2025",
+        "horarios": [
+          { "inicio": "06:00", "fin": "10:30" },
+          { "inicio": "12:00", "fin": "16:00" }
+        ],
+        "dias_semana": "M",
+        "responsable": "Se puede realizar con encargado de trabajo en conjunto con tarea N° 480/10",
+        "maquinaria": "",
+        "consideraciones": "",
+        "procedimiento": "PR O-VIA-PV-RIE-002 Control ultrasónico"
+      }
+    ],
+    "TRABAJOS EN ESTACIÓN": [
+      {
+        "area": "VÍAS",
+        "n_tarea": "482/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Inspección de curvas y engrase manual",
+        "sistema_trabajo": "ESTACIÓN",
+        "pk": "000+150 a 000+350 Nueva Terminal Montevideo (MV)",
+        "fecha_inicio": "21-10-2025",
+        "fecha_fin": "21-10-2025",
+        "horarios": [
+          { "inicio": "06:30", "fin": "10:00" },
+          { "inicio": "13:00", "fin": "16:00" },
+          { "inicio": "17:30", "fin": "21:00" }
+        ],
+        "dias_semana": "M",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "",
+        "procedimiento": "PR O-VIA-PV-ENG-001 Inspección de curvas y engrase manual"
+      },
+      {
+        "area": "VÍAS",
+        "n_tarea": "483/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Revisión de seguridad de toperas",
+        "sistema_trabajo": "ESTACIÓN",
+        "pk": "000+500 a 001+890 Nueva Terminal Montevideo (MV)",
+        "fecha_inicio": "21-10-2025",
+        "fecha_fin": "21-10-2025",
+        "horarios": [
+          { "inicio": "06:30", "fin": "10:00" },
+          { "inicio": "11:30", "fin": "12:30" }
+        ],
+        "dias_semana": "M",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "Estación Montevideo: 7817 -21-10 / 7817 -21-64 / 7817 -21-58",
+        "procedimiento": "PO O-VIA-PV-TOP-001 Revisión de seguridad de las toperas"
+      },
+      {
+        "area": "Señalización",
+        "n_tarea": "484/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Cambios - Operaciones cada 12 meses o 24000 maniobras",
+        "sistema_trabajo": "ESTACIÓN",
+        "pk": "196+127 a 197+012 Durazno (DZ)",
+        "fecha_inicio": "21-10-2025",
+        "fecha_fin": "21-10-2025",
+        "horarios": [
+          { "inicio": "06:30", "fin": "10:00" },
+          { "inicio": "10:30", "fin": "12:00" },
+          { "inicio": "12:30", "fin": "15:30" }
+        ],
+        "dias_semana": "M",
+        "responsable": "Se puede realizar con encargado de trabajo en conjunto con tarea N° 475/10",
+        "maquinaria": "",
+        "consideraciones": "Cambios: 10 -DZ, 3-DZ, 1-DZ",
+        "procedimiento": "PR O-SEN-00-MDC-01 v02 Mantenimiento de accionamientos"
+      }
+    ],
+    "TRABAJOS EN ZONA DE SEGURIDAD": [
+      {
+        "area": "Infraestructura",
+        "n_tarea": "485/10",
+        "zona_ocupacion": "SEGURIDAD",
+        "descripcion": "Control de Vegetación",
+        "sistema_trabajo": "",
+        "pk": "000+500 a 059+784 Trayecto Nueva Terminal Montevideo (MV) -- 25 de Agosto (AG)",
+        "fecha_inicio": "21-10-2025",
+        "fecha_fin": "21-10-2025",
+        "horarios": [{ "inicio": "05:00", "fin": "23:59" }],
+        "dias_semana": "M",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "",
+        "procedimiento": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación"
+      },
+      {
+        "area": "Infraestructura",
+        "n_tarea": "486/10",
+        "zona_ocupacion": "SEGURIDAD",
+        "descripcion": "Control de vegetación",
+        "sistema_trabajo": "",
+        "pk": "060+000 a 148+000 Trayecto 25 de Agosto (AG) -- Sarandí (SR)",
+        "fecha_inicio": "21-10-2025",
+        "fecha_fin": "21-10-2025",
+        "horarios": [{ "inicio": "05:00", "fin": "23:59" }],
+        "dias_semana": "M",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "Tractor",
+        "consideraciones": "",
+        "procedimiento": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación"
+      },
+      {
+        "area": "Infraestructura",
+        "n_tarea": "487/10",
+        "zona_ocupacion": "SEGURIDAD",
+        "descripcion": "Control de vegetación",
+        "sistema_trabajo": "",
+        "pk": "155+552 a 260+034 Trayecto Sarandí (SR) -- Terminal Centenario (TC)",
+        "fecha_inicio": "21-10-2025",
+        "fecha_fin": "21-10-2025",
+        "horarios": [{ "inicio": "05:00", "fin": "23:59" }],
+        "dias_semana": "M",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "Tractor",
+        "consideraciones": "",
+        "procedimiento": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación"
+      }
+    ],
+    "TRABAJOS EN INSTALACIONES DE SEGURIDAD SIN ACCESO A ZONA DE PELIGRO": [
+      {
+        "area": "Señalización",
+        "n_tarea": "488/10",
+        "zona_ocupacion": "",
+        "descripcion": "Mantenimiento de Servidores",
+        "sistema_trabajo": "Instalaciones de seguridad sin acceso a zona de peligro",
+        "pk": "000+000 a 000+000 Nueva Terminal Montevideo (MV)",
+        "fecha_inicio": "21-10-2025",
+        "fecha_fin": "21-10-2025",
+        "horarios": [{ "inicio": "05:00", "fin": "23:59" }],
+        "dias_semana": "M",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "Sala técnica: CTC",
+        "procedimiento": "PR O-SEN-00-LOC-02 v01 mantenimiento diario de servidores"
+      },
+      {
+        "area": "Señalización",
+        "n_tarea": "489/10",
+        "zona_ocupacion": "",
+        "descripcion": "Trabajos asociados a la unidad de mantenimiento de energía en el LT",
+        "sistema_trabajo": "Instalaciones de seguridad sin acceso a zona de peligro",
+        "pk": "109+938 a 109+938 Florida Norte (FN)",
+        "fecha_inicio": "21-10-2025",
+        "fecha_fin": "21-10-2025",
+        "horarios": [{ "inicio": "05:00", "fin": "23:59" }],
+        "dias_semana": "M",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "Sala técnica Florida Norte",
+        "procedimiento": "PR O-SEN-00-LOC-01 v02 Locales Técnicos - Enclavamientos y Equipos de energía"
+      },
+      {
+        "area": "Señalización",
+        "n_tarea": "490/10",
+        "zona_ocupacion": "",
+        "descripcion": "Trabajos asociados a la unidad de mantenimiento de energía en el LT",
+        "sistema_trabajo": "Instalaciones de seguridad sin acceso a zona de peligro",
+        "pk": "123+350 a 123+350 La Cruz (CU)",
+        "fecha_inicio": "21-10-2025",
+        "fecha_fin": "21-10-2025",
+        "horarios": [{ "inicio": "05:00", "fin": "23:59" }],
+        "dias_semana": "M",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "Sala técnica La Cruz",
+        "procedimiento": "PR O-SEN-00-LOC-01 v02 Locales Técnicos - Enclavamientos y Equipos de energía"
+      },
+      {
+        "area": "Señalización",
+        "n_tarea": "491/10",
+        "zona_ocupacion": "",
+        "descripcion": "Radio - Mantenimiento semestral de sistema de radio",
+        "sistema_trabajo": "Instalaciones de seguridad sin acceso a zona de peligro",
+        "pk": "196+000 a 196+000 Durazno (DZ)",
+        "fecha_inicio": "21-10-2025",
+        "fecha_fin": "21-10-2025",
+        "horarios": [{ "inicio": "05:00", "fin": "23:59" }],
+        "dias_semana": "M",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "Sala de radio Durazno",
+        "procedimiento": "PR O-SEN-00-GEN-02 v01 Mantenimiento de cámaras de monitoreo"
+      },
+      {
+        "area": "Señalización",
+        "n_tarea": "492/10",
+        "zona_ocupacion": "",
+        "descripcion": "Radio - Mantenimiento semestral de sistema de radio",
+        "sistema_trabajo": "Instalaciones de seguridad sin acceso a zona de peligro",
+        "pk": "263+304 a 263+304 Terminal Centenario (TC)",
+        "fecha_inicio": "21-10-2025",
+        "fecha_fin": "21-10-2025",
+        "horarios": [{ "inicio": "05:00", "fin": "23:59" }],
+        "dias_semana": "M",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "Sala de radio Terminal Centenario",
+        "procedimiento": "PR O-SEN-00-GEN-02 v01 Mantenimiento de cámaras de monitoreo"
+      }
+    ]
+  },
+  "MIÉRCOLES": {
+    "EVB": [
+      {
+        "area": "Infraestructura",
+        "n_tarea": "493/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Control de Vegetación",
+        "sistema_trabajo": "EVB",
+        "pk": "000+500 a 008+230 Trayecto Nueva Terminal Montevideo (MV) -- Sayago (SY) Via 1y2",
+        "fecha_inicio": "22-10-2025",
+        "fecha_fin": "22-10-2025",
+        "horarios": [
+          { "inicio": "13:00", "fin": "16:00" },
+          { "inicio": "17:30", "fin": "21:00" }
+        ],
+        "dias_semana": "X",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "",
+        "procedimiento": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación"
+      },
+      {
+        "area": "Infraestructura",
+        "n_tarea": "494/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Limpiezas puntuales de zanjas, alcantarillas y sistema de drenaje",
+        "sistema_trabajo": "EVB",
+        "pk": "032+500 a 033+000 Trayecto Progreso (PR) -- Massaro (MS) Via 1",
+        "fecha_inicio": "22-10-2025",
+        "fecha_fin": "22-10-2025",
+        "horarios": [
+          { "inicio": "05:30", "fin": "10:00" },
+          { "inicio": "11:00", "fin": "13:30" }
+        ],
+        "dias_semana": "X",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "",
+        "procedimiento": "PR O-INF-PV-DRE-01 Limpieza de drenajes longitudinales y transversales"
+      },
+      {
+        "area": "Señalización",
+        "n_tarea": "495/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Mantenimiento de detectores auxiliares",
+        "sistema_trabajo": "EVB",
+        "pk": "032+600 a 032+600 Trayecto Progreso (PR) -- Massaro (MS) Via 1",
+        "fecha_inicio": "22-10-2025",
+        "fecha_fin": "22-10-2025",
+        "horarios": [
+          { "inicio": "14:00", "fin": "15:30" },
+          { "inicio": "17:00", "fin": "21:00" }
+        ],
+        "dias_semana": "X",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "Detectores de ejes calientes y rueda plana Juanicó",
+        "procedimiento": "PR O-SEN-00-GEN-02 v01"
+      },
+      {
+        "area": "Infraestructura",
+        "n_tarea": "496/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Limpiezas puntuales de zanjas, alcantarillas y sistema de drenaje",
+        "sistema_trabajo": "EVB",
+        "pk": "040+000 a 043+000 Trayecto Massaro (MS) -- Canelones (CN) Via 1",
+        "fecha_inicio": "22-10-2025",
+        "fecha_fin": "22-10-2025",
+        "horarios": [
+          { "inicio": "07:30", "fin": "10:00" },
+          { "inicio": "10:30", "fin": "12:30" },
+          { "inicio": "14:00", "fin": "15:30" }
+        ],
+        "dias_semana": "X",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "",
+        "procedimiento": "PR O-INF-PV-DRE-01 Limpieza de drenajes longitudinales y transversales"
+      },
+      {
+        "area": "VÍAS",
+        "n_tarea": "497/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Control geométrico de vía corriente",
+        "sistema_trabajo": "EVB",
+        "pk": "048+000 a 077+500 Trayecto Canelones (CN) -- Cardal (CD) Via 1",
+        "fecha_inicio": "22-10-2025",
+        "fecha_fin": "22-10-2025",
+        "horarios": [
+          { "inicio": "08:00", "fin": "09:30" },
+          { "inicio": "10:00", "fin": "12:30" },
+          { "inicio": "16:00", "fin": "19:00" }
+        ],
+        "dias_semana": "X",
+        "responsable": "Se puede realizar con encargado de trabajo en conjunto con tarea N° 499/10",
+        "maquinaria": "",
+        "consideraciones": "Viene de la reocrrida en cabina del 08/10/2025 de OT -065222, se mide en los siguientes PKs: 189+670 / 176+600 / 172+720",
+        "procedimiento": "PR O-VIA-PV-BAL-004 Control geométrico de vía corriente"
+      },
+      {
+        "area": "VÍAS",
+        "n_tarea": "498/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Veriﬁcación de las ﬁjaciones y de traviesas de vía (Inspección de los componentes de vía)",
+        "sistema_trabajo": "EVB",
+        "pk": "058+700 a 061+300 Trayecto Santa Lucía (SL) -- 25 de Agosto (AG) Via 1",
+        "fecha_inicio": "22-10-2025",
+        "fecha_fin": "22-10-2025",
+        "horarios": [
+          { "inicio": "07:30", "fin": "09:30" },
+          { "inicio": "10:00", "fin": "13:00" },
+          { "inicio": "15:30", "fin": "19:00" }
+        ],
+        "dias_semana": "X",
+        "responsable": "Se puede realizar con encargado de trabajo en conjunto con tarea N° 499/10",
+        "maquinaria": "",
+        "consideraciones": "",
+        "procedimiento": "PO O-VIA-PV-INS-001 Recorridos a pie y en cabina"
+      },
+      {
+        "area": "Señalización",
+        "n_tarea": "499/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "CCTV - Mantenimiento semestral",
+        "sistema_trabajo": "EVB",
+        "pk": "059+487 a 108+818 Trayecto 25 de Agosto (AG) -- Florida Norte (FN) Via 1",
+        "fecha_inicio": "22-10-2025",
+        "fecha_fin": "22-10-2025",
+        "horarios": [
+          { "inicio": "05:00", "fin": "07:30" },
+          { "inicio": "10:00", "fin": "13:00" },
+          { "inicio": "15:30", "fin": "19:00" }
+        ],
+        "dias_semana": "X",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "DRE-VF-02 E: V5 Florida D: V5 Florida Norte",
+        "consideraciones": "Cámaras de Estación 25 de Agosto: Cámara 13, Cámara 14",
+        "procedimiento": "PR O-SEN-00-GEN-02 v01 Mantenimiento de cámaras de monitoreo"
+      },
+      {
+        "area": "VÍAS",
+        "n_tarea": "500/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Revisión de seguridad de toperas",
+        "sistema_trabajo": "EVB",
+        "pk": "086+855 a 107+257 Trayecto 25 de Mayo (MY) -- Florida (FL) Via 1",
+        "fecha_inicio": "22-10-2025",
+        "fecha_fin": "22-10-2025",
+        "horarios": [
+          { "inicio": "05:00", "fin": "08:00" },
+          { "inicio": "09:30", "fin": "13:30" },
+          { "inicio": "15:00", "fin": "19:30" }
+        ],
+        "dias_semana": "X",
+        "responsable": "Se puede realizar con encargado de trabajo en conjunto con tarea N° 499/10",
+        "maquinaria": "",
+        "consideraciones": "25 de mayo: 7817 -21-19 / 7817 -21-17. Florida 7817 -21-14 / 7817 -21-35.",
+        "procedimiento": "PO O-VIA-PV-TOP-001 Revisión de seguridad de las toperas"
+      },
+      {
+        "area": "Señalización",
+        "n_tarea": "501/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Instalación de extractores en Armario PaN",
+        "sistema_trabajo": "EVB",
+        "pk": "108+045 a 110+479 Trayecto Florida (FL) -- Florida Norte (FN) Via 1",
+        "fecha_inicio": "22-10-2025",
+        "fecha_fin": "22-10-2025",
+        "horarios": [
+          { "inicio": "05:00", "fin": "08:00" },
+          { "inicio": "09:00", "fin": "13:30" },
+          { "inicio": "15:30", "fin": "20:00" }
+        ],
+        "dias_semana": "X",
+        "responsable": "Se puede realizar con encargado de trabajo en conjunto con tarea N° 499/10",
+        "maquinaria": "",
+        "consideraciones": "PaN: LC163, LC166",
+        "procedimiento": "-"
+      },
+      {
+        "area": "Infraestructura",
+        "n_tarea": "502/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Limpieza puntuales de zanjas, alcantarillas y sistema de drenaje, control de vegetación.",
+        "sistema_trabajo": "EVB",
+        "pk": "110+480 a 140+028 Trayecto Florida Norte (FN) -- Pintado (PI) Via 1",
+        "fecha_inicio": "22-10-2025",
+        "fecha_fin": "22-10-2025",
+        "horarios": [
+          { "inicio": "09:00", "fin": "13:30" },
+          { "inicio": "15:30", "fin": "20:00" }
+        ],
+        "dias_semana": "X",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "Mini excavadora, combinada y tractor",
+        "consideraciones": "",
+        "procedimiento": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación PR O -INF-PV-DRE-01 Limpieza de drenajes longitudinales y transversales"
+      },
+      {
+        "area": "Infraestructura",
+        "n_tarea": "503/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Limpieza puntuales de zanjas, alcantarillas y sistema de drenaje, control de vegetación.",
+        "sistema_trabajo": "EVB",
+        "pk": "140+028 a 164+864 Trayecto Pintado (PI) -- Punta de Maciel (MA) Via 1",
+        "fecha_inicio": "22-10-2025",
+        "fecha_fin": "22-10-2025",
+        "horarios": [
+          { "inicio": "09:30", "fin": "13:00" },
+          { "inicio": "16:00", "fin": "19:30" }
+        ],
+        "dias_semana": "X",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "Mini excavadora, combinada y tractor",
+        "consideraciones": "",
+        "procedimiento": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación PR O -INF-PV-DRE-01 Limpieza de drenajes longitudinales y transversales"
+      },
+      {
+        "area": "VÍAS",
+        "n_tarea": "504/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Cambio de traviesa de hormigón",
+        "sistema_trabajo": "EVB",
+        "pk": "172+915 Trayecto Puntas de Maciel (MA) -- Goñi (GO) Via 1",
+        "fecha_inicio": "22-10-2025",
+        "fecha_fin": "22-10-2025",
+        "horarios": [
+          { "inicio": "07:00", "fin": "09:00" },
+          { "inicio": "09:30", "fin": "12:30" },
+          { "inicio": "13:00", "fin": "15:00" }
+        ],
+        "dias_semana": "X",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "Bivial E: LC220 D: LC220",
+        "consideraciones": "Surge de la recorrida a pie 14/10 con OT -065119",
+        "procedimiento": "PR O-VIA-CO-DUR-001 Cambio de durmientes"
+      },
+      {
+        "area": "Infraestructura",
+        "n_tarea": "505/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Limpieza puntuales de zanjas, alcantarillas y sistema de drenaje, control de vegetación.",
+        "sistema_trabajo": "EVB",
+        "pk": "195+511 a 263+384 Trayecto Durazno (DZ) -- Terminal Centenario (TC) Via 1",
+        "fecha_inicio": "22-10-2025",
+        "fecha_fin": "22-10-2025",
+        "horarios": [
+          { "inicio": "06:30", "fin": "10:00" },
+          { "inicio": "12:30", "fin": "15:30" }
+        ],
+        "dias_semana": "X",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "Mini excavadora, combinada y tractor",
+        "consideraciones": "",
+        "procedimiento": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación PR O -INF-PV-DRE-01 Limpieza de drenajes longitudinales y transversales"
+      },
+      {
+        "area": "Señalización",
+        "n_tarea": "506/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Mantenimiento Semestral de Señales",
+        "sistema_trabajo": "EVB",
+        "pk": "230+483 a 232+089 Trayecto Carlos Reyles Sur (RS) -- Carlos Reyles Norte (RN) Via 1",
+        "fecha_inicio": "22-10-2025",
+        "fecha_fin": "22-10-2025",
+        "horarios": [
+          { "inicio": "06:00", "fin": "10:30" },
+          { "inicio": "12:00", "fin": "16:00" }
+        ],
+        "dias_semana": "X",
+        "responsable": "Se puede realizar con encargado de trabajo en conjunto con tarea N° 505/10",
+        "maquinaria": "",
+        "consideraciones": "Señales: S2/1 -RS, S2/2-RS, E1-RS, E´1-RS",
+        "procedimiento": "PR O-SEN-00-SDS-01 v02 Mantenimiento de Señales"
+      },
+      {
+        "area": "VÍAS",
+        "n_tarea": "507/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Control ultrasónico de vías",
+        "sistema_trabajo": "EVB",
+        "pk": "239+400 a 244+400 Trayecto Carlos Reyles Sur (RS) -- Carlos Reyles Norte (RN) Via 1",
+        "fecha_inicio": "22-10-2025",
+        "fecha_fin": "22-10-2025",
+        "horarios": [
+          { "inicio": "06:00", "fin": "10:30" },
+          { "inicio": "12:00", "fin": "16:00" }
+        ],
+        "dias_semana": "X",
+        "responsable": "Se puede realizar con encargado de trabajo en conjunto con tarea N° 505/10",
+        "maquinaria": "",
+        "consideraciones": "",
+        "procedimiento": "PR O-VIA-PV-RIE-002 Control ultrasónico"
+      }
+    ],
+    "TRABAJOS EN ESTACIÓN": [
+      {
+        "area": "VÍAS",
+        "n_tarea": "508/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Inspección de curvas y engrase manual",
+        "sistema_trabajo": "ESTACIÓN",
+        "pk": "001+400 a 001+500 Nueva Terminal Montevideo (MV)",
+        "fecha_inicio": "22-10-2025",
+        "fecha_fin": "22-10-2025",
+        "horarios": [
+          { "inicio": "06:30", "fin": "10:00" },
+          { "inicio": "11:30", "fin": "12:30" }
+        ],
+        "dias_semana": "X",
+        "responsable": "Se puede realizar con encargado de trabajo en conjunto con tarea N° 509/10",
+        "maquinaria": "",
+        "consideraciones": "",
+        "procedimiento": "PR O-VIA-PV-ENG-001 Inspección de curvas y engrase manual"
+      },
+      {
+        "area": "VÍAS",
+        "n_tarea": "509/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Revisión de seguridad de toperas",
+        "sistema_trabajo": "ESTACIÓN",
+        "pk": "001+886 a 003+985 Lorenzo Carnelli (LC)",
+        "fecha_inicio": "22-10-2025",
+        "fecha_fin": "22-10-2025",
+        "horarios": [
+          { "inicio": "06:30", "fin": "10:00" },
+          { "inicio": "11:30", "fin": "12:30" }
+        ],
+        "dias_semana": "X",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "Estación Lorenzo Carnelli: 7817 -21-11 / 7817 -21-12 / 7817 -21-6 / 7817-21-9",
+        "procedimiento": "PO O-VIA-PV-TOP-001 Revisión de seguridad de las toperas"
+      },
+      {
+        "area": "Señalización",
+        "n_tarea": "510/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "CCTV - Mantenimiento semestral",
+        "sistema_trabajo": "ESTACIÓN",
+        "pk": "104+700 a 105+400 Florida (FL)",
+        "fecha_inicio": "22-10-2025",
+        "fecha_fin": "22-10-2025",
+        "horarios": [
+          { "inicio": "05:00", "fin": "08:00" },
+          { "inicio": "09:00", "fin": "13:30" },
+          { "inicio": "15:00", "fin": "20:00" }
+        ],
+        "dias_semana": "X",
+        "responsable": "Se puede realizar con encargado de trabajo en conjunto con tarea N° 499/10",
+        "maquinaria": "DRE-VF-02 E: V5 Florida D: V5 Florida",
+        "consideraciones": "Cámaras de Estación Florida: Cámara 15, Cámara 16",
+        "procedimiento": "PR O-SEN-00-GEN-02 v01 Mantenimiento de cámaras de monitoreo"
+      }
+    ],
+    "TRABAJOS EN ZONA DE SEGURIDAD": [
+      {
+        "area": "Infraestructura",
+        "n_tarea": "511/10",
+        "zona_ocupacion": "SEGURIDAD",
+        "descripcion": "Control de Vegetación",
+        "sistema_trabajo": "",
+        "pk": "000+500 a 059+784 Trayecto Nueva Terminal Montevideo (MV) -- 25 de Agosto (AG)",
+        "fecha_inicio": "22-10-2025",
+        "fecha_fin": "22-10-2025",
+        "horarios": [{ "inicio": "05:00", "fin": "23:59" }],
+        "dias_semana": "X",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "",
+        "procedimiento": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación"
+      },
+      {
+        "area": "Infraestructura",
+        "n_tarea": "512/10",
+        "zona_ocupacion": "SEGURIDAD",
+        "descripcion": "Control de vegetación",
+        "sistema_trabajo": "",
+        "pk": "060+000 a 148+000 Trayecto 25 de Agosto (AG) -- Sarandí (SR)",
+        "fecha_inicio": "22-10-2025",
+        "fecha_fin": "22-10-2025",
+        "horarios": [{ "inicio": "05:00", "fin": "23:59" }],
+        "dias_semana": "X",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "Tractor",
+        "consideraciones": "",
+        "procedimiento": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación"
+      },
+      {
+        "area": "Infraestructura",
+        "n_tarea": "513/10",
+        "zona_ocupacion": "SEGURIDAD",
+        "descripcion": "Control de vegetación",
+        "sistema_trabajo": "",
+        "pk": "155+552 a 260+034 Trayecto Sarandí (SR) -- Terminal Centenario (TC)",
+        "fecha_inicio": "22-10-2025",
+        "fecha_fin": "22-10-2025",
+        "horarios": [{ "inicio": "05:00", "fin": "23:59" }],
+        "dias_semana": "X",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "Tractor",
+        "consideraciones": "",
+        "procedimiento": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación"
+      }
+    ],
+    "TRABAJOS EN INSTALACIONES DE SEGURIDAD SIN ACCESO A ZONA DE PELIGRO": [
+      {
+        "area": "Señalización",
+        "n_tarea": "514/10",
+        "zona_ocupacion": "",
+        "descripcion": "Mantenimiento de Servidores",
+        "sistema_trabajo": "Instalaciones de seguridad sin acceso a zona de peligro",
+        "pk": "000+000 a 000+000 Nueva Terminal Montevideo (MV)",
+        "fecha_inicio": "22-10-2025",
+        "fecha_fin": "22-10-2025",
+        "horarios": [{ "inicio": "05:00", "fin": "23:59" }],
+        "dias_semana": "X",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "Sala técnica: CTC",
+        "procedimiento": "PR O-SEN-00-LOC-02 v01 mantenimiento diario de servidores"
+      },
+      {
+        "area": "Señalización",
+        "n_tarea": "515/10",
+        "zona_ocupacion": "",
+        "descripcion": "Trabajos asociados a la unidad de mantenimiento de energía en el LT",
+        "sistema_trabajo": "Instalaciones de seguridad sin acceso a zona de peligro",
+        "pk": "001+610 a 001+610 Nueva Terminal Montevideo (MV)",
+        "fecha_inicio": "22-10-2025",
+        "fecha_fin": "22-10-2025",
+        "horarios": [{ "inicio": "05:00", "fin": "23:59" }],
+        "dias_semana": "X",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "Sala técnica Peñarol",
+        "procedimiento": "PR O-SEN-00-LOC-01 v02 Locales Técnicos - Enclavamientos y Equipos de energía"
+      },
+      {
+        "area": "Señalización",
+        "n_tarea": "516/10",
+        "zona_ocupacion": "",
+        "descripcion": "Trabajos asociados a la unidad de mantenimiento de energía en el LT",
+        "sistema_trabajo": "Instalaciones de seguridad sin acceso a zona de peligro",
+        "pk": "008+230 a 008+230 Sayago (SY)",
+        "fecha_inicio": "22-10-2025",
+        "fecha_fin": "22-10-2025",
+        "horarios": [{ "inicio": "05:00", "fin": "23:59" }],
+        "dias_semana": "X",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "Sala técnica Sayago",
+        "procedimiento": "PR O-SEN-00-LOC-01 v02 Locales Técnicos - Enclavamientos y Equipos de energía"
+      },
+      {
+        "area": "Señalización",
+        "n_tarea": "517/10",
+        "zona_ocupacion": "",
+        "descripcion": "Trabajos asociados a la unidad de mantenimiento de energía en el LT",
+        "sistema_trabajo": "Instalaciones de seguridad sin acceso a zona de peligro",
+        "pk": "010+753 a 010+753 Colón (CO)",
+        "fecha_inicio": "22-10-2025",
+        "fecha_fin": "22-10-2025",
+        "horarios": [{ "inicio": "05:00", "fin": "23:59" }],
+        "dias_semana": "X",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "Sala técnica Colón",
+        "procedimiento": "PR O-SEN-00-LOC-01 v02 Locales Técnicos - Enclavamientos y Equipos de energía"
+      },
+      {
+        "area": "Señalización",
+        "n_tarea": "518/10",
+        "zona_ocupacion": "",
+        "descripcion": "Radio - Mantenimiento semestral de sistema de radio",
+        "sistema_trabajo": "Instalaciones de seguridad sin acceso a zona de peligro",
+        "pk": "105+000 a 105+000 Florida (FL)",
+        "fecha_inicio": "22-10-2025",
+        "fecha_fin": "22-10-2025",
+        "horarios": [{ "inicio": "05:00", "fin": "23:59" }],
+        "dias_semana": "X",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "Sala de radio Florida",
+        "procedimiento": "PR O-SEN-00-GEN-02 v01 Mantenimiento de cámaras de monitoreo"
+      },
+      {
+        "area": "Señalización",
+        "n_tarea": "519/10",
+        "zona_ocupacion": "SEGURIDAD",
+        "descripcion": "Trabajos asociados a la unidad de mantenimiento de energía en el LT",
+        "sistema_trabajo": "Instalaciones de seguridad sin acceso a zona de peligro",
+        "pk": "258+211 000+540 A 000+540 (UP) Bifurcación UPM (UP)",
+        "fecha_inicio": "22-10-2025",
+        "fecha_fin": "22-10-2025",
+        "horarios": [{ "inicio": "05:00", "fin": "23:59" }],
+        "dias_semana": "X",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "Sala técnica Bifurcación UPM",
+        "procedimiento": "PR O-SEN-00-LOC-01 v02 Locales Técnicos - Enclavamientos y Equipos de energía"
+      },
+      {
+        "area": "Señalización",
+        "n_tarea": "520/10",
+        "zona_ocupacion": "SEGURIDAD",
+        "descripcion": "Trabajos asociados a la unidad de mantenimiento de energía en el LT",
+        "sistema_trabajo": "Instalaciones de seguridad sin acceso a zona de peligro",
+        "pk": "263+304 a 263+304 Terminal Centenario (TC)",
+        "fecha_inicio": "22-10-2025",
+        "fecha_fin": "22-10-2025",
+        "horarios": [{ "inicio": "05:00", "fin": "23:59" }],
+        "dias_semana": "X",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "Sala técnica Terminal Centenario",
+        "procedimiento": "PR O-SEN-00-LOC-01 v02 Locales Técnicos - Enclavamientos y Equipos de energía"
+      }
+    ],
+    "ILT": [
+      {
+        "area": "VÍAS",
+        "n_tarea": "521/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Inspección de curvas y engrase manual",
+        "sistema_trabajo": "ILT",
+        "pk": "200+750 a 201+450 Trayecto Durazno (DZ) -- Villasboas (VI) Via 1",
+        "fecha_inicio": "22-10-2025",
+        "fecha_fin": "22-10-2025",
+        "horarios": [{ "inicio": "05:00", "fin": "23:59" }],
+        "dias_semana": "X",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "",
+        "procedimiento": "PR O-VIA-PV-ENG-001 Inspección de curvas y engrase manual"
+      }
+    ]
+  },
+  "JUEVES": {
+    "EVB": [
+      {
+        "area": "Infraestructura",
+        "n_tarea": "522/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Control de Vegetación",
+        "sistema_trabajo": "EVB",
+        "pk": "000+500 a 008+230 Trayecto Nueva Terminal Montevideo (MV) -- Sayago (SY) Via 1y2",
+        "fecha_inicio": "23-10-2025",
+        "fecha_fin": "23-10-2025",
+        "horarios": [
+          { "inicio": "06:30", "fin": "10:00" },
+          { "inicio": "11:30", "fin": "12:30" },
+          { "inicio": "13:30", "fin": "15:00" }
+        ],
+        "dias_semana": "J",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "",
+        "procedimiento": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación"
+      },
+      {
+        "area": "VÍAS",
+        "n_tarea": "523/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Revisión de seguridad de toperas",
+        "sistema_trabajo": "EVB",
+        "pk": "030+000 a 031+200 Trayecto Progreso (PR) -- Massaro (MS) Via 1",
+        "fecha_inicio": "23-10-2025",
+        "fecha_fin": "23-10-2025",
+        "horarios": [
+          { "inicio": "05:30", "fin": "10:00" },
+          { "inicio": "11:00", "fin": "13:30" },
+          { "inicio": "14:30", "fin": "16:30" }
+        ],
+        "dias_semana": "J",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "Villa felicidad: 7817 -21-4 / 7817-21-55",
+        "procedimiento": "PO O-VIA-PV-TOP-001 Revisión de seguridad de las toperas"
+      },
+      {
+        "area": "Infraestructura",
+        "n_tarea": "524/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Limpiezas puntuales de zanjas, alcantarillas y sistema de drenaje",
+        "sistema_trabajo": "EVB",
+        "pk": "032+500 a 033+000 Trayecto Progreso (PR) -- Massaro (MS) Via 1",
+        "fecha_inicio": "23-10-2025",
+        "fecha_fin": "23-10-2025",
+        "horarios": [
+          { "inicio": "05:30", "fin": "10:00" },
+          { "inicio": "11:00", "fin": "13:30" },
+          { "inicio": "14:30", "fin": "16:30" }
+        ],
+        "dias_semana": "J",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "",
+        "procedimiento": "PR O-INF-PV-DRE-01 Limpieza de drenajes longitudinales y transversales"
+      },
+      {
+        "area": "Infraestructura",
+        "n_tarea": "525/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Limpiezas puntuales de zanjas, alcantarillas y sistema de drenaje",
+        "sistema_trabajo": "EVB",
+        "pk": "040+000 a 043+000 Trayecto Massaro (MS) -- Canelones (CN) Via 1",
+        "fecha_inicio": "23-10-2025",
+        "fecha_fin": "23-10-2025",
+        "horarios": [
+          { "inicio": "07:30", "fin": "10:00" },
+          { "inicio": "10:30", "fin": "12:30" },
+          { "inicio": "14:00", "fin": "19:00" }
+        ],
+        "dias_semana": "J",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "",
+        "procedimiento": "PR O-INF-PV-DRE-01 Limpieza de drenajes longitudinales y transversales"
+      },
+      {
+        "area": "VÍAS",
+        "n_tarea": "526/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Veriﬁcación de las ﬁjaciones y de traviesas de vía (Inspección de los componentes de vía)",
+        "sistema_trabajo": "EVB",
+        "pk": "058+700 a 061+300 Trayecto Santa Lucía (SL) -- 25 de Agosto (AG) Via 1",
+        "fecha_inicio": "23-10-2025",
+        "fecha_fin": "23-10-2025",
+        "horarios": [
+          { "inicio": "08:00", "fin": "09:30" },
+          { "inicio": "10:00", "fin": "12:30" },
+          { "inicio": "14:30", "fin": "19:00" }
+        ],
+        "dias_semana": "J",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "",
+        "procedimiento": "PO O-VIA-PV-INS-001 Recorridos a pie y en cabina"
+      },
+      {
+        "area": "Infraestructura",
+        "n_tarea": "527/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Limpieza puntuales de zanjas, alcantarillas y sistema de drenaje, control de vegetación.",
+        "sistema_trabajo": "EVB",
+        "pk": "077+279 a 107+257 Trayecto Cardal (CD) -- Florida (FL) Via 1",
+        "fecha_inicio": "23-10-2025",
+        "fecha_fin": "23-10-2025",
+        "horarios": [
+          { "inicio": "05:00", "fin": "07:30" },
+          { "inicio": "09:30", "fin": "13:00" },
+          { "inicio": "15:30", "fin": "19:30" }
+        ],
+        "dias_semana": "J",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "Mini excavadora, combinada y tractor",
+        "consideraciones": "",
+        "procedimiento": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación PR O -INF-PV-DRE-01 Limpieza de drenajes longitudinales y transversales"
+      },
+      {
+        "area": "VÍAS",
+        "n_tarea": "528/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Revisión de seguridad de toperas / Control geométrico de vía corriente / Reparación de PAN.",
+        "sistema_trabajo": "EVB",
+        "pk": "108+818 a 170+000 Trayecto Florida Norte (FN) -- Goñi (GO) Via 1",
+        "fecha_inicio": "23-10-2025",
+        "fecha_fin": "23-10-2025",
+        "horarios": [
+          { "inicio": "09:30", "fin": "14:00" },
+          { "inicio": "16:00", "fin": "19:00" }
+        ],
+        "dias_semana": "J",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "Toperas de Florida norte: 7817-21-45 / 7817-21-44. La cruz: 7817-21-27 / 7817-21-21. Control Geometrico: Viene de la reocrrida en cabina del 08/10/2025 de OT-065222, se mide en los siguientes PKs: 169+700 / 167+700 / 157+900 / 114+970. PAN: LC214 - LC215. Surgen del Mantenimiento de PAN. Reparaciones mínimas que no aplica indicador.",
+        "procedimiento": "PO O-VIA-PV-TOP-001 Revisión de seguridad de las toperas. PR O -VIA-PV-BAL-004 Control geométrico de vía corriente. PR O-VIA-CO-PAN-001 Mantenimiento y reparación de PaN."
+      },
+      {
+        "area": "Señalización",
+        "n_tarea": "529/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Instalación de extractores en Armario PaN",
+        "sistema_trabajo": "EVB",
+        "pk": "121+936 a 121+936 Trayecto Florida Norte (FN) -- La Cruz (CU) Via 1",
+        "fecha_inicio": "23-10-2025",
+        "fecha_fin": "23-10-2025",
+        "horarios": [
+          { "inicio": "05:00", "fin": "07:30" },
+          { "inicio": "09:00", "fin": "14:00" },
+          { "inicio": "15:30", "fin": "20:00" }
+        ],
+        "dias_semana": "J",
+        "responsable": "Se puede realizar con encargado de trabajo en conjunto con tarea N° 528/10",
+        "maquinaria": "",
+        "consideraciones": "PaN: LC176",
+        "procedimiento": "-"
+      },
+      {
+        "area": "Infraestructura",
+        "n_tarea": "530/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Limpieza puntuales de zanjas, alcantarillas y sistema de drenaje, control de vegetación.",
+        "sistema_trabajo": "EVB",
+        "pk": "138+152 a 164+864 Trayecto Pintado (PI) -- Punta de Maciel (MA) Via 1",
+        "fecha_inicio": "23-10-2025",
+        "fecha_fin": "23-10-2025",
+        "horarios": [
+          { "inicio": "09:30", "fin": "14:00" },
+          { "inicio": "16:00", "fin": "19:00" }
+        ],
+        "dias_semana": "J",
+        "responsable": "Se puede realizar con encargado de trabajo en conjunto con tarea N° 528/10",
+        "maquinaria": "Mini excavadora, combinada y tractor",
+        "consideraciones": "",
+        "procedimiento": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación PR O -INF-PV-DRE-01 Limpieza de drenajes longitudinales y transversales"
+      },
+      {
+        "area": "Infraestructura",
+        "n_tarea": "531/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Limpieza puntuales de zanjas, alcantarillas y sistema de drenaje, control de vegetación.",
+        "sistema_trabajo": "EVB",
+        "pk": "195+511 a 263+384 Trayecto Durazno (DZ) -- Terminal Centenario (TC) Via 1",
+        "fecha_inicio": "23-10-2025",
+        "fecha_fin": "23-10-2025",
+        "horarios": [
+          { "inicio": "06:30", "fin": "10:00" },
+          { "inicio": "11:00", "fin": "15:00" }
+        ],
+        "dias_semana": "J",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "Mini excavadora, combinada y tractor",
+        "consideraciones": "",
+        "procedimiento": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación PR O -INF-PV-DRE-01 Limpieza de drenajes longitudinales y transversales"
+      },
+      {
+        "area": "Señalización",
+        "n_tarea": "532/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Mantenimiento de detectores auxiliares",
+        "sistema_trabajo": "EVB",
+        "pk": "234+000 a 234+000 Trayecto Carlos Reyles Sur (RS) -- Carlos Reyles Norte (RN) Via 1",
+        "fecha_inicio": "23-10-2025",
+        "fecha_fin": "23-10-2025",
+        "horarios": [
+          { "inicio": "06:00", "fin": "10:30" },
+          { "inicio": "11:00", "fin": "16:00" }
+        ],
+        "dias_semana": "J",
+        "responsable": "Se puede realizar con encargado de trabajo en conjunto con tarea N° 531/10",
+        "maquinaria": "",
+        "consideraciones": "Detectores de ejes calientes y rueda plana Carlos Reyles",
+        "procedimiento": "PR O-SEN-00-GEN-02 v01"
+      },
+      {
+        "area": "VÍAS",
+        "n_tarea": "533/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Control ultrasónico de vías",
+        "sistema_trabajo": "EVB",
+        "pk": "244+400 a 249+400 Trayecto Carlos Reyles Norte (RN) -- Bifurcación Paso de los Toros (PT) Via 1",
+        "fecha_inicio": "23-10-2025",
+        "fecha_fin": "23-10-2025",
+        "horarios": [
+          { "inicio": "05:30", "fin": "10:30" },
+          { "inicio": "11:00", "fin": "16:00" }
+        ],
+        "dias_semana": "J",
+        "responsable": "Se puede realizar con encargado de trabajo en conjunto con tarea N° 531/10",
+        "maquinaria": "",
+        "consideraciones": "",
+        "procedimiento": "PR O-VIA-PV-RIE-002 Control ultrasónico"
+      }
+    ],
+    "TRABAJOS EN ESTACIÓN": [
+      {
+        "area": "VÍAS",
+        "n_tarea": "534/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Inspección de curvas y engrase manual",
+        "sistema_trabajo": "ESTACIÓN",
+        "pk": "052+300 a 052+500 Santa Lucía (SL)",
+        "fecha_inicio": "23-10-2025",
+        "fecha_fin": "23-10-2025",
+        "horarios": [
+          { "inicio": "07:30", "fin": "10:00" },
+          { "inicio": "10:00", "fin": "12:30" },
+          { "inicio": "14:00", "fin": "19:00" }
+        ],
+        "dias_semana": "J",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "",
+        "procedimiento": "PR O-VIA-PV-ENG-001 Inspección de curvas y engrase manual"
+      }
+    ],
+    "TRABAJOS EN ZONA DE SEGURIDAD": [
+      {
+        "area": "Infraestructura",
+        "n_tarea": "535/10",
+        "zona_ocupacion": "SEGURIDAD",
+        "descripcion": "Control de Vegetación",
+        "sistema_trabajo": "",
+        "pk": "000+500 a 059+784 Trayecto Nueva Terminal Montevideo (MV) -- 25 de Agosto (AG)",
+        "fecha_inicio": "23-10-2025",
+        "fecha_fin": "23-10-2025",
+        "horarios": [{ "inicio": "05:00", "fin": "23:59" }],
+        "dias_semana": "J",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "",
+        "procedimiento": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación"
+      },
+      {
+        "area": "Infraestructura",
+        "n_tarea": "536/10",
+        "zona_ocupacion": "SEGURIDAD",
+        "descripcion": "Control de vegetación",
+        "sistema_trabajo": "",
+        "pk": "060+000 a 148+000 Trayecto 25 de Agosto (AG) -- Sarandí (SR)",
+        "fecha_inicio": "23-10-2025",
+        "fecha_fin": "23-10-2025",
+        "horarios": [{ "inicio": "05:00", "fin": "23:59" }],
+        "dias_semana": "J",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "Tractor",
+        "consideraciones": "",
+        "procedimiento": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación"
+      },
+      {
+        "area": "Infraestructura",
+        "n_tarea": "537/10",
+        "zona_ocupacion": "SEGURIDAD",
+        "descripcion": "Control de vegetación",
+        "sistema_trabajo": "",
+        "pk": "155+552 a 260+034 Trayecto Sarandí (SR) -- Terminal Centenario (TC)",
+        "fecha_inicio": "23-10-2025",
+        "fecha_fin": "23-10-2025",
+        "horarios": [{ "inicio": "05:00", "fin": "23:59" }],
+        "dias_semana": "J",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "Tractor",
+        "consideraciones": "",
+        "procedimiento": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación"
+      }
+    ],
+    "TRABAJOS EN INSTALACIONES DE SEGURIDAD SIN ACCESO A ZONA DE PELIGRO": [
+      {
+        "area": "Señalización",
+        "n_tarea": "538/10",
+        "zona_ocupacion": "",
+        "descripcion": "Mantenimiento de Servidores",
+        "sistema_trabajo": "Instalaciones de seguridad sin acceso a zona de peligro",
+        "pk": "000+000 a 000+000 Nueva Terminal Montevideo (MV)",
+        "fecha_inicio": "23-10-2025",
+        "fecha_fin": "23-10-2025",
+        "horarios": [{ "inicio": "05:00", "fin": "23:59" }],
+        "dias_semana": "J",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "Sala técnica: CTC",
+        "procedimiento": "PR O-SEN-00-LOC-02 v01 mantenimiento diario de servidores"
+      },
+      {
+        "area": "Señalización",
+        "n_tarea": "539/10",
+        "zona_ocupacion": "",
+        "descripcion": "SCADA - Sistemas de control de accesos y bombeo",
+        "sistema_trabajo": "Instalaciones de seguridad sin acceso a zona de peligro",
+        "pk": "000+000 a 008+230 Trayecto Nueva Terminal Montevideo (MV) -- Sayago (SY)",
+        "fecha_inicio": "23-10-2025",
+        "fecha_fin": "23-10-2025",
+        "horarios": [{ "inicio": "05:00", "fin": "23:59" }],
+        "dias_semana": "J",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "Sala técnicas: CTC, Montevideo, Lorenzo Carnelli, Cementos Artigas, Sayago, Peñarol. / PLO: Peñarol / Sala de radio: Peñarol / Sala de bombeo Trinchera Capurro",
+        "procedimiento": "PR O-SEN-00-LOC-03 Mantenimiento de sistemas de control de acceso y bombeo"
+      },
+      {
+        "area": "Señalización",
+        "n_tarea": "540/10",
+        "zona_ocupacion": "",
+        "descripcion": "SCADA - Sistema de detección de incendio",
+        "sistema_trabajo": "Instalaciones de seguridad sin acceso a zona de peligro",
+        "pk": "000+000 a 008+230 Trayecto Nueva Terminal Montevideo (MV) -- Sayago (SY)",
+        "fecha_inicio": "23-10-2025",
+        "fecha_fin": "23-10-2025",
+        "horarios": [{ "inicio": "05:00", "fin": "23:59" }],
+        "dias_semana": "J",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "Sala técnicas: CTC, Montevideo, Lorenzo Carnelli, Cementos Artigas, Sayago, Peñarol. / PLO: Peñarol / Sala de radio: Peñarol / Sala de bombeo Trinchera Capurro",
+        "procedimiento": "PR O-SEN-00-LOC-03 Mantenimiento de sistema de detección de incendio"
+      },
+      {
+        "area": "Señalización",
+        "n_tarea": "541/10",
+        "zona_ocupacion": "",
+        "descripcion": "SCADA - Sistemas de control de accesos y bombeo",
+        "sistema_trabajo": "Instalaciones de seguridad sin acceso a zona de peligro",
+        "pk": "003+900 a 003+900 Lorenzo Carnelli (LC)",
+        "fecha_inicio": "23-10-2025",
+        "fecha_fin": "23-10-2025",
+        "horarios": [{ "inicio": "05:00", "fin": "23:59" }],
+        "dias_semana": "J",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "Sala de bombeo Trinchera Capurro",
+        "procedimiento": "PR O-SEN-00-LOC-03 Mantenimiento de sistemas de control de acceso y bombeo"
+      },
+      {
+        "area": "Señalización",
+        "n_tarea": "542/10",
+        "zona_ocupacion": "",
+        "descripcion": "Mantenimiento de REDES FO IP y RMS.",
+        "sistema_trabajo": "Instalaciones de seguridad sin acceso a zona de peligro",
+        "pk": "086+963 a 090+540 25 de Mayo (MY)",
+        "fecha_inicio": "23-10-2025",
+        "fecha_fin": "23-10-2025",
+        "horarios": [{ "inicio": "05:00", "fin": "23:59" }],
+        "dias_semana": "J",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "PaN: LC139, LC140, LC141, LC142, LC143, LC144, LC145 / Sala técnica 25 de Mayo",
+        "procedimiento": "PR O-SEN-00-GEN-02 v01 Mantenimiento PAN, SAD y comunicación"
+      },
+      {
+        "area": "Señalización",
+        "n_tarea": "543/10",
+        "zona_ocupacion": "",
+        "descripcion": "SCADA - Sistemas de control de accesos y bombeo",
+        "sistema_trabajo": "Instalaciones de seguridad sin acceso a zona de peligro",
+        "pk": "138+960 a 196+423 Trayecto Pintado (PI) -- Durazno (DZ)",
+        "fecha_inicio": "23-10-2025",
+        "fecha_fin": "23-10-2025",
+        "horarios": [{ "inicio": "05:00", "fin": "23:59" }],
+        "dias_semana": "J",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "Salas técnicas: Pintado, Sarandí, Puntas de Maciel, Goñi, Silos, Durazno / Sala de radio Durazno / PLO: Durazno",
+        "procedimiento": "PR O-SEN-00-LOC-03 Mantenimiento de sistemas de control de acceso y bombeo"
+      },
+      {
+        "area": "Señalización",
+        "n_tarea": "544/10",
+        "zona_ocupacion": "",
+        "descripcion": "SCADA - Sistema de detección de incendio",
+        "sistema_trabajo": "Instalaciones de seguridad sin acceso a zona de peligro",
+        "pk": "138+960 a 196+423 Trayecto Pintado (PI) -- Durazno (DZ)",
+        "fecha_inicio": "23-10-2025",
+        "fecha_fin": "23-10-2025",
+        "horarios": [{ "inicio": "05:00", "fin": "23:59" }],
+        "dias_semana": "J",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "Salas técnicas: Pintado, Sarandí, Puntas de Maciel, Goñi, Silos, Durazno / Sala de radio Durazno / PLO: Durazno",
+        "procedimiento": "PR O-SEN-00-LOC-03 Mantenimiento de sistema de detección de incendio"
+      }
+    ],
+    "ILT": [
+      {
+        "area": "VÍAS",
+        "n_tarea": "545/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Cambio de balasto",
+        "sistema_trabajo": "ILT",
+        "pk": "162+620 Trayecto Sarandí (SR) -- Puntas de Maciel (MA) Via 1",
+        "fecha_inicio": "23-10-2025",
+        "fecha_fin": "23-10-2025",
+        "horarios": [{ "inicio": "05:00", "fin": "23:59" }],
+        "dias_semana": "J",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "Surge de la recorrida a pie del 13/10 OT -064805",
+        "procedimiento": "PR O-VIA-CO-BAL-002 Cambio de balasto"
+      }
+    ]
+  },
+  "VIERNES": {
+    "EVB": [
+      {
+        "area": "Infraestructura",
+        "n_tarea": "546/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Control de Vegetación",
+        "sistema_trabajo": "EVB",
+        "pk": "010+573 a 018+330 Trayecto Colón (CO) -- Crossover (CR) Via 1y2",
+        "fecha_inicio": "24-10-2025",
+        "fecha_fin": "24-10-2025",
+        "horarios": [
+          { "inicio": "06:30", "fin": "10:00" },
+          { "inicio": "11:00", "fin": "13:00" },
+          { "inicio": "13:30", "fin": "16:00" }
+        ],
+        "dias_semana": "V",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "",
+        "procedimiento": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación"
+      },
+      {
+        "area": "Infraestructura",
+        "n_tarea": "547/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Limpiezas puntuales de zanjas, alcantarillas y sistema de drenaje",
+        "sistema_trabajo": "EVB",
+        "pk": "032+500 a 033+000 Trayecto Progreso (PR) -- Massaro (MS) Via 1",
+        "fecha_inicio": "24-10-2025",
+        "fecha_fin": "24-10-2025",
+        "horarios": [
+          { "inicio": "06:00", "fin": "10:00" },
+          { "inicio": "11:00", "fin": "13:30" },
+          { "inicio": "14:00", "fin": "16:00" }
+        ],
+        "dias_semana": "V",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "",
+        "procedimiento": "PR O-INF-PV-DRE-01 Limpieza de drenajes longitudinales y transversales"
+      },
+      {
+        "area": "VÍAS",
+        "n_tarea": "548/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Revisión de seguridad de toperas",
+        "sistema_trabajo": "EVB",
+        "pk": "037+263 a 045+704 Trayecto Progreso (PR) -- Canelones (CN)",
+        "fecha_inicio": "24-10-2025",
+        "fecha_fin": "24-10-2025",
+        "horarios": [
+          { "inicio": "14:30", "fin": "15:30" },
+          { "inicio": "16:30", "fin": "18:30" }
+        ],
+        "dias_semana": "V",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "Massaro: 7817 -21-59 / 7817 -21-61. Canelones: 7817 -21-49 / 7817 -21-63.",
+        "procedimiento": "PO O-VIA-PV-TOP-001 Revisión de seguridad de las toperas"
+      },
+      {
+        "area": "Infraestructura",
+        "n_tarea": "549/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Limpiezas puntuales de zanjas, alcantarillas y sistema de drenaje",
+        "sistema_trabajo": "EVB",
+        "pk": "040+000 a 043+000 Trayecto Massaro (MS) -- Canelones (CN) Via 1",
+        "fecha_inicio": "24-10-2025",
+        "fecha_fin": "24-10-2025",
+        "horarios": [
+          { "inicio": "07:30", "fin": "10:00" },
+          { "inicio": "10:30", "fin": "12:30" }
+        ],
+        "dias_semana": "V",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "",
+        "procedimiento": "PR O-INF-PV-DRE-01 Limpieza de drenajes longitudinales y transversales"
+      },
+      {
+        "area": "VÍAS",
+        "n_tarea": "550/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Control geométrico de vía corriente",
+        "sistema_trabajo": "EVB",
+        "pk": "048+000 a 077+500 Trayecto Canelones (CN) -- Cardal (CD) Via 1",
+        "fecha_inicio": "24-10-2025",
+        "fecha_fin": "24-10-2025",
+        "horarios": [
+          { "inicio": "08:00", "fin": "09:00" },
+          { "inicio": "10:00", "fin": "12:30" },
+          { "inicio": "16:00", "fin": "19:00" }
+        ],
+        "dias_semana": "V",
+        "responsable": "Se puede realizar con encargado de trabajo en conjunto con tarea N° 551/10",
+        "maquinaria": "",
+        "consideraciones": "Viene de la reocrrida en cabina del 08/10/2025 de OT -065222, se mide en los siguientes PKs: 077+200 / 053+950 / 048+200.",
+        "procedimiento": "PR O-VIA-PV-BAL-004 Control geométrico de vía corriente"
+      },
+      {
+        "area": "VÍAS",
+        "n_tarea": "551/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Veriﬁcación de las ﬁjaciones y de traviesas de vía (Inspección de los componentes de vía)",
+        "sistema_trabajo": "EVB",
+        "pk": "058+700 a 061+300 Trayecto Santa Lucía (SL) -- 25 de Agosto (AG) Via 1",
+        "fecha_inicio": "24-10-2025",
+        "fecha_fin": "24-10-2025",
+        "horarios": [
+          { "inicio": "08:00", "fin": "09:00" },
+          { "inicio": "10:00", "fin": "12:30" },
+          { "inicio": "16:00", "fin": "19:00" }
+        ],
+        "dias_semana": "V",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "",
+        "procedimiento": "PO O-VIA-PV-INS-001 Recorridos a pie y en cabina"
+      },
+      {
+        "area": "Infraestructura",
+        "n_tarea": "552/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Limpieza puntuales de zanjas, alcantarillas y sistema de drenaje, control de vegetación.",
+        "sistema_trabajo": "EVB",
+        "pk": "077+500 a 107+257 Trayecto Cardal (CD) -- Florida (FL) Via 1",
+        "fecha_inicio": "24-10-2025",
+        "fecha_fin": "24-10-2025",
+        "horarios": [
+          { "inicio": "05:00", "fin": "07:30" },
+          { "inicio": "09:30", "fin": "12:30" },
+          { "inicio": "15:30", "fin": "19:30" }
+        ],
+        "dias_semana": "V",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "Mini excavadora, combinada y tractor",
+        "consideraciones": "",
+        "procedimiento": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación PR O -INF-PV-DRE-01 Limpieza de drenajes longitudinales y transversales"
+      },
+      {
+        "area": "Señalización",
+        "n_tarea": "553/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Instalación de extractores en Armario PaN",
+        "sistema_trabajo": "EVB",
+        "pk": "140+924 a 140+924 Trayecto Pintado (PI) -- Sarandí (SR) Via 1",
+        "fecha_inicio": "24-10-2025",
+        "fecha_fin": "24-10-2025",
+        "horarios": [{ "inicio": "15:30", "fin": "19:30" }],
+        "dias_semana": "V",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "PaN: LC194",
+        "procedimiento": "-"
+      },
+      {
+        "area": "Infraestructura",
+        "n_tarea": "554/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Limpieza puntuales de zanjas, alcantarillas y sistema de drenaje, control de vegetación.",
+        "sistema_trabajo": "EVB",
+        "pk": "140+924 a 164+864 Trayecto Pintado (PI) -- Punta de Maciel (MA) Via 1",
+        "fecha_inicio": "24-10-2025",
+        "fecha_fin": "24-10-2025",
+        "horarios": [
+          { "inicio": "05:00", "fin": "07:30" },
+          { "inicio": "09:30", "fin": "11:30" },
+          { "inicio": "16:30", "fin": "19:00" }
+        ],
+        "dias_semana": "V",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "Mini excavadora, combinada y tractor",
+        "consideraciones": "",
+        "procedimiento": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación PR O -INF-PV-DRE-01 Limpieza de drenajes longitudinales y transversales"
+      },
+      {
+        "area": "Infraestructura",
+        "n_tarea": "555/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Limpieza puntuales de zanjas, alcantarillas y sistema de drenaje, control de vegetación.",
+        "sistema_trabajo": "EVB",
+        "pk": "195+511 a 263+384 Trayecto Durazno (DZ) -- Terminal Centenario (TC) Via 1",
+        "fecha_inicio": "24-10-2025",
+        "fecha_fin": "24-10-2025",
+        "horarios": [
+          { "inicio": "07:00", "fin": "10:00" },
+          { "inicio": "12:30", "fin": "15:30" }
+        ],
+        "dias_semana": "V",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "Mini excavadora, combinada y tractor",
+        "consideraciones": "",
+        "procedimiento": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación PR O -INF-PV-DRE-01 Limpieza de drenajes longitudinales y transversales"
+      },
+      {
+        "area": "VÍAS",
+        "n_tarea": "556/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Control ultrasónico de vías",
+        "sistema_trabajo": "EVB",
+        "pk": "249+400 a 254+400 Trayecto Carlos Reyles Norte (RN) -- Bifurcación Paso de los Toros (PT) Via 1",
+        "fecha_inicio": "24-10-2025",
+        "fecha_fin": "24-10-2025",
+        "horarios": [
+          { "inicio": "07:00", "fin": "10:00" },
+          { "inicio": "12:30", "fin": "15:30" }
+        ],
+        "dias_semana": "V",
+        "responsable": "Se puede realizar con encargado de trabajo en conjunto con tarea N° 555/10",
+        "maquinaria": "",
+        "consideraciones": "",
+        "procedimiento": "PR O-VIA-PV-RIE-002 Control ultrasónico"
+      }
+    ],
+    "TRABAJOS EN ESTACIÓN": [
+      {
+        "area": "VÍAS",
+        "n_tarea": "557/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Inspección de curvas y engrase manual",
+        "sistema_trabajo": "ESTACIÓN",
+        "pk": "060+400 a 060+600 25 de Agosto (AG)",
+        "fecha_inicio": "24-10-2025",
+        "fecha_fin": "24-10-2025",
+        "horarios": [
+          { "inicio": "08:00", "fin": "09:00" },
+          { "inicio": "10:00", "fin": "12:30" },
+          { "inicio": "16:00", "fin": "19:00" }
+        ],
+        "dias_semana": "V",
+        "responsable": "Se puede realizar con encargado de trabajo en conjunto con tarea N° 551/10",
+        "maquinaria": "",
+        "consideraciones": "",
+        "procedimiento": "PR O-VIA-PV-ENG-001 Inspección de curvas y engrase manual"
+      },
+      {
+        "area": "VÍAS",
+        "n_tarea": "558/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Revisión de seguridad de toperas",
+        "sistema_trabajo": "ESTACIÓN",
+        "pk": "138+152 a 140+028 Pintado (PI)",
+        "fecha_inicio": "24-10-2025",
+        "fecha_fin": "24-10-2025",
+        "horarios": [
+          { "inicio": "05:00", "fin": "08:00" },
+          { "inicio": "09:00", "fin": "12:00" }
+        ],
+        "dias_semana": "V",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "Pintado: 7817 -21-31 / 7817 -21-22",
+        "procedimiento": "PO O-VIA-PV-TOP-001 Revisión de seguridad de las toperas"
+      }
+    ],
+    "TRABAJOS EN ZONA DE SEGURIDAD": [
+      {
+        "area": "Infraestructura",
+        "n_tarea": "559/10",
+        "zona_ocupacion": "SEGURIDAD",
+        "descripcion": "Control de Vegetación",
+        "sistema_trabajo": "",
+        "pk": "000+500 a 059+784 Trayecto Nueva Terminal Montevideo (MV) -- 25 de Agosto (AG)",
+        "fecha_inicio": "24-10-2025",
+        "fecha_fin": "24-10-2025",
+        "horarios": [{ "inicio": "05:00", "fin": "23:59" }],
+        "dias_semana": "V",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "",
+        "procedimiento": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación"
+      },
+      {
+        "area": "Infraestructura",
+        "n_tarea": "560/10",
+        "zona_ocupacion": "SEGURIDAD",
+        "descripcion": "Control de vegetación",
+        "sistema_trabajo": "",
+        "pk": "060+000 a 148+000 Trayecto 25 de Agosto (AG) -- Sarandí (SR)",
+        "fecha_inicio": "24-10-2025",
+        "fecha_fin": "24-10-2025",
+        "horarios": [{ "inicio": "05:00", "fin": "23:59" }],
+        "dias_semana": "V",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "Tractor",
+        "consideraciones": "",
+        "procedimiento": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación"
+      },
+      {
+        "area": "Infraestructura",
+        "n_tarea": "561/10",
+        "zona_ocupacion": "SEGURIDAD",
+        "descripcion": "Control de vegetación",
+        "sistema_trabajo": "",
+        "pk": "155+552 a 260+034 Trayecto Sarandí (SR) -- Terminal Centenario (TC)",
+        "fecha_inicio": "24-10-2025",
+        "fecha_fin": "24-10-2025",
+        "horarios": [{ "inicio": "05:00", "fin": "23:59" }],
+        "dias_semana": "V",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "Tractor",
+        "consideraciones": "",
+        "procedimiento": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación"
+      }
+    ],
+    "TRABAJOS EN INSTALACIONES DE SEGURIDAD SIN ACCESO A ZONA DE PELIGRO": [
+      {
+        "area": "Señalización",
+        "n_tarea": "562/10",
+        "zona_ocupacion": "",
+        "descripcion": "Mantenimiento de Servidores",
+        "sistema_trabajo": "Instalaciones de seguridad sin acceso a zona de peligro",
+        "pk": "000+000 a 000+000 Nueva Terminal Montevideo (MV)",
+        "fecha_inicio": "24-10-2025",
+        "fecha_fin": "24-10-2025",
+        "horarios": [{ "inicio": "05:00", "fin": "23:59" }],
+        "dias_semana": "V",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "Sala técnica: CTC",
+        "procedimiento": "PR O-SEN-00-LOC-02 v01 mantenimiento diario de servidores"
+      },
+      {
+        "area": "Señalización",
+        "n_tarea": "563/10",
+        "zona_ocupacion": "SEGURIDAD",
+        "descripcion": "SCADA - Sistemas de control de accesos y bombeo",
+        "sistema_trabajo": "Instalaciones de seguridad sin acceso a zona de peligro",
+        "pk": "010+753 a 038+485 Trayecto Colón (CO) -- Massaro (MS)",
+        "fecha_inicio": "24-10-2025",
+        "fecha_fin": "24-10-2025",
+        "horarios": [{ "inicio": "05:00", "fin": "23:59" }],
+        "dias_semana": "V",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "Sala técnicas: Colón, Crossover, Progreso, Massaro / Sala de detectores Juanicó / Sala de bombeo las piedras",
+        "procedimiento": "PR O-SEN-00-LOC-03 Mantenimiento de sistemas de control de acceso y bombeo"
+      },
+      {
+        "area": "Señalización",
+        "n_tarea": "564/10",
+        "zona_ocupacion": "",
+        "descripcion": "SCADA - Sistema de detección de incendio",
+        "sistema_trabajo": "Instalaciones de seguridad sin acceso a zona de peligro",
+        "pk": "010+753 a 038+485 Trayecto Colón (CO) -- Massaro (MS)",
+        "fecha_inicio": "24-10-2025",
+        "fecha_fin": "24-10-2025",
+        "horarios": [{ "inicio": "05:00", "fin": "23:59" }],
+        "dias_semana": "V",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "Sala técnicas: Colón, Crossover, Progreso, Massaro / Sala de detectores Juanicó / Sala de bombeo las piedras",
+        "procedimiento": "PR O-SEN-00-LOC-03 Mantenimiento de sistema de detección de incendio"
+      },
+      {
+        "area": "Señalización",
+        "n_tarea": "565/10",
+        "zona_ocupacion": "",
+        "descripcion": "SCADA - Sistemas de control de accesos y bombeo",
+        "sistema_trabajo": "Instalaciones de seguridad sin acceso a zona de peligro",
+        "pk": "019+217 a 019+217 Trayecto Crossover (CR) -- Progreso (PR)",
+        "fecha_inicio": "24-10-2025",
+        "fecha_fin": "24-10-2025",
+        "horarios": [{ "inicio": "05:00", "fin": "23:59" }],
+        "dias_semana": "V",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "Sala de bombeo trinchera de Las Piedras",
+        "procedimiento": "PR O-SEN-00-LOC-03 Mantenimiento de sistemas de control de acceso y bombeo"
+      },
+      {
+        "area": "Señalización",
+        "n_tarea": "566/10",
+        "zona_ocupacion": "",
+        "descripcion": "Mantenimiento de REDES FO IP y RMS.",
+        "sistema_trabajo": "Instalaciones de seguridad sin acceso a zona de peligro",
+        "pk": "091+386 a 100+052 Trayecto 25 de Mayo (MY) -- Florida(FL)",
+        "fecha_inicio": "24-10-2025",
+        "fecha_fin": "24-10-2025",
+        "horarios": [{ "inicio": "05:00", "fin": "23:59" }],
+        "dias_semana": "V",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "PaN: LC146, LC147, LC149, LC150, LC152 / LEU dist: LC152",
+        "procedimiento": "PR O-SEN-00-GEN-02 v01 Mantenimiento PAN, SAD y comunicación"
+      },
+      {
+        "area": "Señalización",
+        "n_tarea": "567/10",
+        "zona_ocupacion": "",
+        "descripcion": "SCADA - Sistemas de control de accesos y bombeo",
+        "sistema_trabajo": "Instalaciones de seguridad sin acceso a zona de peligro",
+        "pk": "214+100 a 263+304 Trayecto Villasboas (VI) -- Terminal Centenario (TC)",
+        "fecha_inicio": "24-10-2025",
+        "fecha_fin": "24-10-2025",
+        "horarios": [{ "inicio": "05:00", "fin": "23:59" }],
+        "dias_semana": "V",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "Salas técnicas: Villasboas, Reyles Sur, Reyles Norte, Paso de los Toros, Bifurcación UPM, Terminal Centenario / Sala de detectores Reyles / Sala de radio: Terminal Centenario",
+        "procedimiento": "PR O-SEN-00-LOC-03 Mantenimiento de sistemas de control de acceso y bombeo"
+      },
+      {
+        "area": "Señalización",
+        "n_tarea": "568/10",
+        "zona_ocupacion": "",
+        "descripcion": "SCADA - Sistema de detección de incendio",
+        "sistema_trabajo": "Instalaciones de seguridad sin acceso a zona de peligro",
+        "pk": "214+100 a 263+304 Trayecto Villasboas (VI) -- Terminal Centenario (TC)",
+        "fecha_inicio": "24-10-2025",
+        "fecha_fin": "24-10-2025",
+        "horarios": [{ "inicio": "05:00", "fin": "23:59" }],
+        "dias_semana": "V",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "Salas técnicas: Villasboas, Reyles Sur, Reyles Norte, Paso de los Toros, Bifurcación UPM, Terminal Centenario / Sala de detectores Reyles / Sala de radio: Terminal Centenario",
+        "procedimiento": "PR O-SEN-00-LOC-03 Mantenimiento de sistema de detección de incendio"
+      }
+    ],
+    "ILT": [
+      {
+        "area": "VÍAS",
+        "n_tarea": "569/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Inspección de curvas y engrase manual",
+        "sistema_trabajo": "ILT",
+        "pk": "249+850 a 250+500 Trayecto Carlos Reyles Norte (RN) -- Bifurcación Paso de los Toros (PT) Via 1",
+        "fecha_inicio": "24-10-2025",
+        "fecha_fin": "24-10-2025",
+        "horarios": [{ "inicio": "05:00", "fin": "23:59" }],
+        "dias_semana": "V",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "",
+        "procedimiento": "PR O-VIA-PV-ENG-001 Inspección de curvas y engrase manual"
+      }
+    ]
+  },
+  "SÁBADO": {
+    "EVB": [
+      {
+        "area": "Infraestructura",
+        "n_tarea": "570/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Control de Vegetación",
+        "sistema_trabajo": "EVB",
+        "pk": "000+500 a 008+230 Trayecto Nueva Terminal Montevideo (MV) -- Sayago (SY) Via 1y2",
+        "fecha_inicio": "25-10-2025",
+        "fecha_fin": "25-10-2025",
+        "horarios": [
+          { "inicio": "06:30", "fin": "10:00" },
+          { "inicio": "11:30", "fin": "12:30" },
+          { "inicio": "13:00", "fin": "15:30" }
+        ],
+        "dias_semana": "S",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "",
+        "procedimiento": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación"
+      },
+      {
+        "area": "Señalización",
+        "n_tarea": "571/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Pasos a Nivel – Registro Mensual de eventos y prueba de funcionamiento. Cambios - Prueba funcional y limpieza de residuos",
+        "sistema_trabajo": "EVB",
+        "pk": "024+482 a 028+498 Trayecto Crossover (CR) -- Progreso (PR) Via 1y2",
+        "fecha_inicio": "25-10-2025",
+        "fecha_fin": "25-10-2025",
+        "horarios": [
+          { "inicio": "05:30", "fin": "10:30" },
+          { "inicio": "11:00", "fin": "13:00" },
+          { "inicio": "14:00", "fin": "16:00" }
+        ],
+        "dias_semana": "S",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "PaN: LC61, LC62, LC63, LC65, LC66, LC67, LC68, LC69. Cambios: 2 -PR, 3-PR, 1-PR",
+        "procedimiento": "PR O-SEN-00-GEN-02 v01 Mantenimiento PAN, SAD y comunicación. PR O -SEN-00-MDC-01 v02 Mantenimiento de accionamientos"
+      },
+      {
+        "area": "VÍAS",
+        "n_tarea": "572/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Revisión de seguridad de toperas",
+        "sistema_trabajo": "EVB",
+        "pk": "050+938 a 062+521 Trayecto Santa Lucía (SL) -- 25 de Agosto (AG)",
+        "fecha_inicio": "25-10-2025",
+        "fecha_fin": "25-10-2025",
+        "horarios": [
+          { "inicio": "08:00", "fin": "09:30" },
+          { "inicio": "10:00", "fin": "12:30" },
+          { "inicio": "16:00", "fin": "19:00" }
+        ],
+        "dias_semana": "S",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "Santa Lucía (AP02): 7817 -21-50 / 7817 -21-23 / 7817 -21-30. Conexión santa Lucía: 7817 -21-3",
+        "procedimiento": "PO O-VIA-PV-TOP-001 Revisión de seguridad de las toperas"
+      },
+      {
+        "area": "Infraestructura",
+        "n_tarea": "573/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Limpieza puntuales de zanjas, alcantarillas y sistema de drenaje, control de vegetación.",
+        "sistema_trabajo": "EVB",
+        "pk": "077+279 a 107+257 Trayecto Cardal (CD) -- Florida (FL) Via 1",
+        "fecha_inicio": "25-10-2025",
+        "fecha_fin": "25-10-2025",
+        "horarios": [
+          { "inicio": "05:00", "fin": "07:30" },
+          { "inicio": "09:30", "fin": "13:00" },
+          { "inicio": "15:30", "fin": "19:30" }
+        ],
+        "dias_semana": "S",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "Mini excavadora, combinada y tractor",
+        "consideraciones": "",
+        "procedimiento": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación PR O -INF-PV-DRE-01 Limpieza de drenajes longitudinales y transversales"
+      },
+      {
+        "area": "Señalización",
+        "n_tarea": "574/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Pasos a Nivel – Registro Mensual de eventos y prueba de funcionamiento. Cambios - Prueba funcional y limpieza de residuos",
+        "sistema_trabajo": "EVB",
+        "pk": "108+079 a 118+531 Trayecto Florida (FL) -- La Cruz (CU) Via 1",
+        "fecha_inicio": "25-10-2025",
+        "fecha_fin": "25-10-2025",
+        "horarios": [
+          { "inicio": "05:00", "fin": "07:30" },
+          { "inicio": "09:00", "fin": "13:30" },
+          { "inicio": "15:30", "fin": "20:00" }
+        ],
+        "dias_semana": "S",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "PaN: LC163, LC165, LC166, LC167, LC168, LC169, LC170, LC171, LC172, LC173. Cambios: 2 -FN, 4-FN, 6-FN, 5- FN, 3-FN, 1-FN",
+        "procedimiento": "PR O-SEN-00-GEN-02 v01 Mantenimiento PAN, SAD y comunicación. PR O -SEN-00-MDC-01 v02 Mantenimiento de accionamientos"
+      },
+      {
+        "area": "VÍAS",
+        "n_tarea": "575/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Control ultrasónico de vías",
+        "sistema_trabajo": "EVB",
+        "pk": "254+400 a 257+400 Trayecto Bifurcación Paso de los Toros (PT) -- Bifurcación UPM (UP) Via 1",
+        "fecha_inicio": "25-10-2025",
+        "fecha_fin": "25-10-2025",
+        "horarios": [
+          { "inicio": "06:00", "fin": "10:30" },
+          { "inicio": "11:30", "fin": "15:30" }
+        ],
+        "dias_semana": "S",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "",
+        "procedimiento": "PR O-VIA-PV-RIE-002 Control ultrasónico"
+      }
+    ],
+    "TRABAJOS EN ESTACIÓN": [
+      {
+        "area": "VÍAS",
+        "n_tarea": "576/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Inspección de curvas y engrase manual",
+        "sistema_trabajo": "ESTACIÓN",
+        "pk": "061+200 a 061+400 25 de Agosto (AG)",
+        "fecha_inicio": "25-10-2025",
+        "fecha_fin": "25-10-2025",
+        "horarios": [
+          { "inicio": "08:00", "fin": "09:30" },
+          { "inicio": "10:00", "fin": "12:30" },
+          { "inicio": "16:00", "fin": "19:00" }
+        ],
+        "dias_semana": "S",
+        "responsable": "Se puede realizar con encargado de trabajo en conjunto con tarea N° 572/10",
+        "maquinaria": "",
+        "consideraciones": "",
+        "procedimiento": "PR O-VIA-PV-ENG-001 Inspección de curvas y engrase manual"
+      },
+      {
+        "area": "VÍAS",
+        "n_tarea": "577/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Revisión de seguridad de toperas",
+        "sistema_trabajo": "ESTACIÓN",
+        "pk": "155+552 a 157+242 Sarandí (SR)",
+        "fecha_inicio": "25-10-2025",
+        "fecha_fin": "25-10-2025",
+        "horarios": [
+          { "inicio": "07:30", "fin": "09:00" },
+          { "inicio": "09:30", "fin": "12:30" },
+          { "inicio": "13:30", "fin": "14:30" }
+        ],
+        "dias_semana": "S",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "Sarandí: 7817 -21-46 / 7817 -21-62",
+        "procedimiento": "PO O-VIA-PV-TOP-001 Revisión de seguridad de las toperas"
+      },
+      {
+        "area": "VÍAS",
+        "n_tarea": "578/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Compactación de balasto - Banquina fuera de perﬁl",
+        "sistema_trabajo": "ESTACIÓN",
+        "pk": "177+360 a 177+370 Goñi (GO)",
+        "fecha_inicio": "25-10-2025",
+        "fecha_fin": "25-10-2025",
+        "horarios": [
+          { "inicio": "07:00", "fin": "09:30" },
+          { "inicio": "10:00", "fin": "12:30" },
+          { "inicio": "13:00", "fin": "15:00" }
+        ],
+        "dias_semana": "S",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "Bivial E: LC224 D: LC224",
+        "consideraciones": "Banquina fuera de perﬁl que surge de recorrida a pie 14/10 OT -065119",
+        "procedimiento": "PR O-VIA-CO-BAL-001 Compactación de balasto"
+      },
+      {
+        "area": "VÍAS",
+        "n_tarea": "579/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Cambio de balasto",
+        "sistema_trabajo": "ESTACIÓN",
+        "pk": "177+863 Goñi (GO)",
+        "fecha_inicio": "25-10-2025",
+        "fecha_fin": "25-10-2025",
+        "horarios": [
+          { "inicio": "07:00", "fin": "09:00" },
+          { "inicio": "10:00", "fin": "12:30" },
+          { "inicio": "13:00", "fin": "15:00" }
+        ],
+        "dias_semana": "S",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "Bivial E: LC224 D: LC224",
+        "consideraciones": "Limpieza de cabeceras de PAN LC 224 que surge de recorrida a pie 14/10 OT -065119",
+        "procedimiento": "PR O-VIA-CO-BAL-002 Cambio de balasto"
+      },
+      {
+        "area": "Señalización",
+        "n_tarea": "580/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Cambios - Prueba funcional y limpieza de residuos",
+        "sistema_trabajo": "ESTACIÓN",
+        "pk": "253+846 a 255+514 Bifurcación Paso de los Toros (PT)",
+        "fecha_inicio": "25-10-2025",
+        "fecha_fin": "25-10-2025",
+        "horarios": [
+          { "inicio": "15:30", "fin": "16:30" },
+          { "inicio": "18:00", "fin": "22:00" }
+        ],
+        "dias_semana": "S",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "Cambios: 2 -PT, 4-PT, 7-PT, 5-PT, 1-PT, 3-PT",
+        "procedimiento": "PR O-SEN-00-MDC-01 v02 Mantenimiento de accionamientos"
+      }
+    ],
+    "TRABAJOS EN ZONA DE SEGURIDAD": [
+      {
+        "area": "Infraestructura",
+        "n_tarea": "581/10",
+        "zona_ocupacion": "SEGURIDAD",
+        "descripcion": "Control de Vegetación",
+        "sistema_trabajo": "",
+        "pk": "000+500 a 059+784 Trayecto Nueva Terminal Montevideo (MV) -- 25 de Agosto (AG)",
+        "fecha_inicio": "25-10-2025",
+        "fecha_fin": "25-10-2025",
+        "horarios": [{ "inicio": "05:00", "fin": "23:59" }],
+        "dias_semana": "S",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "",
+        "procedimiento": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación"
+      },
+      {
+        "area": "Infraestructura",
+        "n_tarea": "582/10",
+        "zona_ocupacion": "SEGURIDAD",
+        "descripcion": "Control de vegetación y reparación de cerco, recambio de tapas",
+        "sistema_trabajo": "",
+        "pk": "060+000 a 148+000 Trayecto 25 de Agosto (AG) -- Sarandí (SR)",
+        "fecha_inicio": "25-10-2025",
+        "fecha_fin": "25-10-2025",
+        "horarios": [{ "inicio": "05:00", "fin": "23:59" }],
+        "dias_semana": "S",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "Tractor",
+        "consideraciones": "",
+        "procedimiento": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación"
+      }
+    ],
+    "ILT": [
+      {
+        "area": "VÍAS",
+        "n_tarea": "583/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Inspección de curvas y engrase manual",
+        "sistema_trabajo": "ILT",
+        "pk": "108+200 a 108+400 Trayecto Florida (FL) -- Florida Norte (FN) Via 1",
+        "fecha_inicio": "25-10-2025",
+        "fecha_fin": "25-10-2025",
+        "horarios": [{ "inicio": "05:00", "fin": "23:59" }],
+        "dias_semana": "S",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "",
+        "procedimiento": "PR O-VIA-PV-ENG-001 Inspección de curvas y engrase manual"
+      }
+    ]
+  },
+  "DOMINGO": {
+    "EVB": [
+      {
+        "area": "Infraestructura",
+        "n_tarea": "584/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Control de Vegetación; Limpiezas puntuales de zanjas, alcantarillas y sistema de drenaje",
+        "sistema_trabajo": "EVB",
+        "pk": "012+000 a 018+330 Trayecto Colón (CO) -- Crossover (CR) Via 1y2",
+        "fecha_inicio": "26-10-2025",
+        "fecha_fin": "26-10-2025",
+        "horarios": [
+          { "inicio": "06:00", "fin": "10:00" },
+          { "inicio": "11:00", "fin": "13:00" },
+          { "inicio": "13:30", "fin": "16:00" }
+        ],
+        "dias_semana": "D",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "",
+        "procedimiento": "PR O-INF-PV-DRE-01 Limpieza de drenajes longitudinales y transversales ; PR O-INF-PV-SUB-02 v01 Prevención de Vegetación"
+      },
+      {
+        "area": "Señalización",
+        "n_tarea": "585/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Pasos a Nivel – Registro Mensual de eventos y prueba de funcionamiento.",
+        "sistema_trabajo": "EVB",
+        "pk": "028+510 a 035+396 Trayecto Progreso (PR) -- Massaro (MS) Via 1",
+        "fecha_inicio": "26-10-2025",
+        "fecha_fin": "26-10-2025",
+        "horarios": [
+          { "inicio": "15:00", "fin": "16:00" },
+          { "inicio": "17:00", "fin": "21:00" }
+        ],
+        "dias_semana": "D",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "PaN: LC70, LC71, LC72, LC73, LC81, LC83",
+        "procedimiento": "PR O-SEN-00-GEN-02 v01 Mantenimiento PAN, SAD y comunicación"
+      },
+      {
+        "area": "Infraestructura",
+        "n_tarea": "586/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Limpiezas puntuales de zanjas, alcantarillas y sistema de drenaje, Restauración de taludes",
+        "sistema_trabajo": "EVB",
+        "pk": "032+500 a 033+000 Trayecto Progreso (PR) -- Massaro (MS) Via 1",
+        "fecha_inicio": "26-10-2025",
+        "fecha_fin": "26-10-2025",
+        "horarios": [
+          { "inicio": "05:30", "fin": "10:00" },
+          { "inicio": "11:00", "fin": "13:30" },
+          { "inicio": "14:00", "fin": "15:00" }
+        ],
+        "dias_semana": "D",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "",
+        "procedimiento": "PR O-INF-PV-DRE-01 Limpieza de drenajes longitudinales y transversales"
+      },
+      {
+        "area": "Señalización",
+        "n_tarea": "587/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Pasos a Nivel – Registro Mensual de eventos y prueba de funcionamiento.",
+        "sistema_trabajo": "EVB",
+        "pk": "121+949 a 129+710 Trayecto Florida Norte (FN) -- Pintado (PI) Via 1",
+        "fecha_inicio": "26-10-2025",
+        "fecha_fin": "26-10-2025",
+        "horarios": [
+          { "inicio": "05:00", "fin": "07:30" },
+          { "inicio": "09:00", "fin": "13:30" },
+          { "inicio": "15:30", "fin": "20:00" }
+        ],
+        "dias_semana": "D",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "PaN: LC176, LC177, LC179, LC180, LC181, LC182, LC183. Cambios: 2 -CU, 4-CU, 3-CU, 1-CU",
+        "procedimiento": "PR O-SEN-00-GEN-02 v01 Mantenimiento PAN, SAD y comunicación. PR O -SEN-00-MDC-01 v02 Mantenimiento de accionamientos"
+      },
+      {
+        "area": "Infraestructura",
+        "n_tarea": "588/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Limpieza puntuales de zanjas, alcantarillas y sistema de drenaje, control de vegetación.",
+        "sistema_trabajo": "EVB",
+        "pk": "138+152 a 164+864 Trayecto Pintado (PI) -- Punta de Maciel (MA) Via 1",
+        "fecha_inicio": "26-10-2025",
+        "fecha_fin": "26-10-2025",
+        "horarios": [
+          { "inicio": "09:30", "fin": "13:00" },
+          { "inicio": "16:00", "fin": "19:00" }
+        ],
+        "dias_semana": "D",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "Mini excavadora, combinada y tractor",
+        "consideraciones": "",
+        "procedimiento": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación PR O -INF-PV-DRE-01 Limpieza de drenajes longitudinales y transversales"
+      },
+      {
+        "area": "Infraestructura",
+        "n_tarea": "589/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Limpieza puntuales de zanjas, alcantarillas y sistema de drenaje, control de vegetación.",
+        "sistema_trabajo": "EVB",
+        "pk": "195+511 a 263+177 Trayecto Durazno (DZ) -- Terminal Centenario (TC) Via 1",
+        "fecha_inicio": "26-10-2025",
+        "fecha_fin": "26-10-2025",
+        "horarios": [
+          { "inicio": "06:30", "fin": "10:00" },
+          { "inicio": "12:30", "fin": "15:30" }
+        ],
+        "dias_semana": "D",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "Mini excavadora, combinada y tractor",
+        "consideraciones": "",
+        "procedimiento": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación PR O -INF-PV-DRE-01 Limpieza de drenajes longitudinales y transversales"
+      }
+    ],
+    "TRABAJOS EN ESTACIÓN": [
+      {
+        "area": "Señalización",
+        "n_tarea": "590/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Pasos a Nivel – Registro Mensual de eventos y prueba de funcionamiento.",
+        "sistema_trabajo": "ESTACIÓN",
+        "pk": "037+638 a 040+245 Massaro (MS)",
+        "fecha_inicio": "26-10-2025",
+        "fecha_fin": "26-10-2025",
+        "horarios": [
+          { "inicio": "07:00", "fin": "10:00" },
+          { "inicio": "11:00", "fin": "12:30" },
+          { "inicio": "14:00", "fin": "16:00" }
+        ],
+        "dias_semana": "D",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "PaN: LC84, LC86. Cambios: 2 -MS, 4-MS, 3-MS, 1-MS",
+        "procedimiento": "PR O-SEN-00-GEN-02 v01 Mantenimiento PAN, SAD y comunicación. PR O -SEN-00-MDC-01 v02 Mantenimiento de accionamientos"
+      },
+      {
+        "area": "VÍAS",
+        "n_tarea": "591/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Inspección de curvas y engrase manual",
+        "sistema_trabajo": "ESTACIÓN",
+        "pk": "088+500 a 088+700 25 de Mayo (MY)",
+        "fecha_inicio": "26-10-2025",
+        "fecha_fin": "26-10-2025",
+        "horarios": [
+          { "inicio": "08:00", "fin": "09:00" },
+          { "inicio": "09:30", "fin": "13:00" },
+          { "inicio": "15:00", "fin": "19:30" }
+        ],
+        "dias_semana": "D",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "",
+        "procedimiento": "PR O-VIA-PV-ENG-001 Inspección de curvas y engrase manual"
+      },
+      {
+        "area": "Señalización",
+        "n_tarea": "592/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Cambios - Prueba funcional y limpieza de residuos",
+        "sistema_trabajo": "ESTACIÓN",
+        "pk": "257+453 a 258+211 Bifurcación UPM (UP) -- ∆UPM",
+        "fecha_inicio": "26-10-2025",
+        "fecha_fin": "26-10-2025",
+        "horarios": [
+          { "inicio": "15:30", "fin": "16:30" },
+          { "inicio": "18:00", "fin": "22:00" }
+        ],
+        "dias_semana": "D",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "Cambios: 1 -UP, 5-UP, 3-UP",
+        "procedimiento": "PR O-SEN-00-MDC-01 v02 Mantenimiento de accionamientos"
+      },
+      {
+        "area": "Señalización",
+        "n_tarea": "593/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Cambios - Prueba funcional y limpieza de residuos",
+        "sistema_trabajo": "ESTACIÓN",
+        "pk": "263+178 a 263+284 Terminal Centenario (TC)",
+        "fecha_inicio": "26-10-2025",
+        "fecha_fin": "26-10-2025",
+        "horarios": [
+          { "inicio": "06:00", "fin": "11:00" },
+          { "inicio": "11:30", "fin": "16:30" },
+          { "inicio": "18:00", "fin": "22:00" }
+        ],
+        "dias_semana": "D",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "Cambios: 1 -TC, 3-TC",
+        "procedimiento": "PR O-SEN-00-MDC-01 v02 Mantenimiento de accionamientos"
+      }
+    ],
+    "TRABAJOS EN ZONA DE SEGURIDAD": [
+      {
+        "area": "Infraestructura",
+        "n_tarea": "594/10",
+        "zona_ocupacion": "SEGURIDAD",
+        "descripcion": "Limpiezas puntuales de zanjas, alcantarillas y sistema de drenaje, Restauración de taludes",
+        "sistema_trabajo": "",
+        "pk": "000+500 a 059+784 Trayecto Nueva Terminal Montevideo (MV) -- 25 de Agosto (AG)",
+        "fecha_inicio": "26-10-2025",
+        "fecha_fin": "26-10-2025",
+        "horarios": [{ "inicio": "05:00", "fin": "23:59" }],
+        "dias_semana": "D",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "",
+        "procedimiento": "PR O-INF-CO-SUB-03 v01 Taludes, terraplenes, contrataludes"
+      },
+      {
+        "area": "Infraestructura",
+        "n_tarea": "595/10",
+        "zona_ocupacion": "SEGURIDAD",
+        "descripcion": "Control de vegetación",
+        "sistema_trabajo": "",
+        "pk": "155+552 a 260+034 Trayecto Sarandí (SR) -- Terminal Centenario (TC)",
+        "fecha_inicio": "26-10-2025",
+        "fecha_fin": "26-10-2025",
+        "horarios": [{ "inicio": "05:00", "fin": "23:59" }],
+        "dias_semana": "D",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "Tractor",
+        "consideraciones": "",
+        "procedimiento": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación"
+      }
+    ],
+    "ILT": [
+      {
+        "area": "VÍAS",
+        "n_tarea": "596/10",
+        "zona_ocupacion": "PELIGRO",
+        "descripcion": "Inspección de curvas y engrase manual",
+        "sistema_trabajo": "ILT",
+        "pk": "072+200 a 072+500 Trayecto Independencia (IN) -- Cardal (CD) Via 1",
+        "fecha_inicio": "26-10-2025",
+        "fecha_fin": "26-10-2025",
+        "horarios": [{ "inicio": "05:00", "fin": "23:59" }],
+        "dias_semana": "D",
+        "responsable": "Encargado de trabajo",
+        "maquinaria": "",
+        "consideraciones": "",
+        "procedimiento": "PR O-VIA-PV-ENG-001 Inspección de curvas y engrase manual"
+      }
+    ]
+  }
+}

@@ -1,0 +1,3423 @@
+{
+    "metadata": {
+        "report_name": "FO O-PLA-00-GEN-03",
+        "state": "APROBADO",
+        "date": "30/01/2026",
+        "week": "08",
+        "tasks_count": 99,
+        "work_orders_count": 229,
+        "valid_tasks_count": 99,
+        "invalid_tasks_count": 0
+    },
+    "tasks": {
+        "LUNES": {
+            "EVB": [
+                {
+                    "area": "Infraestructura",
+                    "n_task": "612/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Limpiezas puntuales de zanjas, alcantarillas y sistema de drenaje, Restauración de taludes",
+                    "work_system": "EVB",
+                    "pk": "000+500 a 007+400 Trayecto Nueva Terminal Montevideo (MV) -- Cementos Artigas (CA) Via 1y2",
+                    "begin_date": "16-02-2026",
+                    "end_date": "16-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "05:00",
+                            "end": "08:00"
+                        },
+                        {
+                            "begin": "10:00",
+                            "end": "13:30"
+                        },
+                        {
+                            "begin": "16:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "week_days": "L",
+                    "responsible": "Se puede realizar con encargado de trabajo en conjunto con tarea N° 414/02",
+                    "machinery": "",
+                    "assets": [],
+                    "considerations": "",
+                    "procedure": "PR O-INF-PV-DRE-01 v01 Limpieza de drenajes longitudinales y transversales",
+                    "gamas": [
+                        "I_F_10_LIMP_ZAD_COR"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                },
+                {
+                    "area": "Señalización",
+                    "n_task": "613/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Instalación de extractores en armario PaN",
+                    "work_system": "EVB",
+                    "pk": "000+923 a 009+306 Trayecto Nueva Terminal Montevideo (MV) -- Sayago (SY) Via 1y2",
+                    "begin_date": "16-02-2026",
+                    "end_date": "16-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "05:00",
+                            "end": "08:00"
+                        },
+                        {
+                            "begin": "10:00",
+                            "end": "13:30"
+                        },
+                        {
+                            "begin": "16:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "week_days": "L",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "",
+                    "assets": [
+                        "LC003",
+                        "LC012",
+                        "LC022",
+                        "LC024",
+                        "LC027",
+                        "LC029"
+                    ],
+                    "considerations": "PaN: LC3, LC12, LC22, LC24, LC27, LC29",
+                    "procedure": "PR O-SEN-00-GEN-02 v01 Mantenimiento PAN, SAD y comunicación",
+                    "gamas": [
+                        "S_F_CORRECTIVO"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                },
+                {
+                    "area": "Señalización",
+                    "n_task": "614/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Pasos a Nivel – Mantenimiento semestral",
+                    "work_system": "EVB",
+                    "pk": "015+684 a 016+473 Trayecto Colón (CO) -- Crossover (CR) Via 1y2",
+                    "begin_date": "16-02-2026",
+                    "end_date": "16-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "05:00",
+                            "end": "07:30"
+                        },
+                        {
+                            "begin": "08:00",
+                            "end": "09:00"
+                        },
+                        {
+                            "begin": "10:00",
+                            "end": "13:30"
+                        },
+                        {
+                            "begin": "16:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "week_days": "L",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "",
+                    "assets": [
+                        "LC046",
+                        "LC047",
+                        "LC048",
+                        "LC049"
+                    ],
+                    "considerations": "PaN: LC46, LC47, LC48, LC49",
+                    "procedure": "PR O-SEN-00-GEN-02 v01 Mantenimiento PAN, SAD y comunicación",
+                    "gamas": [
+                        "IP-PAN-6M"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                },
+                {
+                    "area": "Señalización",
+                    "n_task": "615/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Instalación de extractores en armario PaN",
+                    "work_system": "EVB",
+                    "pk": "057+958 a 060+561 Trayecto Santa Lucía (SL) -- 25 de Agosto (AG) Via 1",
+                    "begin_date": "16-02-2026",
+                    "end_date": "16-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "06:30",
+                            "end": "08:00"
+                        },
+                        {
+                            "begin": "09:00",
+                            "end": "11:30"
+                        },
+                        {
+                            "begin": "12:00",
+                            "end": "14:00"
+                        },
+                        {
+                            "begin": "16:00",
+                            "end": "17:30"
+                        }
+                    ],
+                    "week_days": "L",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "",
+                    "assets": [
+                        "LC108",
+                        "LC109"
+                    ],
+                    "considerations": "PaN: LC108, LC109",
+                    "procedure": "PR O-SEN-00-GEN-02 v01 Mantenimiento PAN, SAD y comunicación",
+                    "gamas": [
+                        "S_F_CORRECTIVO"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                },
+                {
+                    "area": "Infraestructura",
+                    "n_task": "616/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Limpieza puntuales de zanjas, alcantarillas y sistema de drenaje, mantenimiento y limpieza de puente y estructuras.",
+                    "work_system": "EVB",
+                    "pk": "063+621 a 079+561 Trayecto independencia (IN) -- Cardal (CD) Via 1",
+                    "begin_date": "16-02-2026",
+                    "end_date": "16-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "08:30",
+                            "end": "12:00"
+                        },
+                        {
+                            "begin": "12:30",
+                            "end": "13:30"
+                        },
+                        {
+                            "begin": "14:30",
+                            "end": "15:30"
+                        },
+                        {
+                            "begin": "16:00",
+                            "end": "17:30"
+                        }
+                    ],
+                    "week_days": "L",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "Mini excavadora, combinada y tractor",
+                    "assets": [],
+                    "considerations": "",
+                    "procedure": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación PR O -INF-PV-DRE-01 Limpieza de drenajes longitudinales y transversales",
+                    "gamas": [
+                        "I_F_10_LIMP_ZAD_COR"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                },
+                {
+                    "area": "Señalización",
+                    "n_task": "617/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Pasos a Nivel – Mantenimiento semestral",
+                    "work_system": "EVB",
+                    "pk": "086+992 a 097+607 Trayecto 25 de Mayo (MY) -- Florida(FL) Via 1",
+                    "begin_date": "16-02-2026",
+                    "end_date": "16-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "08:00",
+                            "end": "12:30"
+                        },
+                        {
+                            "begin": "14:00",
+                            "end": "16:00"
+                        },
+                        {
+                            "begin": "16:30",
+                            "end": "18:00"
+                        }
+                    ],
+                    "week_days": "L",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "",
+                    "assets": [
+                        "LC139",
+                        "LC140",
+                        "LC141",
+                        "LC142",
+                        "LC143",
+                        "LC144",
+                        "LC145",
+                        "LC146",
+                        "LC147",
+                        "LC149"
+                    ],
+                    "considerations": "PaN: LC139, LC140, LC141, LC142, LC143, LC144, LC145, LC146, LC147, LC149",
+                    "procedure": "PR O-SEN-00-GEN-02 v01 Mantenimiento PAN, SAD y comunicación",
+                    "gamas": [
+                        "IP-PAN-6M"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                },
+                {
+                    "area": "Infraestructura",
+                    "n_task": "618/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Limpieza puntuales de zanjas, alcantarillas y sistema de drenaje, control de vegetación.",
+                    "work_system": "EVB",
+                    "pk": "138+152 a 164+864 Trayecto Pintado (PI) -- Punta de Maciel (MA) Via 1",
+                    "begin_date": "16-02-2026",
+                    "end_date": "16-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "09:00",
+                            "end": "12:00"
+                        },
+                        {
+                            "begin": "14:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "week_days": "L",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "Mini excavadora, combinada y tractor",
+                    "assets": [],
+                    "considerations": "",
+                    "procedure": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación PR O -INF-PV-DRE-01 Limpieza de drenajes longitudinales y transversales",
+                    "gamas": [
+                        "I_F_10_LIMP_ZAD_COR",
+                        "I_F_08_CON_VEG_PREV"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                },
+                {
+                    "area": "VIAS",
+                    "n_task": "619/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Mantenimiento de PAN",
+                    "work_system": "EVB",
+                    "pk": "178+681 a 193+877 Trayecto Goñi (GO) -- Durazno (DZ) Via 1",
+                    "begin_date": "16-02-2026",
+                    "end_date": "16-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "06:00",
+                            "end": "08:30"
+                        },
+                        {
+                            "begin": "09:00",
+                            "end": "11:30"
+                        },
+                        {
+                            "begin": "12:00",
+                            "end": "14:30"
+                        },
+                        {
+                            "begin": "15:00",
+                            "end": "17:30"
+                        }
+                    ],
+                    "week_days": "L",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "",
+                    "assets": [
+                        "LC225",
+                        "LC226",
+                        "LC234",
+                        "LC238"
+                    ],
+                    "considerations": "LC225 / LC226 / LC234 / LC238",
+                    "procedure": "PR O-VIA-CO-PAN-001 Mantenimiento y reparación de PaN",
+                    "gamas": [
+                        "V_F_54_MAN_PAN"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                },
+                {
+                    "area": "Señalización",
+                    "n_task": "620/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Pasos a Nivel – Mantenimiento semestral",
+                    "work_system": "EVB",
+                    "pk": "195+275 a 198+749 Trayecto Silos (SI) -- Villasboas (VI) Via 1",
+                    "begin_date": "16-02-2026",
+                    "end_date": "16-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "06:00",
+                            "end": "08:30"
+                        },
+                        {
+                            "begin": "09:30",
+                            "end": "11:00"
+                        },
+                        {
+                            "begin": "12:00",
+                            "end": "14:30"
+                        },
+                        {
+                            "begin": "15:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "week_days": "L",
+                    "responsible": "Se puede realizar con encargado de trabajo en conjunto con tarea N° 426/02",
+                    "machinery": "",
+                    "assets": [
+                        "LC241",
+                        "LC243",
+                        "LC246",
+                        "LC247",
+                        "LC248",
+                        "LC249"
+                    ],
+                    "considerations": "PaN: LC241, LC243, LC246, LC247, LC248, LC249",
+                    "procedure": "PR O-SEN-00-GEN-02 v01 Mantenimiento PAN, SAD y comunicación",
+                    "gamas": [
+                        "IP-PAN-6M"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                },
+                {
+                    "area": "Infraestructura",
+                    "n_task": "621/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Limpieza puntuales de zanjas, alcantarillas y sistema de drenaje, control de vegetación.",
+                    "work_system": "EVB",
+                    "pk": "195+511 a 212+976 Trayecto Durazno (DZ) -- Villasboas (VI) Via 1",
+                    "begin_date": "16-02-2026",
+                    "end_date": "16-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "06:00",
+                            "end": "08:30"
+                        },
+                        {
+                            "begin": "09:30",
+                            "end": "11:00"
+                        },
+                        {
+                            "begin": "12:00",
+                            "end": "14:30"
+                        },
+                        {
+                            "begin": "15:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "week_days": "L",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "Mini excavadora, combinada y tractor",
+                    "assets": [],
+                    "considerations": "",
+                    "procedure": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación PR O -INF-PV-DRE-01 Limpieza de drenajes longitudinales y transversales",
+                    "gamas": [
+                        "I_F_10_LIMP_ZAD_COR",
+                        "I_F_08_CON_VEG_PREV"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                },
+                {
+                    "area": "Infraestructura",
+                    "n_task": "622/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Limpieza puntuales de zanjas, alcantarillas y sistema de drenaje, control de vegetación.",
+                    "work_system": "EVB",
+                    "pk": "243+486 a 255+826 Trayecto Carlos Reyles Norte (RN) -- Bifurcación Paso de los Toros (PT) Via 1",
+                    "begin_date": "16-02-2026",
+                    "end_date": "16-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "05:00",
+                            "end": "09:30"
+                        },
+                        {
+                            "begin": "11:00",
+                            "end": "15:30"
+                        }
+                    ],
+                    "week_days": "L",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "Mini excavadora, combinada y tractor",
+                    "assets": [],
+                    "considerations": "",
+                    "procedure": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación PR O -INF-PV-DRE-01 Limpieza de drenajes longitudinales y transversales",
+                    "gamas": [
+                        "I_F_10_LIMP_ZAD_COR",
+                        "I_F_08_CON_VEG_PREV"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                }
+            ],
+            "TRABAJOS EN ESTACIÓN": [
+                {
+                    "area": "Señalización",
+                    "n_task": "623/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Instalación de extractores en armario PaN",
+                    "work_system": "ESTACIÓN",
+                    "pk": "000+603 a 001+720 (PE) Peñarol (PE) Via 1y2",
+                    "begin_date": "16-02-2026",
+                    "end_date": "16-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "05:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "week_days": "L",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "",
+                    "assets": [
+                        "LC291",
+                        "LC292",
+                        "LC293",
+                        "LC297"
+                    ],
+                    "considerations": "PaN: LC291, LC292, LC293, LC297",
+                    "procedure": "PR O-SEN-00-GEN-02 v01 Mantenimiento PAN, SAD y comunicación",
+                    "gamas": [
+                        "S_F_CORRECTIVO"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                },
+                {
+                    "area": "Señalización",
+                    "n_task": "624/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Instalación de extractores en armario PaN",
+                    "work_system": "ESTACIÓN",
+                    "pk": "042+268 a 044+984 Canelones (CN) Via 1",
+                    "begin_date": "16-02-2026",
+                    "end_date": "16-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "06:30",
+                            "end": "08:30"
+                        },
+                        {
+                            "begin": "09:00",
+                            "end": "11:30"
+                        },
+                        {
+                            "begin": "12:00",
+                            "end": "14:30"
+                        },
+                        {
+                            "begin": "15:30",
+                            "end": "17:30"
+                        }
+                    ],
+                    "week_days": "L",
+                    "responsible": "Se puede realizar con encargado de trabajo en conjunto con tarea N° 430/02",
+                    "machinery": "",
+                    "assets": [
+                        "LC087",
+                        "LC298",
+                        "LC092",
+                        "LC093",
+                        "LC094",
+                        "LC095",
+                        "LC096",
+                        "LC097"
+                    ],
+                    "considerations": "PaN: LC87, LC298, LC92, LC93, LC94, LC95, LC96, LC97",
+                    "procedure": "PR O-SEN-00-GEN-02 v01 Mantenimiento PAN, SAD y comunicación",
+                    "gamas": [
+                        "S_F_CORRECTIVO"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                }
+            ],
+            "TRABAJOS EN ZONA DE SEGURIDAD": [
+                {
+                    "area": "Infraestructura",
+                    "n_task": "625/02",
+                    "occupation_zone": "SEGURIDAD",
+                    "description": "Control de Vegetación",
+                    "work_system": "ZONA DE SEGURIDAD",
+                    "pk": "000+500 a 059+487 Trayecto Nueva Terminal Montevideo (MV) -- 25 de Agosto (AG)",
+                    "begin_date": "16-02-2026",
+                    "end_date": "16-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "05:00",
+                            "end": "23:30"
+                        }
+                    ],
+                    "week_days": "L",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "",
+                    "assets": [],
+                    "considerations": "",
+                    "procedure": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación",
+                    "gamas": [
+                        "I_F_08_CON_VEG_PREV"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                },
+                {
+                    "area": "Infraestructura",
+                    "n_task": "626/02",
+                    "occupation_zone": "SEGURIDAD",
+                    "description": "Recorrida a pie",
+                    "work_system": "ZONA DE SEGURIDAD",
+                    "pk": "060+000 a 075+000 Trayecto 25 de Agosto (AG) -- Cardal (CD)",
+                    "begin_date": "16-02-2026",
+                    "end_date": "16-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "05:00",
+                            "end": "23:30"
+                        }
+                    ],
+                    "week_days": "L",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "",
+                    "assets": [],
+                    "considerations": "",
+                    "procedure": "",
+                    "gamas": [
+                        "I_F_01_INSP_PIE"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                },
+                {
+                    "area": "Infraestructura",
+                    "n_task": "627/02",
+                    "occupation_zone": "SEGURIDAD",
+                    "description": "Control de vegetación y reparación de cerco, recambio de tapas",
+                    "work_system": "ZONA DE SEGURIDAD",
+                    "pk": "060+000 a 148+000 Trayecto 25 de Agosto (AG) -- Sarandí (SR)",
+                    "begin_date": "16-02-2026",
+                    "end_date": "16-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "05:00",
+                            "end": "23:30"
+                        }
+                    ],
+                    "week_days": "L",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "Tractor",
+                    "assets": [],
+                    "considerations": "",
+                    "procedure": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación",
+                    "gamas": [
+                        "I_F_02_CER_ALAM_COR",
+                        "I_F_08_CON_VEG_PREV"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                },
+                {
+                    "area": "Infraestructura",
+                    "n_task": "628/02",
+                    "occupation_zone": "SEGURIDAD",
+                    "description": "Control de vegetación y reparación de cerco, recorrida a pie",
+                    "work_system": "ZONA DE SEGURIDAD",
+                    "pk": "138+152 a 263+384 Trayecto Pintado (PI) -- Terminal Centenario (TC)",
+                    "begin_date": "16-02-2026",
+                    "end_date": "16-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "05:00",
+                            "end": "23:30"
+                        }
+                    ],
+                    "week_days": "L",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "Tractor",
+                    "assets": [],
+                    "considerations": "",
+                    "procedure": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación",
+                    "gamas": [
+                        "I_F_02_CER_ALAM_COR",
+                        "I_F_01_INSP_PIE",
+                        "I_F_08_CON_VEG_PREV"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                },
+                {
+                    "area": "Infraestructura",
+                    "n_task": "629/02",
+                    "occupation_zone": "SEGURIDAD",
+                    "description": "Recorrida a pie",
+                    "work_system": "ZONA DE SEGURIDAD",
+                    "pk": "150+000 a 165+000 Trayecto Pintado (PI) -- Goñi (GO)",
+                    "begin_date": "16-02-2026",
+                    "end_date": "16-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "05:00",
+                            "end": "23:30"
+                        }
+                    ],
+                    "week_days": "L",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "",
+                    "assets": [],
+                    "considerations": "",
+                    "procedure": "",
+                    "gamas": [
+                        "I_F_01_INSP_PIE"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                }
+            ],
+            "ILT": [
+                {
+                    "area": "VIAS",
+                    "n_task": "630/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Inspección de curvas y engrase manual",
+                    "work_system": "ILT",
+                    "pk": "145+250 a 145+900 Trayecto Pintado (PI) -- Sarandí (SR) Via 1",
+                    "begin_date": "16-02-2026",
+                    "end_date": "16-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "05:00",
+                            "end": "23:30"
+                        }
+                    ],
+                    "week_days": "L",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "",
+                    "assets": [],
+                    "considerations": "",
+                    "procedure": "PR O-VIA-PV-ENG-001 Inspección de curvas y engrase manual",
+                    "gamas": [
+                        "V_F_17_INSP_CURV"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                },
+                {
+                    "area": "VIAS",
+                    "n_task": "631/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Inspección de curvas y engrase manual",
+                    "work_system": "ILT",
+                    "pk": "146+100 a 146+570 Trayecto Pintado (PI) -- Sarandí (SR) Via 1",
+                    "begin_date": "16-02-2026",
+                    "end_date": "16-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "05:00",
+                            "end": "23:30"
+                        }
+                    ],
+                    "week_days": "L",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "",
+                    "assets": [],
+                    "considerations": "",
+                    "procedure": "PR O-VIA-PV-ENG-001 Inspección de curvas y engrase manual",
+                    "gamas": [
+                        "V_F_17_INSP_CURV"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                }
+            ]
+        },
+        "MARTES": {
+            "EVB": [
+                {
+                    "area": "Infraestructura",
+                    "n_task": "632/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Limpieza puntuales de zanjas, alcantarillas y sistema de drenaje, mantenimiento y limpieza de puente y estructuras.",
+                    "work_system": "EVB",
+                    "pk": "065+348 a 075+800 Trayecto independencia (IN) -- Cardal (CD) Via 1",
+                    "begin_date": "17-02-2026",
+                    "end_date": "17-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "08:30",
+                            "end": "12:00"
+                        },
+                        {
+                            "begin": "12:30",
+                            "end": "13:30"
+                        },
+                        {
+                            "begin": "14:30",
+                            "end": "15:30"
+                        },
+                        {
+                            "begin": "16:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "week_days": "M",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "Mini excavadora, combinada y tractor",
+                    "assets": [],
+                    "considerations": "",
+                    "procedure": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación PR O -INF-PV-DRE-01 Limpieza de drenajes longitudinales y transversales",
+                    "gamas": [
+                        "I_F_10_LIMP_ZAD_COR"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                },
+                {
+                    "area": "Infraestructura",
+                    "n_task": "633/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Limpiezas puntuales de zanjas, alcantarillas y sistema de drenaje, Restauración de taludes",
+                    "work_system": "EVB",
+                    "pk": "000+500 a 037+362 Trayecto Nueva Terminal Montevideo (MV) -- Massaro (MS) Via 1y2",
+                    "begin_date": "17-02-2026",
+                    "end_date": "17-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "05:00",
+                            "end": "07:00"
+                        },
+                        {
+                            "begin": "10:00",
+                            "end": "13:30"
+                        },
+                        {
+                            "begin": "16:00",
+                            "end": "20:30"
+                        }
+                    ],
+                    "week_days": "M",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "Dresina E:V5-LC D:V5-LC",
+                    "assets": [],
+                    "considerations": "",
+                    "procedure": "PR O-INF-CO-SUB-03 v01 Taludes, terraplenes, contrataludes",
+                    "gamas": [
+                        "I_F_10_LIMP_ZAD_COR"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                },
+                {
+                    "area": "Señalización",
+                    "n_task": "634/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Instalación de extractores en armario PaN",
+                    "work_system": "EVB",
+                    "pk": "001+145 a 011+283 Trayecto Nueva Terminal Montevideo (MV) -- Colón (CO) Via 1y2",
+                    "begin_date": "17-02-2026",
+                    "end_date": "17-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "05:00",
+                            "end": "07:00"
+                        },
+                        {
+                            "begin": "10:00",
+                            "end": "13:30"
+                        },
+                        {
+                            "begin": "16:00",
+                            "end": "20:30"
+                        }
+                    ],
+                    "week_days": "M",
+                    "responsible": "Se puede realizar con encargado de trabajo en conjunto con tarea N° 446/02",
+                    "machinery": "",
+                    "assets": [
+                        "LC027",
+                        "LC029",
+                        "LC030",
+                        "LC031",
+                        "LC032",
+                        "LC034",
+                        "LC035"
+                    ],
+                    "considerations": "PaN: LC27, LC29, LC30, LC31, LC32, LC34, LC35",
+                    "procedure": "PR O-SEN-00-GEN-02 v01 Mantenimiento PAN, SAD y comunicación",
+                    "gamas": [
+                        "S_F_CORRECTIVO"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                },
+                {
+                    "area": "Señalización",
+                    "n_task": "635/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Pasos a Nivel – Mantenimiento semestral",
+                    "work_system": "EVB",
+                    "pk": "016+766 a 017+772 Trayecto Colón (CO) -- Crossover (CR) Via 1y2",
+                    "begin_date": "17-02-2026",
+                    "end_date": "17-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "05:00",
+                            "end": "07:00"
+                        },
+                        {
+                            "begin": "10:00",
+                            "end": "13:30"
+                        },
+                        {
+                            "begin": "16:00",
+                            "end": "20:30"
+                        }
+                    ],
+                    "week_days": "M",
+                    "responsible": "Se puede realizar con encargado de trabajo en conjunto con tarea N° 446/02",
+                    "machinery": "",
+                    "assets": [
+                        "LC050",
+                        "LC051",
+                        "LC052",
+                        "LC053"
+                    ],
+                    "considerations": "PaN: LC50, LC51, LC52, LC53",
+                    "procedure": "PR O-SEN-00-GEN-02 v01 Mantenimiento PAN, SAD y comunicación",
+                    "gamas": [
+                        "IP-PAN-6M"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                },
+                {
+                    "area": "Infraestructura",
+                    "n_task": "636/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Limpiezas puntuales de zanjas, alcantarillas y sistema de drenaje, Restauración de taludes",
+                    "work_system": "EVB",
+                    "pk": "017+665 a 027+598 Trayecto Crossover (CR) -- Progreso (PR) Via 1y2",
+                    "begin_date": "17-02-2026",
+                    "end_date": "17-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "05:00",
+                            "end": "07:00"
+                        },
+                        {
+                            "begin": "10:00",
+                            "end": "13:30"
+                        },
+                        {
+                            "begin": "16:00",
+                            "end": "20:30"
+                        }
+                    ],
+                    "week_days": "M",
+                    "responsible": "Se puede realizar con encargado de trabajo en conjunto con tarea N° 446/02",
+                    "machinery": "",
+                    "assets": [],
+                    "considerations": "",
+                    "procedure": "PR O-INF-CO-SUB-03 v01 Taludes, terraplenes, contrataludes",
+                    "gamas": [
+                        "I_F_10_LIMP_ZAD_COR"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                },
+                {
+                    "area": "Señalización",
+                    "n_task": "637/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Instalación de extractores en armario PaN",
+                    "work_system": "EVB",
+                    "pk": "044+335 a 065+348 Trayecto Canelones (CN) -- independencia (IN) Via 1",
+                    "begin_date": "17-02-2026",
+                    "end_date": "17-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "16:00",
+                            "end": "17:30"
+                        }
+                    ],
+                    "week_days": "M",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "",
+                    "assets": [
+                        "LC095",
+                        "LC096",
+                        "LC097",
+                        "LC108",
+                        "LC109",
+                        "LC111",
+                        "LC112",
+                        "LC113",
+                        "LC115",
+                        "LC118"
+                    ],
+                    "considerations": "PaN: LC95, LC96, LC97, LC108, LC109, LC111, LC112, LC113, LC115, LC118",
+                    "procedure": "PR O-SEN-00-GEN-02 v01 Mantenimiento PAN, SAD y comunicación",
+                    "gamas": [
+                        "S_F_CORRECTIVO"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                },
+                {
+                    "area": "Infraestructura",
+                    "n_task": "638/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Limpieza puntuales de zanjas, alcantarillas y sistema de drenaje, control de vegetación.",
+                    "work_system": "EVB",
+                    "pk": "138+152 a 155+552 Trayecto Pintado (PI) -- Sarandí (SR) Via 1",
+                    "begin_date": "17-02-2026",
+                    "end_date": "17-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "08:30",
+                            "end": "12:00"
+                        },
+                        {
+                            "begin": "14:30",
+                            "end": "17:00"
+                        }
+                    ],
+                    "week_days": "M",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "Mini excavadora, combinada y tractor",
+                    "assets": [],
+                    "considerations": "",
+                    "procedure": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación PR O -INF-PV-DRE-01 Limpieza de drenajes longitudinales y transversales",
+                    "gamas": [
+                        "I_F_10_LIMP_ZAD_COR",
+                        "I_F_08_CON_VEG_PREV"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                },
+                {
+                    "area": "Infraestructura",
+                    "n_task": "639/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Limpieza puntuales de zanjas, alcantarillas y sistema de drenaje, control de vegetación.",
+                    "work_system": "EVB",
+                    "pk": "157+242 a 164+864 Trayecto Sarandí (SR) -- Punta de Maciel (MA) Via 1",
+                    "begin_date": "17-02-2026",
+                    "end_date": "17-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "08:30",
+                            "end": "12:00"
+                        },
+                        {
+                            "begin": "14:30",
+                            "end": "17:00"
+                        }
+                    ],
+                    "week_days": "M",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "Mini excavadora, combinada y tractor",
+                    "assets": [],
+                    "considerations": "",
+                    "procedure": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación PR O -INF-PV-DRE-01 Limpieza de drenajes longitudinales y transversales",
+                    "gamas": [
+                        "I_F_10_LIMP_ZAD_COR",
+                        "I_F_08_CON_VEG_PREV"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                },
+                {
+                    "area": "VIAS",
+                    "n_task": "640/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Reparación de PAN",
+                    "work_system": "EVB",
+                    "pk": "187+578 a 195+511 Trayecto Silos (SI) -- Durazno (DZ) Via 1",
+                    "begin_date": "17-02-2026",
+                    "end_date": "17-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "06:00",
+                            "end": "08:30"
+                        },
+                        {
+                            "begin": "09:00",
+                            "end": "11:30"
+                        },
+                        {
+                            "begin": "12:00",
+                            "end": "14:00"
+                        },
+                        {
+                            "begin": "15:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "week_days": "M",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "Bivial E:LC234 D:LC234",
+                    "assets": [
+                        "LC234"
+                    ],
+                    "considerations": "LC234 PK -189+685. Desarme y limpieza de PAN, nivelación de macizo de apoyo de vigas y montaje",
+                    "procedure": "PR O-VIA-CO-PAN-001 Mantenimiento y reparación de PaN",
+                    "gamas": [
+                        "V_F_55_REP_PAN"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                },
+                {
+                    "area": "Infraestructura",
+                    "n_task": "641/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Limpieza puntuales de zanjas, alcantarillas y sistema de drenaje, control de vegetación.",
+                    "work_system": "EVB",
+                    "pk": "195+511 a 213+257 Trayecto Durazno (DZ) -- Villasboas (VI) Via 1",
+                    "begin_date": "17-02-2026",
+                    "end_date": "17-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "06:00",
+                            "end": "08:30"
+                        },
+                        {
+                            "begin": "09:30",
+                            "end": "11:00"
+                        },
+                        {
+                            "begin": "12:00",
+                            "end": "14:30"
+                        },
+                        {
+                            "begin": "15:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "week_days": "M",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "Mini excavadora, combinada y tractor",
+                    "assets": [],
+                    "considerations": "",
+                    "procedure": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación PR O -INF-PV-DRE-01 Limpieza de drenajes longitudinales y transversales",
+                    "gamas": [
+                        "I_F_10_LIMP_ZAD_COR",
+                        "I_F_08_CON_VEG_PREV"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                },
+                {
+                    "area": "Infraestructura",
+                    "n_task": "642/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Limpieza puntuales de zanjas, alcantarillas y sistema de drenaje, control de vegetación.",
+                    "work_system": "EVB",
+                    "pk": "243+486 a 255+826 Trayecto Carlos Reyles Norte (RN) -- Bifurcación Paso de los Toros (PT) Via 1",
+                    "begin_date": "17-02-2026",
+                    "end_date": "17-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "05:00",
+                            "end": "09:30"
+                        },
+                        {
+                            "begin": "11:00",
+                            "end": "15:30"
+                        }
+                    ],
+                    "week_days": "M",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "Mini excavadora, combinada y tractor",
+                    "assets": [],
+                    "considerations": "",
+                    "procedure": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación PR O -INF-PV-DRE-01 Limpieza de drenajes longitudinales y transversales",
+                    "gamas": [
+                        "I_F_10_LIMP_ZAD_COR",
+                        "I_F_08_CON_VEG_PREV"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                }
+            ],
+            "TRABAJOS EN ESTACIÓN": [
+                {
+                    "area": "VIAS",
+                    "n_task": "643/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Inspección de curvas y engrase manual",
+                    "work_system": "ESTACIÓN",
+                    "pk": "000+150 a 000+350 Nueva Terminal Montevideo (MV)",
+                    "begin_date": "17-02-2026",
+                    "end_date": "17-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "05:00",
+                            "end": "07:00"
+                        },
+                        {
+                            "begin": "10:00",
+                            "end": "13:30"
+                        },
+                        {
+                            "begin": "16:00",
+                            "end": "20:30"
+                        }
+                    ],
+                    "week_days": "M",
+                    "responsible": "Se puede realizar con encargado de trabajo en conjunto con tarea N° 446/02",
+                    "machinery": "",
+                    "assets": [],
+                    "considerations": "",
+                    "procedure": "PR O-VIA-PV-ENG-001 Inspección de curvas y engrase manual",
+                    "gamas": [
+                        "V_F_17_INSP_CURV"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                },
+                {
+                    "area": "Señalización",
+                    "n_task": "644/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Instalación de extractores en armario PaN",
+                    "work_system": "ESTACIÓN",
+                    "pk": "001+145 a 001+720 (PE) Peñarol (PE) Via 1y2",
+                    "begin_date": "17-02-2026",
+                    "end_date": "17-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "05:00",
+                            "end": "23:59"
+                        }
+                    ],
+                    "week_days": "M",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "",
+                    "assets": [
+                        "LC291",
+                        "LC292",
+                        "LC293",
+                        "LC297"
+                    ],
+                    "considerations": "PaN: LC291, LC292, LC293, LC297",
+                    "procedure": "PR O-SEN-00-GEN-02 v01 Mantenimiento PAN, SAD y comunicación",
+                    "gamas": [
+                        "S_F_CORRECTIVO"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                }
+            ],
+            "TRABAJOS EN ZONA DE SEGURIDAD": [
+                {
+                    "area": "Infraestructura",
+                    "n_task": "645/02",
+                    "occupation_zone": "SEGURIDAD",
+                    "description": "Control de Vegetación",
+                    "work_system": "ZONA DE SEGURIDAD",
+                    "pk": "000+500 a 059+487 Trayecto Nueva Terminal Montevideo (MV) -- 25 de Agosto (AG)",
+                    "begin_date": "17-02-2026",
+                    "end_date": "17-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "05:00",
+                            "end": "23:30"
+                        }
+                    ],
+                    "week_days": "M",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "",
+                    "assets": [],
+                    "considerations": "",
+                    "procedure": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación",
+                    "gamas": [
+                        "I_F_08_CON_VEG_PREV"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                },
+                {
+                    "area": "Infraestructura",
+                    "n_task": "646/02",
+                    "occupation_zone": "SEGURIDAD",
+                    "description": "Control de vegetación y reparación de cerco, recambio de tapas",
+                    "work_system": "ZONA DE SEGURIDAD",
+                    "pk": "060+000 a 148+000 Trayecto 25 de Agosto (AG) -- Sarandí (SR)",
+                    "begin_date": "17-02-2026",
+                    "end_date": "17-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "05:00",
+                            "end": "23:30"
+                        }
+                    ],
+                    "week_days": "M",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "Tractor",
+                    "assets": [],
+                    "considerations": "",
+                    "procedure": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación",
+                    "gamas": [
+                        "I_F_02_CER_ALAM_COR",
+                        "I_F_08_CON_VEG_PREV"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                },
+                {
+                    "area": "Infraestructura",
+                    "n_task": "647/02",
+                    "occupation_zone": "SEGURIDAD",
+                    "description": "Recorrida a pie",
+                    "work_system": "ZONA DE SEGURIDAD",
+                    "pk": "075+000 a 090+000 Trayecto Independencia (IN) -- 25 de Mayo (MY)",
+                    "begin_date": "17-02-2026",
+                    "end_date": "17-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "05:00",
+                            "end": "23:30"
+                        }
+                    ],
+                    "week_days": "M",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "",
+                    "assets": [],
+                    "considerations": "",
+                    "procedure": "",
+                    "gamas": [
+                        "I_F_01_INSP_PIE"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                },
+                {
+                    "area": "Infraestructura",
+                    "n_task": "648/02",
+                    "occupation_zone": "SEGURIDAD",
+                    "description": "Control de vegetación y reparación de cerco, recorrida a pie",
+                    "work_system": "ZONA DE SEGURIDAD",
+                    "pk": "138+152 a 263+384 Trayecto Pintado (PI) -- Terminal Centenario (TC)",
+                    "begin_date": "17-02-2026",
+                    "end_date": "17-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "05:00",
+                            "end": "23:30"
+                        }
+                    ],
+                    "week_days": "M",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "Tractor",
+                    "assets": [],
+                    "considerations": "",
+                    "procedure": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación",
+                    "gamas": [
+                        "I_F_02_CER_ALAM_COR",
+                        "I_F_01_INSP_PIE"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                },
+                {
+                    "area": "Infraestructura",
+                    "n_task": "649/02",
+                    "occupation_zone": "SEGURIDAD",
+                    "description": "Recorrida a pie",
+                    "work_system": "ZONA DE SEGURIDAD",
+                    "pk": "165+000 a 180+000 Trayecto Puntas de Maciel (MA) -- Silos (SI)",
+                    "begin_date": "17-02-2026",
+                    "end_date": "17-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "05:00",
+                            "end": "23:30"
+                        }
+                    ],
+                    "week_days": "M",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "",
+                    "assets": [],
+                    "considerations": "",
+                    "procedure": "",
+                    "gamas": [
+                        "I_F_01_INSP_PIE"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                }
+            ]
+        },
+        "MIÉRCOLES": {
+            "EVB": [
+                {
+                    "area": "Infraestructura",
+                    "n_task": "650/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Limpiezas puntuales de zanjas, alcantarillas y sistema de drenaje, Restauración de taludes",
+                    "work_system": "EVB",
+                    "pk": "000+000 a 015+875 Trayecto Nueva Terminal Montevideo (MV) -- Crossover (CR) Via 1y2",
+                    "begin_date": "18-02-2026",
+                    "end_date": "18-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "05:00",
+                            "end": "07:30"
+                        },
+                        {
+                            "begin": "10:00",
+                            "end": "13:30"
+                        },
+                        {
+                            "begin": "16:00",
+                            "end": "20:30"
+                        }
+                    ],
+                    "week_days": "X",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "Desalojos Montevideo",
+                    "assets": [],
+                    "considerations": "",
+                    "procedure": "PR O-INF-CO-SUB-03 v01 Taludes, terraplenes, contrataludes",
+                    "gamas": [
+                        "I_F_10_LIMP_ZAD_COR"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                },
+                {
+                    "area": "Señalización",
+                    "n_task": "651/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Instalación de extractores en armario PaN",
+                    "work_system": "EVB",
+                    "pk": "009+780 a 014+267 Trayecto Sayago (SY) -- Crossover (CR) Via 1y2",
+                    "begin_date": "18-02-2026",
+                    "end_date": "18-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "05:00",
+                            "end": "07:30"
+                        },
+                        {
+                            "begin": "08:00",
+                            "end": "09:00"
+                        },
+                        {
+                            "begin": "10:00",
+                            "end": "13:30"
+                        },
+                        {
+                            "begin": "14:00",
+                            "end": "15:00"
+                        }
+                    ],
+                    "week_days": "X",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "",
+                    "assets": [
+                        "LC030",
+                        "LC031",
+                        "LC032",
+                        "LC034",
+                        "LC035",
+                        "LC036",
+                        "LC038",
+                        "LC039",
+                        "LC040",
+                        "LC041"
+                    ],
+                    "considerations": "PaN: LC30, LC31, LC32, LC34, LC35, LC36, LC38, LC39, LC40, LC41",
+                    "procedure": "PR O-SEN-00-GEN-02 v01 Mantenimiento PAN, SAD y comunicación",
+                    "gamas": [
+                        "S_F_CORRECTIVO"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                },
+                {
+                    "area": "Infraestructura",
+                    "n_task": "652/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Limpiezas puntuales de zanjas, alcantarillas y sistema de drenaje, Restauración de taludes",
+                    "work_system": "EVB",
+                    "pk": "017+665 a 027+598 Trayecto Crossover (CR) -- Progreso (PR) Via 1y2",
+                    "begin_date": "18-02-2026",
+                    "end_date": "18-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "05:00",
+                            "end": "07:30"
+                        },
+                        {
+                            "begin": "08:00",
+                            "end": "09:00"
+                        },
+                        {
+                            "begin": "10:00",
+                            "end": "13:30"
+                        },
+                        {
+                            "begin": "16:00",
+                            "end": "21:00"
+                        }
+                    ],
+                    "week_days": "X",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "",
+                    "assets": [],
+                    "considerations": "",
+                    "procedure": "PR O-INF-CO-SUB-03 v01 Taludes, terraplenes, contrataludes",
+                    "gamas": [
+                        "I_F_10_LIMP_ZAD_COR"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                },
+                {
+                    "area": "Señalización",
+                    "n_task": "653/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Pasos a Nivel – Mantenimiento semestral",
+                    "work_system": "EVB",
+                    "pk": "018+376 a 021+903 Trayecto Crossover (CR) -- Progreso (PR) Via 1y2",
+                    "begin_date": "18-02-2026",
+                    "end_date": "18-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "05:00",
+                            "end": "07:30"
+                        },
+                        {
+                            "begin": "08:00",
+                            "end": "09:00"
+                        },
+                        {
+                            "begin": "10:00",
+                            "end": "13:30"
+                        },
+                        {
+                            "begin": "16:00",
+                            "end": "21:00"
+                        }
+                    ],
+                    "week_days": "X",
+                    "responsible": "Se puede realizar con encargado de trabajo en conjunto con tarea N° 478/02",
+                    "machinery": "",
+                    "assets": [
+                        "LC054",
+                        "LC055",
+                        "LC057",
+                        "LC058"
+                    ],
+                    "considerations": "PaN: LC54, LC55, LC57, LC58",
+                    "procedure": "PR O-SEN-00-GEN-02 v01 Mantenimiento PAN, SAD y comunicación",
+                    "gamas": [
+                        "IP-PAN-6M"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                },
+                {
+                    "area": "Señalización",
+                    "n_task": "654/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Instalación de extractores en armario PaN",
+                    "work_system": "EVB",
+                    "pk": "061+485 a 066+396 Trayecto 25 de Agosto (AG) -- Cardal (CD) Via 1",
+                    "begin_date": "18-02-2026",
+                    "end_date": "18-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "06:30",
+                            "end": "08:00"
+                        }
+                    ],
+                    "week_days": "X",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "",
+                    "assets": [
+                        "LC111",
+                        "LC112",
+                        "LC113",
+                        "LC115",
+                        "LC118",
+                        "LC120"
+                    ],
+                    "considerations": "PaN: LC111, LC112, LC113, LC115, LC118, LC120",
+                    "procedure": "PR O-SEN-00-GEN-02 v01 Mantenimiento PAN, SAD y comunicación",
+                    "gamas": [
+                        "S_F_CORRECTIVO"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                },
+                {
+                    "area": "Infraestructura",
+                    "n_task": "655/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Limpieza puntuales de zanjas, alcantarillas y sistema de drenaje, mantenimiento y limpieza de puente y estructuras.",
+                    "work_system": "EVB",
+                    "pk": "066+396 a 075+929 Trayecto Independencia (IN) -- Cardal (CD) Via 1",
+                    "begin_date": "18-02-2026",
+                    "end_date": "18-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "08:30",
+                            "end": "12:00"
+                        },
+                        {
+                            "begin": "14:30",
+                            "end": "15:30"
+                        },
+                        {
+                            "begin": "16:00",
+                            "end": "18:00"
+                        }
+                    ],
+                    "week_days": "X",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "Mini excavadora, combinada y tractor",
+                    "assets": [],
+                    "considerations": "",
+                    "procedure": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación PR O -INF-PV-DRE-01 Limpieza de drenajes longitudinales y transversales",
+                    "gamas": [
+                        "I_F_10_LIMP_ZAD_COR"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                },
+                {
+                    "area": "Señalización",
+                    "n_task": "656/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Instalación de extractores en armario PaN",
+                    "work_system": "EVB",
+                    "pk": "075+929 a 077+390 Trayecto Independencia (IN) -- Cardal (CD) Via 1",
+                    "begin_date": "18-02-2026",
+                    "end_date": "18-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "08:30",
+                            "end": "12:00"
+                        },
+                        {
+                            "begin": "14:00",
+                            "end": "15:30"
+                        },
+                        {
+                            "begin": "16:00",
+                            "end": "17:30"
+                        }
+                    ],
+                    "week_days": "X",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "",
+                    "assets": [
+                        "LC909",
+                        "LC133",
+                        "LC135"
+                    ],
+                    "considerations": "PaN: LC909, LC133, LC135",
+                    "procedure": "PR O-SEN-00-GEN-02 v01 Mantenimiento PAN, SAD y comunicación",
+                    "gamas": [
+                        "S_F_CORRECTIVO"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                },
+                {
+                    "area": "Señalización",
+                    "n_task": "657/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Pasos a Nivel – Mantenimiento semestral",
+                    "work_system": "EVB",
+                    "pk": "097+739 a 108+079 Trayecto 25 de Mayo (MY) -- Florida Norte (FN) Via 1",
+                    "begin_date": "18-02-2026",
+                    "end_date": "18-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "08:00",
+                            "end": "11:30"
+                        },
+                        {
+                            "begin": "13:30",
+                            "end": "16:00"
+                        },
+                        {
+                            "begin": "16:30",
+                            "end": "18:30"
+                        }
+                    ],
+                    "week_days": "X",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "",
+                    "assets": [
+                        "LC150",
+                        "LC152",
+                        "LC155",
+                        "LC156",
+                        "LC157",
+                        "LC158",
+                        "LC159",
+                        "LC161",
+                        "LC162",
+                        "LC163"
+                    ],
+                    "considerations": "PaN: LC150, LC152, LC155, LC156, LC157, LC158, LC159, LC161, LC162, LC163",
+                    "procedure": "PR O-SEN-00-GEN-02 v01 Mantenimiento PAN, SAD y comunicación",
+                    "gamas": [
+                        "IP-PAN-6M"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                },
+                {
+                    "area": "Señalización",
+                    "n_task": "658/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Instalación de extractores en armario PaN",
+                    "work_system": "EVB",
+                    "pk": "103+851 a 103+851 Trayecto 25 de Mayo (MY) -- Florida(FL) Via 1",
+                    "begin_date": "18-02-2026",
+                    "end_date": "18-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "08:00",
+                            "end": "11:30"
+                        },
+                        {
+                            "begin": "13:30",
+                            "end": "16:00"
+                        },
+                        {
+                            "begin": "16:30",
+                            "end": "18:30"
+                        }
+                    ],
+                    "week_days": "X",
+                    "responsible": "Se puede realizar con encargado de trabajo en conjunto con tarea N° 483/02",
+                    "machinery": "",
+                    "assets": [
+                        "LC155"
+                    ],
+                    "considerations": "PaN: LC155",
+                    "procedure": "PR O-SEN-00-GEN-02 v01 Mantenimiento PAN, SAD y comunicación",
+                    "gamas": [
+                        "S_F_CORRECTIVO"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                },
+                {
+                    "area": "Infraestructura",
+                    "n_task": "659/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Limpieza puntuales de zanjas, alcantarillas y sistema de drenaje, control de vegetación.",
+                    "work_system": "EVB",
+                    "pk": "138+152 a 164+864 Trayecto Pintado (PI) -- Punta de Maciel (MA) Via 1",
+                    "begin_date": "18-02-2026",
+                    "end_date": "18-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "08:30",
+                            "end": "10:30"
+                        },
+                        {
+                            "begin": "14:30",
+                            "end": "17:00"
+                        }
+                    ],
+                    "week_days": "X",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "Mini excavadora, combinada y tractor",
+                    "assets": [],
+                    "considerations": "",
+                    "procedure": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación PR O -INF-PV-DRE-01 Limpieza de drenajes longitudinales y transversales",
+                    "gamas": [
+                        "I_F_10_LIMP_ZAD_COR",
+                        "I_F_08_CON_VEG_PREV"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                },
+                {
+                    "area": "VIAS",
+                    "n_task": "660/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Reparación de PAN",
+                    "work_system": "EVB",
+                    "pk": "187+578 a 195+511 Trayecto Silos (SI) -- Durazno (DZ) Via 1",
+                    "begin_date": "18-02-2026",
+                    "end_date": "18-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "06:00",
+                            "end": "08:30"
+                        },
+                        {
+                            "begin": "09:00",
+                            "end": "10:00"
+                        },
+                        {
+                            "begin": "12:00",
+                            "end": "14:00"
+                        },
+                        {
+                            "begin": "15:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "week_days": "X",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "Bivial E:LC234 D:LC234",
+                    "assets": [
+                        "LC234"
+                    ],
+                    "considerations": "LC234 PK -189+685 Desarme y limpieza de PAN, nivelación de macizo de apoyo de vigas y montaje",
+                    "procedure": "PR O-VIA-CO-PAN-001 Mantenimiento y reparación de PaN",
+                    "gamas": [
+                        "V_F_55_REP_PAN"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                },
+                {
+                    "area": "Infraestructura",
+                    "n_task": "661/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Limpieza puntuales de zanjas, alcantarillas y sistema de drenaje, control de vegetación.",
+                    "work_system": "EVB",
+                    "pk": "195+511 a 215+234 Trayecto Durazno (DZ) -- Villasboas (VI) Via 1",
+                    "begin_date": "18-02-2026",
+                    "end_date": "18-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "06:00",
+                            "end": "08:30"
+                        },
+                        {
+                            "begin": "12:00",
+                            "end": "14:30"
+                        },
+                        {
+                            "begin": "15:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "week_days": "X",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "Mini excavadora, combinada y tractor",
+                    "assets": [],
+                    "considerations": "",
+                    "procedure": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación PR O -INF-PV-DRE-01 Limpieza de drenajes longitudinales y transversales",
+                    "gamas": [
+                        "I_F_10_LIMP_ZAD_COR",
+                        "I_F_08_CON_VEG_PREV"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                },
+                {
+                    "area": "Infraestructura",
+                    "n_task": "662/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Limpieza puntuales de zanjas, alcantarillas y sistema de drenaje, control de vegetación.",
+                    "work_system": "EVB",
+                    "pk": "245+121 a 255+826 Trayecto Carlos Reyles Norte (RN) -- Bifurcación Paso de los Toros (PT) Via 1",
+                    "begin_date": "18-02-2026",
+                    "end_date": "18-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "05:00",
+                            "end": "09:00"
+                        },
+                        {
+                            "begin": "11:00",
+                            "end": "15:30"
+                        }
+                    ],
+                    "week_days": "X",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "Mini excavadora, combinada y tractor",
+                    "assets": [],
+                    "considerations": "",
+                    "procedure": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación PR O -INF-PV-DRE-01 Limpieza de drenajes longitudinales y transversales",
+                    "gamas": [
+                        "I_F_10_LIMP_ZAD_COR",
+                        "I_F_08_CON_VEG_PREV"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                }
+            ],
+            "TRABAJOS EN ESTACIÓN": [
+                {
+                    "area": "VIAS",
+                    "n_task": "663/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Inspección de curvas y engrase manual",
+                    "work_system": "ESTACIÓN",
+                    "pk": "042+700 a 042+900 Canelones (CN)",
+                    "begin_date": "18-02-2026",
+                    "end_date": "18-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "06:30",
+                            "end": "08:30"
+                        },
+                        {
+                            "begin": "09:00",
+                            "end": "11:30"
+                        },
+                        {
+                            "begin": "12:00",
+                            "end": "13:00"
+                        },
+                        {
+                            "begin": "13:30",
+                            "end": "14:30"
+                        }
+                    ],
+                    "week_days": "X",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "",
+                    "assets": [],
+                    "considerations": "",
+                    "procedure": "PR O-VIA-PV-ENG-001 Inspección de curvas y engrase manual",
+                    "gamas": [
+                        "V_F_17_INSP_CURV"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                }
+            ],
+            "TRABAJOS EN ZONA DE SEGURIDAD": [
+                {
+                    "area": "Infraestructura",
+                    "n_task": "664/02",
+                    "occupation_zone": "SEGURIDAD",
+                    "description": "Control de Vegetación",
+                    "work_system": "ZONA DE SEGURIDAD",
+                    "pk": "000+500 a 059+487 Trayecto Nueva Terminal Montevideo (MV) -- 25 de Agosto (AG)",
+                    "begin_date": "18-02-2026",
+                    "end_date": "18-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "05:00",
+                            "end": "23:30"
+                        }
+                    ],
+                    "week_days": "X",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "",
+                    "assets": [],
+                    "considerations": "",
+                    "procedure": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación",
+                    "gamas": [
+                        "I_F_08_CON_VEG_PREV"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                },
+                {
+                    "area": "Infraestructura",
+                    "n_task": "665/02",
+                    "occupation_zone": "SEGURIDAD",
+                    "description": "Control de vegetación y reparación de cerco, recambio de tapas",
+                    "work_system": "ZONA DE SEGURIDAD",
+                    "pk": "060+000 a 148+000 Trayecto 25 de Agosto (AG) -- Sarandí (SR)",
+                    "begin_date": "18-02-2026",
+                    "end_date": "18-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "05:00",
+                            "end": "23:30"
+                        }
+                    ],
+                    "week_days": "X",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "Tractor",
+                    "assets": [],
+                    "considerations": "",
+                    "procedure": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación",
+                    "gamas": [
+                        "I_F_02_CER_ALAM_COR",
+                        "I_F_08_CON_VEG_PREV"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                },
+                {
+                    "area": "Infraestructura",
+                    "n_task": "666/02",
+                    "occupation_zone": "SEGURIDAD",
+                    "description": "Recorrida a pie",
+                    "work_system": "ZONA DE SEGURIDAD",
+                    "pk": "090+000 a 115+000 Trayecto 25 de Mayo (MY) -- La Cruz (CU)",
+                    "begin_date": "18-02-2026",
+                    "end_date": "18-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "05:00",
+                            "end": "23:30"
+                        }
+                    ],
+                    "week_days": "X",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "",
+                    "assets": [],
+                    "considerations": "",
+                    "procedure": "",
+                    "gamas": [
+                        "I_F_01_INSP_PIE"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                },
+                {
+                    "area": "Infraestructura",
+                    "n_task": "667/02",
+                    "occupation_zone": "SEGURIDAD",
+                    "description": "Control de vegetación y reparación de cerco, recorrida a pie",
+                    "work_system": "ZONA DE SEGURIDAD",
+                    "pk": "138+152 a 263+384 Trayecto Pintado (PI) -- Terminal Centenario (TC)",
+                    "begin_date": "18-02-2026",
+                    "end_date": "18-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "05:00",
+                            "end": "23:30"
+                        }
+                    ],
+                    "week_days": "X",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "Tractor",
+                    "assets": [],
+                    "considerations": "",
+                    "procedure": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación",
+                    "gamas": [
+                        "I_F_02_CER_ALAM_COR",
+                        "I_F_01_INSP_PIE"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                },
+                {
+                    "area": "Infraestructura",
+                    "n_task": "668/02",
+                    "occupation_zone": "SEGURIDAD",
+                    "description": "Recorrida a pie",
+                    "work_system": "ZONA DE SEGURIDAD",
+                    "pk": "180+000 a 195+000 Trayecto Goñi (GO) -- Durazno (DZ)",
+                    "begin_date": "18-02-2026",
+                    "end_date": "18-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "05:00",
+                            "end": "23:30"
+                        }
+                    ],
+                    "week_days": "X",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "",
+                    "assets": [],
+                    "considerations": "",
+                    "procedure": "",
+                    "gamas": [
+                        "I_F_01_INSP_PIE"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                }
+            ],
+            "ILT": [
+                {
+                    "area": "VIAS",
+                    "n_task": "669/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Inspección de curvas y engrase manual",
+                    "work_system": "ILT",
+                    "pk": "200+070 a 200+450 Trayecto Durazno (DZ) -- Villasboas (VI) Via 1",
+                    "begin_date": "18-02-2026",
+                    "end_date": "18-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "05:00",
+                            "end": "23:30"
+                        }
+                    ],
+                    "week_days": "X",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "",
+                    "assets": [],
+                    "considerations": "",
+                    "procedure": "PR O-VIA-PV-ENG-001 Inspección de curvas y engrase manual",
+                    "gamas": [
+                        "V_F_17_INSP_CURV"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                }
+            ]
+        },
+        "JUEVES": {
+            "EVB": [
+                {
+                    "area": "Infraestructura",
+                    "n_task": "670/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Limpiezas puntuales de zanjas, alcantarillas y sistema de drenaje, Restauración de taludes",
+                    "work_system": "EVB",
+                    "pk": "000+500 a 037+362 Trayecto Nueva Terminal Montevideo (MV) -- Massaro (MS) Via 1y2",
+                    "begin_date": "19-02-2026",
+                    "end_date": "19-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "05:00",
+                            "end": "07:30"
+                        },
+                        {
+                            "begin": "10:00",
+                            "end": "13:30"
+                        },
+                        {
+                            "begin": "16:00",
+                            "end": "20:30"
+                        }
+                    ],
+                    "week_days": "J",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "Dresina E:V5-LC D:V5-LC",
+                    "assets": [],
+                    "considerations": "",
+                    "procedure": "PR O-INF-CO-SUB-03 v01 Taludes, terraplenes, contrataludes",
+                    "gamas": [
+                        "I_F_10_LIMP_ZAD_COR"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                },
+                {
+                    "area": "Infraestructura",
+                    "n_task": "671/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Limpieza puntuales de zanjas, alcantarillas y sistema de drenaje, mantenimiento y limpieza de puente y estructuras.",
+                    "work_system": "EVB",
+                    "pk": "109+207 a 124+834 Trayecto Florida Norte (FN) -- La Cruz (CU) Via 1",
+                    "begin_date": "19-02-2026",
+                    "end_date": "19-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "08:00",
+                            "end": "12:30"
+                        },
+                        {
+                            "begin": "13:30",
+                            "end": "16:30"
+                        },
+                        {
+                            "begin": "17:00",
+                            "end": "18:30"
+                        }
+                    ],
+                    "week_days": "J",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "Mini excavadora, combinada y tractor",
+                    "assets": [],
+                    "considerations": "",
+                    "procedure": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación PR O -INF-PV-DRE-01 Limpieza de drenajes longitudinales y transversales",
+                    "gamas": [
+                        "I_F_10_LIMP_ZAD_COR"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                },
+                {
+                    "area": "Infraestructura",
+                    "n_task": "672/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Limpieza puntuales de zanjas, alcantarillas y sistema de drenaje, control de vegetación.",
+                    "work_system": "EVB",
+                    "pk": "138+152 a 155+833 Trayecto Pintado (PI) -- Sarandí (SR) Via 1",
+                    "begin_date": "19-02-2026",
+                    "end_date": "19-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "08:30",
+                            "end": "12:00"
+                        },
+                        {
+                            "begin": "14:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "week_days": "J",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "Mini excavadora, combinada y tractor",
+                    "assets": [],
+                    "considerations": "",
+                    "procedure": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación PR O -INF-PV-DRE-01 Limpieza de drenajes longitudinales y transversales",
+                    "gamas": [
+                        "I_F_10_LIMP_ZAD_COR",
+                        "I_F_08_CON_VEG_PREV"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                },
+                {
+                    "area": "Infraestructura",
+                    "n_task": "673/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Limpieza puntuales de zanjas, alcantarillas y sistema de drenaje, control de vegetación.",
+                    "work_system": "EVB",
+                    "pk": "198+929 a 215+234 Trayecto Durazno (DZ) -- Villasboas (VI) Via 1",
+                    "begin_date": "19-02-2026",
+                    "end_date": "19-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "06:00",
+                            "end": "08:30"
+                        },
+                        {
+                            "begin": "09:30",
+                            "end": "11:00"
+                        },
+                        {
+                            "begin": "12:00",
+                            "end": "14:30"
+                        },
+                        {
+                            "begin": "15:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "week_days": "J",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "Mini excavadora, combinada y tractor",
+                    "assets": [],
+                    "considerations": "",
+                    "procedure": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación PR O -INF-PV-DRE-01 Limpieza de drenajes longitudinales y transversales",
+                    "gamas": [
+                        "I_F_10_LIMP_ZAD_COR",
+                        "I_F_08_CON_VEG_PREV"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                },
+                {
+                    "area": "Infraestructura",
+                    "n_task": "674/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Limpieza puntuales de zanjas, alcantarillas y sistema de drenaje, control de vegetación.",
+                    "work_system": "EVB",
+                    "pk": "243+486 a 255+826 Trayecto Carlos Reyles Norte (RN) -- Bifurcación Paso de los Toros (PT) Via 1",
+                    "begin_date": "19-02-2026",
+                    "end_date": "19-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "05:00",
+                            "end": "09:30"
+                        },
+                        {
+                            "begin": "11:00",
+                            "end": "15:30"
+                        }
+                    ],
+                    "week_days": "J",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "Mini excavadora, combinada y tractor",
+                    "assets": [],
+                    "considerations": "",
+                    "procedure": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación PR O -INF-PV-DRE-01 Limpieza de drenajes longitudinales y transversales",
+                    "gamas": [
+                        "I_F_10_LIMP_ZAD_COR",
+                        "I_F_08_CON_VEG_PREV"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                }
+            ],
+            "TRABAJOS EN ESTACIÓN": [
+                {
+                    "area": "VIAS",
+                    "n_task": "675/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Inspección de curvas y engrase manual",
+                    "work_system": "ESTACIÓN",
+                    "pk": "087+500 a 087+700 25 de Mayo (MY)",
+                    "begin_date": "19-02-2026",
+                    "end_date": "19-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "08:00",
+                            "end": "12:30"
+                        },
+                        {
+                            "begin": "14:00",
+                            "end": "16:00"
+                        },
+                        {
+                            "begin": "16:30",
+                            "end": "18:00"
+                        }
+                    ],
+                    "week_days": "J",
+                    "responsible": "Se puede realizar con encargado de trabajo en conjunto con tarea N° 521/02",
+                    "machinery": "",
+                    "assets": [],
+                    "considerations": "",
+                    "procedure": "PR O-VIA-PV-ENG-001 Inspección de curvas y engrase manual",
+                    "gamas": [
+                        "V_F_17_INSP_CURV"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                },
+                {
+                    "area": "VIAS",
+                    "n_task": "676/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Inspección de curvas y engrase manual",
+                    "work_system": "ESTACIÓN",
+                    "pk": "087+700 a 088+050 25 de Mayo (MY)",
+                    "begin_date": "19-02-2026",
+                    "end_date": "19-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "08:00",
+                            "end": "12:30"
+                        },
+                        {
+                            "begin": "14:00",
+                            "end": "16:00"
+                        },
+                        {
+                            "begin": "16:30",
+                            "end": "18:00"
+                        }
+                    ],
+                    "week_days": "J",
+                    "responsible": "Se puede realizar con encargado de trabajo en conjunto con tarea N° 521/02",
+                    "machinery": "",
+                    "assets": [],
+                    "considerations": "",
+                    "procedure": "PR O-VIA-PV-ENG-001 Inspección de curvas y engrase manual",
+                    "gamas": [
+                        "V_F_17_INSP_CURV"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                },
+                {
+                    "area": "VIAS",
+                    "n_task": "677/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Inspección de curvas y engrase manual",
+                    "work_system": "ESTACIÓN",
+                    "pk": "088+200 a 088+500 25 de Mayo (MY)",
+                    "begin_date": "19-02-2026",
+                    "end_date": "19-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "08:00",
+                            "end": "12:30"
+                        },
+                        {
+                            "begin": "14:00",
+                            "end": "16:00"
+                        },
+                        {
+                            "begin": "16:30",
+                            "end": "18:00"
+                        }
+                    ],
+                    "week_days": "J",
+                    "responsible": "Se puede realizar con encargado de trabajo en conjunto con tarea N° 521/02",
+                    "machinery": "",
+                    "assets": [],
+                    "considerations": "",
+                    "procedure": "PR O-VIA-PV-ENG-001 Inspección de curvas y engrase manual",
+                    "gamas": [
+                        "V_F_17_INSP_CURV"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                },
+                {
+                    "area": "VIAS",
+                    "n_task": "678/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Inspección de curvas y engrase manual",
+                    "work_system": "ESTACIÓN",
+                    "pk": "089+100 a 089+400 25 de Mayo (MY)",
+                    "begin_date": "19-02-2026",
+                    "end_date": "19-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "08:00",
+                            "end": "12:30"
+                        },
+                        {
+                            "begin": "14:00",
+                            "end": "16:00"
+                        },
+                        {
+                            "begin": "16:30",
+                            "end": "18:00"
+                        }
+                    ],
+                    "week_days": "J",
+                    "responsible": "Se puede realizar con encargado de trabajo en conjunto con tarea N° 521/02",
+                    "machinery": "",
+                    "assets": [],
+                    "considerations": "",
+                    "procedure": "PR O-VIA-PV-ENG-001 Inspección de curvas y engrase manual",
+                    "gamas": [
+                        "V_F_17_INSP_CURV"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                }
+            ],
+            "TRABAJOS EN ZONA DE SEGURIDAD": [
+                {
+                    "area": "Infraestructura",
+                    "n_task": "679/02",
+                    "occupation_zone": "SEGURIDAD",
+                    "description": "Control de Vegetación",
+                    "work_system": "ZONA DE SEGURIDAD",
+                    "pk": "000+500 a 059+487 Trayecto Nueva Terminal Montevideo (MV) -- 25 de Agosto (AG)",
+                    "begin_date": "19-02-2026",
+                    "end_date": "19-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "05:00",
+                            "end": "23:30"
+                        }
+                    ],
+                    "week_days": "J",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "",
+                    "assets": [],
+                    "considerations": "",
+                    "procedure": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación",
+                    "gamas": [
+                        "I_F_08_CON_VEG_PREV"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                },
+                {
+                    "area": "Infraestructura",
+                    "n_task": "680/02",
+                    "occupation_zone": "SEGURIDAD",
+                    "description": "Control de vegetación y reparación de cerco, recambio de tapas",
+                    "work_system": "ZONA DE SEGURIDAD",
+                    "pk": "060+000 a 148+000 Trayecto 25 de Agosto (AG) -- Sarandí (SR)",
+                    "begin_date": "19-02-2026",
+                    "end_date": "19-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "05:00",
+                            "end": "23:30"
+                        }
+                    ],
+                    "week_days": "J",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "Tractor",
+                    "assets": [],
+                    "considerations": "",
+                    "procedure": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación",
+                    "gamas": [
+                        "I_F_02_CER_ALAM_COR",
+                        "I_F_08_CON_VEG_PREV"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                },
+                {
+                    "area": "Infraestructura",
+                    "n_task": "681/02",
+                    "occupation_zone": "SEGURIDAD",
+                    "description": "Recorrida a pie",
+                    "work_system": "ZONA DE SEGURIDAD",
+                    "pk": "115+000 a 130+000 Trayecto Florida Norte (FN) -- Pintado (PI)",
+                    "begin_date": "19-02-2026",
+                    "end_date": "19-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "05:00",
+                            "end": "23:30"
+                        }
+                    ],
+                    "week_days": "J",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "",
+                    "assets": [],
+                    "considerations": "",
+                    "procedure": "",
+                    "gamas": [
+                        "I_F_01_INSP_PIE"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                },
+                {
+                    "area": "Infraestructura",
+                    "n_task": "682/02",
+                    "occupation_zone": "SEGURIDAD",
+                    "description": "Control de vegetación y reparación de cerco, recorrida a pie",
+                    "work_system": "ZONA DE SEGURIDAD",
+                    "pk": "138+152 a 263+384 Trayecto Pintado (PI) -- Terminal Centenario (TC)",
+                    "begin_date": "19-02-2026",
+                    "end_date": "19-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "05:00",
+                            "end": "23:30"
+                        }
+                    ],
+                    "week_days": "J",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "Tractor",
+                    "assets": [],
+                    "considerations": "",
+                    "procedure": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación",
+                    "gamas": [
+                        "I_F_02_CER_ALAM_COR",
+                        "I_F_01_INSP_PIE"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                },
+                {
+                    "area": "Infraestructura",
+                    "n_task": "683/02",
+                    "occupation_zone": "SEGURIDAD",
+                    "description": "Recorrida a pie",
+                    "work_system": "ZONA DE SEGURIDAD",
+                    "pk": "195+000 a 210+000 Trayecto Silos (SI) -- Villasboas (VI)",
+                    "begin_date": "19-02-2026",
+                    "end_date": "19-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "05:00",
+                            "end": "23:30"
+                        }
+                    ],
+                    "week_days": "J",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "",
+                    "assets": [],
+                    "considerations": "",
+                    "procedure": "",
+                    "gamas": [
+                        "I_F_01_INSP_PIE"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                }
+            ]
+        },
+        "VIERNES": {
+            "EVB": [
+                {
+                    "area": "Infraestructura",
+                    "n_task": "684/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Recorrido a pie",
+                    "work_system": "EVB",
+                    "pk": "025+988 a 037+362 Trayecto Progreso (PR) -- Massaro (MS) Via 1y2",
+                    "begin_date": "20-02-2026",
+                    "end_date": "20-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "05:00",
+                            "end": "07:30"
+                        },
+                        {
+                            "begin": "10:00",
+                            "end": "14:00"
+                        },
+                        {
+                            "begin": "16:00",
+                            "end": "21:00"
+                        }
+                    ],
+                    "week_days": "V",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "",
+                    "assets": [],
+                    "considerations": "",
+                    "procedure": "PR O-INF-PV-INS-01 v01 Recorridos a pie, en Cabina o Digital",
+                    "gamas": [
+                        "I_F_01_INSP_PIE"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                },
+                {
+                    "area": "Infraestructura",
+                    "n_task": "685/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Limpieza puntuales de zanjas, alcantarillas y sistema de drenaje, control de vegetación.",
+                    "work_system": "EVB",
+                    "pk": "108+818 a 124+834 Trayecto Florida Norte (FN) -- La Cruz (CU) Via 1",
+                    "begin_date": "20-02-2026",
+                    "end_date": "20-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "08:00",
+                            "end": "12:30"
+                        },
+                        {
+                            "begin": "13:30",
+                            "end": "16:30"
+                        },
+                        {
+                            "begin": "17:00",
+                            "end": "18:30"
+                        }
+                    ],
+                    "week_days": "V",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "Mini excavadora, combinada y tractor",
+                    "assets": [],
+                    "considerations": "",
+                    "procedure": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación PR O -INF-PV-DRE-01 Limpieza de drenajes longitudinales y transversales",
+                    "gamas": [
+                        "I_F_10_LIMP_ZAD_COR",
+                        "I_F_08_CON_VEG_PREV"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                },
+                {
+                    "area": "Infraestructura",
+                    "n_task": "686/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Limpieza puntuales de zanjas, alcantarillas y sistema de drenaje, control de vegetación.",
+                    "work_system": "EVB",
+                    "pk": "138+152 a 164+864 Trayecto Pintado (PI) -- Punta de Maciel (MA) Via 1",
+                    "begin_date": "20-02-2026",
+                    "end_date": "20-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "08:30",
+                            "end": "12:00"
+                        },
+                        {
+                            "begin": "14:30",
+                            "end": "17:00"
+                        }
+                    ],
+                    "week_days": "V",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "Mini excavadora, combinada y tractor",
+                    "assets": [],
+                    "considerations": "",
+                    "procedure": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación PR O -INF-PV-DRE-01 Limpieza de drenajes longitudinales y transversales",
+                    "gamas": [
+                        "I_F_10_LIMP_ZAD_COR",
+                        "I_F_08_CON_VEG_PREV"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                },
+                {
+                    "area": "Infraestructura",
+                    "n_task": "687/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Limpieza puntuales de zanjas, alcantarillas y sistema de drenaje, control de vegetación.",
+                    "work_system": "EVB",
+                    "pk": "195+511 a 215+234 Trayecto Durazno (DZ) -- Villasboas (VI) Via 1",
+                    "begin_date": "20-02-2026",
+                    "end_date": "20-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "06:00",
+                            "end": "08:30"
+                        },
+                        {
+                            "begin": "09:30",
+                            "end": "11:00"
+                        },
+                        {
+                            "begin": "12:00",
+                            "end": "14:30"
+                        },
+                        {
+                            "begin": "15:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "week_days": "V",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "Mini excavadora, combinada y tractor",
+                    "assets": [],
+                    "considerations": "",
+                    "procedure": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación PR O -INF-PV-DRE-01 Limpieza de drenajes longitudinales y transversales",
+                    "gamas": [
+                        "I_F_10_LIMP_ZAD_COR",
+                        "I_F_08_CON_VEG_PREV"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                },
+                {
+                    "area": "Infraestructura",
+                    "n_task": "688/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Limpieza puntuales de zanjas, alcantarillas y sistema de drenaje, control de vegetación.",
+                    "work_system": "EVB",
+                    "pk": "243+486 a 255+826 Trayecto Carlos Reyles Norte (RN) -- Bifurcación Paso de los Toros (PT) Via 1",
+                    "begin_date": "20-02-2026",
+                    "end_date": "20-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "05:00",
+                            "end": "09:30"
+                        },
+                        {
+                            "begin": "11:00",
+                            "end": "15:30"
+                        }
+                    ],
+                    "week_days": "V",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "Mini excavadora, combinada y tractor",
+                    "assets": [],
+                    "considerations": "",
+                    "procedure": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación PR O -INF-PV-DRE-01 Limpieza de drenajes longitudinales y transversales",
+                    "gamas": [
+                        "I_F_10_LIMP_ZAD_COR",
+                        "I_F_08_CON_VEG_PREV"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                }
+            ],
+            "TRABAJOS EN ESTACIÓN": [
+                {
+                    "area": "VIAS",
+                    "n_task": "689/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Inspección de curvas y engrase manual",
+                    "work_system": "ESTACIÓN",
+                    "pk": "060+300 a 060+500 25 de Agosto (AG)",
+                    "begin_date": "20-02-2026",
+                    "end_date": "20-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "06:30",
+                            "end": "08:00"
+                        },
+                        {
+                            "begin": "08:30",
+                            "end": "12:00"
+                        },
+                        {
+                            "begin": "12:30",
+                            "end": "14:00"
+                        },
+                        {
+                            "begin": "14:30",
+                            "end": "15:30"
+                        }
+                    ],
+                    "week_days": "V",
+                    "responsible": "Se puede realizar con encargado de trabajo en conjunto con tarea N° 556/02",
+                    "machinery": "",
+                    "assets": [],
+                    "considerations": "",
+                    "procedure": "PR O-VIA-PV-ENG-001 Inspección de curvas y engrase manual",
+                    "gamas": [
+                        "V_F_17_INSP_CURV"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                },
+                {
+                    "area": "VIAS",
+                    "n_task": "690/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Inspección de curvas y engrase manual",
+                    "work_system": "ESTACIÓN",
+                    "pk": "060+800 a 061+000 25 de Agosto (AG)",
+                    "begin_date": "20-02-2026",
+                    "end_date": "20-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "06:30",
+                            "end": "08:00"
+                        },
+                        {
+                            "begin": "08:30",
+                            "end": "12:00"
+                        },
+                        {
+                            "begin": "12:30",
+                            "end": "14:00"
+                        },
+                        {
+                            "begin": "14:30",
+                            "end": "15:30"
+                        }
+                    ],
+                    "week_days": "V",
+                    "responsible": "Se puede realizar con encargado de trabajo en conjunto con tarea N° 556/02",
+                    "machinery": "",
+                    "assets": [],
+                    "considerations": "",
+                    "procedure": "PR O-VIA-PV-ENG-001 Inspección de curvas y engrase manual",
+                    "gamas": [
+                        "V_F_17_INSP_CURV"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                },
+                {
+                    "area": "VIAS",
+                    "n_task": "691/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Inspección de curvas y engrase manual",
+                    "work_system": "ESTACIÓN",
+                    "pk": "061+800 a 061+900 25 de Agosto (AG)",
+                    "begin_date": "20-02-2026",
+                    "end_date": "20-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "06:30",
+                            "end": "08:00"
+                        },
+                        {
+                            "begin": "08:30",
+                            "end": "12:00"
+                        },
+                        {
+                            "begin": "12:30",
+                            "end": "14:00"
+                        },
+                        {
+                            "begin": "14:30",
+                            "end": "15:30"
+                        }
+                    ],
+                    "week_days": "V",
+                    "responsible": "Se puede realizar con encargado de trabajo en conjunto con tarea N° 556/02",
+                    "machinery": "",
+                    "assets": [],
+                    "considerations": "",
+                    "procedure": "PR O-VIA-PV-ENG-001 Inspección de curvas y engrase manual",
+                    "gamas": [
+                        "V_F_17_INSP_CURV"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                }
+            ],
+            "TRABAJOS EN ZONA DE SEGURIDAD": [
+                {
+                    "area": "Infraestructura",
+                    "n_task": "692/02",
+                    "occupation_zone": "SEGURIDAD",
+                    "description": "Control de Vegetación",
+                    "work_system": "ZONA DE SEGURIDAD",
+                    "pk": "000+500 a 059+487 Trayecto Nueva Terminal Montevideo (MV) -- 25 de Agosto (AG)",
+                    "begin_date": "20-02-2026",
+                    "end_date": "20-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "05:00",
+                            "end": "23:30"
+                        }
+                    ],
+                    "week_days": "V",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "",
+                    "assets": [],
+                    "considerations": "",
+                    "procedure": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación",
+                    "gamas": [
+                        "I_F_08_CON_VEG_PREV"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                },
+                {
+                    "area": "Infraestructura",
+                    "n_task": "693/02",
+                    "occupation_zone": "SEGURIDAD",
+                    "description": "Control de vegetación y reparación de cerco, recambio de tapas",
+                    "work_system": "ZONA DE SEGURIDAD",
+                    "pk": "060+000 a 148+000 Trayecto 25 de Agosto (AG) -- Sarandí (SR)",
+                    "begin_date": "20-02-2026",
+                    "end_date": "20-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "05:00",
+                            "end": "23:30"
+                        }
+                    ],
+                    "week_days": "V",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "Tractor",
+                    "assets": [],
+                    "considerations": "",
+                    "procedure": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación",
+                    "gamas": [
+                        "I_F_02_CER_ALAM_COR",
+                        "I_F_08_CON_VEG_PREV"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                },
+                {
+                    "area": "Infraestructura",
+                    "n_task": "694/02",
+                    "occupation_zone": "SEGURIDAD",
+                    "description": "Recorrida a pie",
+                    "work_system": "ZONA DE SEGURIDAD",
+                    "pk": "130+000 a 145+000 Trayecto La Cruz (CU) -- Sarandí (SR)",
+                    "begin_date": "20-02-2026",
+                    "end_date": "20-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "05:00",
+                            "end": "23:30"
+                        }
+                    ],
+                    "week_days": "V",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "",
+                    "assets": [],
+                    "considerations": "",
+                    "procedure": "",
+                    "gamas": [
+                        "I_F_01_INSP_PIE"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                },
+                {
+                    "area": "Infraestructura",
+                    "n_task": "695/02",
+                    "occupation_zone": "SEGURIDAD",
+                    "description": "Control de vegetación y reparación de cerco, recorrida a pie",
+                    "work_system": "ZONA DE SEGURIDAD",
+                    "pk": "138+152 a 263+384 Trayecto Pintado (PI) -- Terminal Centenario (TC)",
+                    "begin_date": "20-02-2026",
+                    "end_date": "20-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "05:00",
+                            "end": "23:30"
+                        }
+                    ],
+                    "week_days": "V",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "Tractor",
+                    "assets": [],
+                    "considerations": "",
+                    "procedure": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación",
+                    "gamas": [
+                        "I_F_02_CER_ALAM_COR",
+                        "I_F_01_INSP_PIE",
+                        "I_F_08_CON_VEG_PREV"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                },
+                {
+                    "area": "Infraestructura",
+                    "n_task": "696/02",
+                    "occupation_zone": "SEGURIDAD",
+                    "description": "Recorrida a pie",
+                    "work_system": "ZONA DE SEGURIDAD",
+                    "pk": "210+000 a 220+000 Trayecto Durazno (DZ) -- Carlos Reyles Sur (RS)",
+                    "begin_date": "20-02-2026",
+                    "end_date": "20-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "05:00",
+                            "end": "23:30"
+                        }
+                    ],
+                    "week_days": "V",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "",
+                    "assets": [],
+                    "considerations": "",
+                    "procedure": "",
+                    "gamas": [
+                        "I_F_01_INSP_PIE"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                }
+            ],
+            "ILT": [
+                {
+                    "area": "VIAS",
+                    "n_task": "697/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Inspección de curvas y engrase manual",
+                    "work_system": "ILT",
+                    "pk": "253+050 a 253+750 Bifurcación Paso de los Toros (PT) Via 1",
+                    "begin_date": "20-02-2026",
+                    "end_date": "20-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "05:00",
+                            "end": "23:30"
+                        }
+                    ],
+                    "week_days": "V",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "",
+                    "assets": [],
+                    "considerations": "",
+                    "procedure": "PR O-VIA-PV-ENG-001 Inspección de curvas y engrase manual",
+                    "gamas": [
+                        "V_F_17_INSP_CURV"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                }
+            ]
+        },
+        "SÁBADO": {
+            "EVB": [
+                {
+                    "area": "Infraestructura",
+                    "n_task": "698/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Limpieza puntuales de zanjas, alcantarillas y sistema de drenaje, control de vegetación.",
+                    "work_system": "EVB",
+                    "pk": "108+818 a 124+834 Trayecto Florida Norte (FN) -- La Cruz (CU) Via 1",
+                    "begin_date": "21-02-2026",
+                    "end_date": "21-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "07:30",
+                            "end": "13:00"
+                        },
+                        {
+                            "begin": "13:30",
+                            "end": "16:30"
+                        }
+                    ],
+                    "week_days": "S",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "Mini excavadora, combinada y tractor",
+                    "assets": [],
+                    "considerations": "",
+                    "procedure": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación PR O -INF-PV-DRE-01 Limpieza de drenajes longitudinales y transversales",
+                    "gamas": [
+                        "I_F_10_LIMP_ZAD_COR",
+                        "I_F_08_CON_VEG_PREV"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                },
+                {
+                    "area": "VIAS",
+                    "n_task": "699/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Mantenimiento de PAN",
+                    "work_system": "EVB",
+                    "pk": "195+280 a 203+920 Trayecto Silos (SI) -- Villasboas (VI) Via 1",
+                    "begin_date": "21-02-2026",
+                    "end_date": "21-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "06:00",
+                            "end": "08:30"
+                        },
+                        {
+                            "begin": "09:00",
+                            "end": "11:00"
+                        },
+                        {
+                            "begin": "12:00",
+                            "end": "14:30"
+                        },
+                        {
+                            "begin": "15:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "week_days": "S",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "",
+                    "assets": [
+                        "LC241",
+                        "LC243",
+                        "LC246",
+                        "LC247",
+                        "LC248",
+                        "LC249",
+                        "LC250",
+                        "LC251",
+                        "LC252",
+                        "LC254"
+                    ],
+                    "considerations": "LC241 / LC243 / LC246 / LC247 / LC248 / LC249 / LC250 / LC251 / LC252 / LC254",
+                    "procedure": "PR O-VIA-CO-PAN-001 Mantenimiento y reparación de PaN",
+                    "gamas": [
+                        "V_F_54_MAN_PAN"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                }
+            ],
+            "TRABAJOS EN ZONA DE SEGURIDAD": [
+                {
+                    "area": "Infraestructura",
+                    "n_task": "700/02",
+                    "occupation_zone": "SEGURIDAD",
+                    "description": "Control de Vegetación",
+                    "work_system": "ZONA DE SEGURIDAD",
+                    "pk": "000+500 a 059+487 Trayecto Nueva Terminal Montevideo (MV) -- 25 de Agosto (AG)",
+                    "begin_date": "21-02-2026",
+                    "end_date": "21-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "05:00",
+                            "end": "23:30"
+                        }
+                    ],
+                    "week_days": "S",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "",
+                    "assets": [],
+                    "considerations": "",
+                    "procedure": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación",
+                    "gamas": [
+                        "I_F_08_CON_VEG_PREV"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                },
+                {
+                    "area": "Infraestructura",
+                    "n_task": "701/02",
+                    "occupation_zone": "SEGURIDAD",
+                    "description": "Control de vegetación y reparación de cerco, recambio de tapas",
+                    "work_system": "ZONA DE SEGURIDAD",
+                    "pk": "060+000 a 148+000 Trayecto 25 de Agosto (AG) -- Sarandí (SR)",
+                    "begin_date": "21-02-2026",
+                    "end_date": "21-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "05:00",
+                            "end": "23:30"
+                        }
+                    ],
+                    "week_days": "S",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "Tractor",
+                    "assets": [],
+                    "considerations": "",
+                    "procedure": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación",
+                    "gamas": [
+                        "I_F_02_CER_ALAM_COR",
+                        "I_F_08_CON_VEG_PREV"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                },
+                {
+                    "area": "Infraestructura",
+                    "n_task": "702/02",
+                    "occupation_zone": "SEGURIDAD",
+                    "description": "Recorrida a pie",
+                    "work_system": "ZONA DE SEGURIDAD",
+                    "pk": "145+000 a 150+000 Trayecto Pintado (PI) -- Sarandí (SR)",
+                    "begin_date": "21-02-2026",
+                    "end_date": "21-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "05:00",
+                            "end": "23:30"
+                        }
+                    ],
+                    "week_days": "S",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "",
+                    "assets": [],
+                    "considerations": "",
+                    "procedure": "",
+                    "gamas": [
+                        "I_F_01_INSP_PIE"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                }
+            ],
+            "ILT": [
+                {
+                    "area": "VIAS",
+                    "n_task": "703/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Inspección de curvas y engrase manual",
+                    "work_system": "ILT",
+                    "pk": "108+400 a 108+800 Trayecto Florida (FL) -- Florida Norte (FN) Via 1",
+                    "begin_date": "21-02-2026",
+                    "end_date": "21-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "05:00",
+                            "end": "23:30"
+                        }
+                    ],
+                    "week_days": "S",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "",
+                    "assets": [],
+                    "considerations": "",
+                    "procedure": "PR O-VIA-PV-ENG-001 Inspección de curvas y engrase manual",
+                    "gamas": [
+                        "V_F_17_INSP_CURV"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                }
+            ]
+        },
+        "DOMINGO": {
+            "EVB": [
+                {
+                    "area": "Infraestructura",
+                    "n_task": "704/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Limpiezas puntuales de zanjas, alcantarillas y sistema de drenaje, Restauración de taludes",
+                    "work_system": "EVB",
+                    "pk": "000+500 a 007+400 Trayecto Nueva Terminal Montevideo (MV) -- Cementos Artigas (CA) Via 1y2",
+                    "begin_date": "22-02-2026",
+                    "end_date": "22-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "05:00",
+                            "end": "08:00"
+                        },
+                        {
+                            "begin": "10:30",
+                            "end": "13:30"
+                        },
+                        {
+                            "begin": "16:00",
+                            "end": "20:30"
+                        }
+                    ],
+                    "week_days": "D",
+                    "responsible": "Se puede realizar con encargado de trabajo en conjunto con tarea N° 581/02",
+                    "machinery": "",
+                    "assets": [],
+                    "considerations": "",
+                    "procedure": "PR O-INF-PV-DRE-01 v01 Limpieza de drenajes longitudinales y transversales",
+                    "gamas": [
+                        "I_F_10_LIMP_ZAD_COR"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                },
+                {
+                    "area": "Infraestructura",
+                    "n_task": "705/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Limpieza puntuales de zanjas, alcantarillas y sistema de drenaje, control de vegetación.",
+                    "work_system": "EVB",
+                    "pk": "138+152 a 164+864 Trayecto Pintado (PI) -- Punta de Maciel (MA) Via 1",
+                    "begin_date": "22-02-2026",
+                    "end_date": "22-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "08:30",
+                            "end": "12:00"
+                        },
+                        {
+                            "begin": "14:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "week_days": "D",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "Mini excavadora, combinada y tractor",
+                    "assets": [],
+                    "considerations": "",
+                    "procedure": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación PR O -INF-PV-DRE-01 Limpieza de drenajes longitudinales y transversales",
+                    "gamas": [
+                        "I_F_10_LIMP_ZAD_COR",
+                        "I_F_08_CON_VEG_PREV"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                },
+                {
+                    "area": "Infraestructura",
+                    "n_task": "706/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Limpieza puntuales de zanjas, alcantarillas y sistema de drenaje, control de vegetación.",
+                    "work_system": "EVB",
+                    "pk": "195+511 a 215+234 Trayecto Durazno (DZ) -- Villasboas (VI) Via 1",
+                    "begin_date": "22-02-2026",
+                    "end_date": "22-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "06:00",
+                            "end": "08:30"
+                        },
+                        {
+                            "begin": "09:30",
+                            "end": "11:00"
+                        },
+                        {
+                            "begin": "12:00",
+                            "end": "14:30"
+                        },
+                        {
+                            "begin": "15:00",
+                            "end": "17:00"
+                        }
+                    ],
+                    "week_days": "D",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "Mini excavadora, combinada y tractor",
+                    "assets": [],
+                    "considerations": "",
+                    "procedure": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación PR O -INF-PV-DRE-01 Limpieza de drenajes longitudinales y transversales",
+                    "gamas": [
+                        "I_F_10_LIMP_ZAD_COR",
+                        "I_F_08_CON_VEG_PREV"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                },
+                {
+                    "area": "Infraestructura",
+                    "n_task": "707/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Limpieza puntuales de zanjas, alcantarillas y sistema de drenaje, control de vegetación.",
+                    "work_system": "EVB",
+                    "pk": "243+486 a 255+826 Trayecto Carlos Reyles Norte (RN) -- Bifurcación Paso de los Toros (PT) Via 1",
+                    "begin_date": "22-02-2026",
+                    "end_date": "22-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "05:00",
+                            "end": "09:30"
+                        },
+                        {
+                            "begin": "11:00",
+                            "end": "15:30"
+                        }
+                    ],
+                    "week_days": "D",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "Mini excavadora, combinada y tractor",
+                    "assets": [],
+                    "considerations": "",
+                    "procedure": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación PR O -INF-PV-DRE-01 Limpieza de drenajes longitudinales y transversales",
+                    "gamas": [
+                        "I_F_10_LIMP_ZAD_COR",
+                        "I_F_08_CON_VEG_PREV"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                }
+            ],
+            "TRABAJOS EN ZONA DE SEGURIDAD": [
+                {
+                    "area": "Infraestructura",
+                    "n_task": "708/02",
+                    "occupation_zone": "SEGURIDAD",
+                    "description": "Control de Vegetación",
+                    "work_system": "ZONA DE SEGURIDAD",
+                    "pk": "000+500 a 059+487 Trayecto Nueva Terminal Montevideo (MV) -- 25 de Agosto (AG)",
+                    "begin_date": "22-02-2026",
+                    "end_date": "22-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "05:00",
+                            "end": "23:30"
+                        }
+                    ],
+                    "week_days": "D",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "",
+                    "assets": [],
+                    "considerations": "",
+                    "procedure": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación",
+                    "gamas": [
+                        "I_F_08_CON_VEG_PREV"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                },
+                {
+                    "area": "Infraestructura",
+                    "n_task": "709/02",
+                    "occupation_zone": "SEGURIDAD",
+                    "description": "Control de vegetación y reparación de cerco, recorrida a pie",
+                    "work_system": "ZONA DE SEGURIDAD",
+                    "pk": "138+152 a 263+384 Trayecto Pintado (PI) -- Terminal Centenario (TC)",
+                    "begin_date": "22-02-2026",
+                    "end_date": "22-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "05:00",
+                            "end": "23:30"
+                        }
+                    ],
+                    "week_days": "D",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "Tractor",
+                    "assets": [],
+                    "considerations": "",
+                    "procedure": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación",
+                    "gamas": [
+                        "I_F_02_CER_ALAM_COR",
+                        "I_F_01_INSP_PIE",
+                        "I_F_08_CON_VEG_PREV"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                },
+                {
+                    "area": "Infraestructura",
+                    "n_task": "710/02",
+                    "occupation_zone": "SEGURIDAD",
+                    "description": "Recorrida a pie",
+                    "work_system": "ZONA DE SEGURIDAD",
+                    "pk": "220+000 a 235+000 Trayecto Villasboas (VI) -- Carlos Reyles Norte (RN)",
+                    "begin_date": "22-02-2026",
+                    "end_date": "22-02-2026",
+                    "schedules": [
+                        {
+                            "begin": "05:00",
+                            "end": "23:30"
+                        }
+                    ],
+                    "week_days": "D",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "",
+                    "assets": [],
+                    "considerations": "",
+                    "procedure": "",
+                    "gamas": [
+                        "I_F_01_INSP_PIE"
+                    ],
+                    "state": "CORRECT",
+                    "error_description": ""
+                }
+            ]
+        }
+    }
+}
