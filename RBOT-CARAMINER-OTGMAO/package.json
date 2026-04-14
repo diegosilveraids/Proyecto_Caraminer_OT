@@ -1,0 +1,8 @@
+{
+  "name": "RBOT-CARAMINER-OTGMAO",
+  "description": "Automatización de carga de Ordenes de Trabajo en el sistema GMAO de Caraminer.",
+  "version": "1.0.0",
+  "main": "RBOT-CARAMINER-OTGMAO",
+  "author": "Juan Manuel Pacheco",
+  "license": "MIT"
+}

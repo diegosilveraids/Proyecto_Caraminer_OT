@@ -1,0 +1,46 @@
+{
+    "input_files": {
+        "input_report_path": ""
+    },
+    "output_files": {
+        "output_report_path": ""
+    },
+    "credentials": {
+        "GMAIL_CREDENTIAL": "mail_bot",
+        "GMAO_CREDENTIAL": "gmao_bot"
+    },
+    "work_order_diccionary": {},
+    "browser_open": false,
+    "gmail_open": false,
+    "use_output_report": false,
+    "register_info_logs": true,
+    "gmao_url": "https://your-gmao-instance.com/cmms",
+    "gmao_api": "https://your-gmao-instance.com/cmms/api",
+    "id_gmao1": "",
+    "id_gmao2": "",
+    "id_gmao3": "",
+    "id_gmao4": "",
+    "id_gmao5": "",
+    "id_gmao6": "",
+    "id_gmao7": "",
+    "id_gmao8": "",
+    "id_gmao9": "",
+    "id_gmao10": "",
+    "log_type": "",
+    "log_message": "",
+    "log_time": "",
+    "log_error": "",
+    "log_robot": "",
+    "log_img": "",
+    "mail_ids_tecnitian1_user": "technician1@example.com",
+    "mail_ids_tecnitian2_user": "technician2@example.com",
+    "mail_ids_tecnitian3_user": "technician3@example.com",
+    "mail_caraminer_tecnitian1_user": "caraminer-tech@example.com",
+    "mail_caraminer_notification_user": "caraminer-notifications@example.com",
+    "mail_subject_execution_notification": "GMAO - Carga de Ordenes de Trabajo Finalizada",
+    "mail_subject_error_notification": "GMAO - Error",
+    "mail_body_execution_notification": "La carga de ordenes de trabajo ha finalizado exitosamente.",
+    "mail_body_error_notification": "Ocurrió un error durante la ejecución de la orden de trabajo.",
+    "script_wo_parser": "parser.py",
+    "script_wo_loader": "loader.py"
+}

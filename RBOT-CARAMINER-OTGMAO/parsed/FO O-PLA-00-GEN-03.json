@@ -1,0 +1,1059 @@
+{
+    "metadata": {
+        "report_name": "FO O-PLA-00-GEN-03",
+        "state": "APROBADO",
+        "date": null,
+        "year": null,
+        "week": "W08",
+        "tasks_count": 10,
+        "work_orders_count": 40,
+        "valid_wo_count": 40,
+        "invalid_wo_count": 0
+    },
+    "work_orders": {
+        "LUNES": {
+            "EVB": [
+                {
+                    "area": "Infraestructura",
+                    "n_task": "612/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Limpiezas puntuales de zanjas, alcantarillas y sistema de drenaje, Restauración de taludes",
+                    "work_system": "EVB",
+                    "pk": {
+                        "initial_pk": "000+500",
+                        "final_pk": "007+400"
+                    },
+                    "begin_date": "16-02-2026",
+                    "end_date": "16-02-2026",
+                    "schedule": {
+                        "begin": "05:00",
+                        "end": "08:00"
+                    },
+                    "week_days": "L",
+                    "responsible": "Se puede realizar con encargado de trabajo en conjunto con tarea N° 414/02",
+                    "machinery": "",
+                    "considerations": "",
+                    "procedure": "PR O-INF-PV-DRE-01 v01 Limpieza de drenajes longitudinales y transversales",
+                    "state": "READ-SUCCESS",
+                    "error_description": "",
+                    "asset": null,
+                    "gamma": "I_F_10_LIMP_ZAD_COR"
+                },
+                {
+                    "area": "Señalización",
+                    "n_task": "613/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Instalación de extractores en armario PaN",
+                    "work_system": "EVB",
+                    "pk": {
+                        "initial_pk": "000+623",
+                        "final_pk": "006+306"
+                    },
+                    "begin_date": "16-02-2026",
+                    "end_date": "16-02-2026",
+                    "schedule": {
+                        "begin": "05:00",
+                        "end": "08:00"
+                    },
+                    "week_days": "L",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "",
+                    "considerations": "PaN: LC3, LC12, LC22, LC24, LC27, LC26",
+                    "procedure": "PR O-SEN-00-GEN-02 v01 Mantenimiento PAN, SAD y comunicación",
+                    "state": "READ-SUCCESS",
+                    "error_description": "",
+                    "asset": "LC003",
+                    "gamma": "S_F_CORRECTIVO"
+                },
+                {
+                    "area": "Señalización",
+                    "n_task": "613/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Instalación de extractores en armario PaN",
+                    "work_system": "EVB",
+                    "pk": {
+                        "initial_pk": "000+623",
+                        "final_pk": "006+306"
+                    },
+                    "begin_date": "16-02-2026",
+                    "end_date": "16-02-2026",
+                    "schedule": {
+                        "begin": "05:00",
+                        "end": "08:00"
+                    },
+                    "week_days": "L",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "",
+                    "considerations": "PaN: LC3, LC12, LC22, LC24, LC27, LC26",
+                    "procedure": "PR O-SEN-00-GEN-02 v01 Mantenimiento PAN, SAD y comunicación",
+                    "state": "READ-SUCCESS",
+                    "error_description": "",
+                    "asset": "LC012",
+                    "gamma": "S_F_CORRECTIVO"
+                },
+                {
+                    "area": "Señalización",
+                    "n_task": "613/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Instalación de extractores en armario PaN",
+                    "work_system": "EVB",
+                    "pk": {
+                        "initial_pk": "000+623",
+                        "final_pk": "006+306"
+                    },
+                    "begin_date": "16-02-2026",
+                    "end_date": "16-02-2026",
+                    "schedule": {
+                        "begin": "05:00",
+                        "end": "08:00"
+                    },
+                    "week_days": "L",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "",
+                    "considerations": "PaN: LC3, LC12, LC22, LC24, LC27, LC26",
+                    "procedure": "PR O-SEN-00-GEN-02 v01 Mantenimiento PAN, SAD y comunicación",
+                    "state": "READ-SUCCESS",
+                    "error_description": "",
+                    "asset": "LC022",
+                    "gamma": "S_F_CORRECTIVO"
+                },
+                {
+                    "area": "Señalización",
+                    "n_task": "613/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Instalación de extractores en armario PaN",
+                    "work_system": "EVB",
+                    "pk": {
+                        "initial_pk": "000+623",
+                        "final_pk": "006+306"
+                    },
+                    "begin_date": "16-02-2026",
+                    "end_date": "16-02-2026",
+                    "schedule": {
+                        "begin": "05:00",
+                        "end": "08:00"
+                    },
+                    "week_days": "L",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "",
+                    "considerations": "PaN: LC3, LC12, LC22, LC24, LC27, LC26",
+                    "procedure": "PR O-SEN-00-GEN-02 v01 Mantenimiento PAN, SAD y comunicación",
+                    "state": "READ-SUCCESS",
+                    "error_description": "",
+                    "asset": "LC024",
+                    "gamma": "S_F_CORRECTIVO"
+                },
+                {
+                    "area": "Señalización",
+                    "n_task": "613/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Instalación de extractores en armario PaN",
+                    "work_system": "EVB",
+                    "pk": {
+                        "initial_pk": "000+623",
+                        "final_pk": "006+306"
+                    },
+                    "begin_date": "16-02-2026",
+                    "end_date": "16-02-2026",
+                    "schedule": {
+                        "begin": "05:00",
+                        "end": "08:00"
+                    },
+                    "week_days": "L",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "",
+                    "considerations": "PaN: LC3, LC12, LC22, LC24, LC27, LC26",
+                    "procedure": "PR O-SEN-00-GEN-02 v01 Mantenimiento PAN, SAD y comunicación",
+                    "state": "READ-SUCCESS",
+                    "error_description": "",
+                    "asset": "LC027",
+                    "gamma": "S_F_CORRECTIVO"
+                },
+                {
+                    "area": "Señalización",
+                    "n_task": "613/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Instalación de extractores en armario PaN",
+                    "work_system": "EVB",
+                    "pk": {
+                        "initial_pk": "000+623",
+                        "final_pk": "006+306"
+                    },
+                    "begin_date": "16-02-2026",
+                    "end_date": "16-02-2026",
+                    "schedule": {
+                        "begin": "05:00",
+                        "end": "08:00"
+                    },
+                    "week_days": "L",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "",
+                    "considerations": "PaN: LC3, LC12, LC22, LC24, LC27, LC26",
+                    "procedure": "PR O-SEN-00-GEN-02 v01 Mantenimiento PAN, SAD y comunicación",
+                    "state": "READ-SUCCESS",
+                    "error_description": "",
+                    "asset": "LC026",
+                    "gamma": "S_F_CORRECTIVO"
+                },
+                {
+                    "area": "Señalización",
+                    "n_task": "614/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Pasos a Nivel – Mantenimiento semestral",
+                    "work_system": "EVB",
+                    "pk": {
+                        "initial_pk": "015+684",
+                        "final_pk": "016+473"
+                    },
+                    "begin_date": "16-02-2026",
+                    "end_date": "16-02-2026",
+                    "schedule": {
+                        "begin": "05:00",
+                        "end": "07:30"
+                    },
+                    "week_days": "L",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "",
+                    "considerations": "PaN: LC46, LC47, LC48, LC46",
+                    "procedure": "PR O-SEN-00-GEN-02 v01 Mantenimiento PAN, SAD y comunicación",
+                    "state": "READ-SUCCESS",
+                    "error_description": "",
+                    "asset": "LC046",
+                    "gamma": "IP-PAN-6M"
+                },
+                {
+                    "area": "Señalización",
+                    "n_task": "614/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Pasos a Nivel – Mantenimiento semestral",
+                    "work_system": "EVB",
+                    "pk": {
+                        "initial_pk": "015+684",
+                        "final_pk": "016+473"
+                    },
+                    "begin_date": "16-02-2026",
+                    "end_date": "16-02-2026",
+                    "schedule": {
+                        "begin": "05:00",
+                        "end": "07:30"
+                    },
+                    "week_days": "L",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "",
+                    "considerations": "PaN: LC46, LC47, LC48, LC46",
+                    "procedure": "PR O-SEN-00-GEN-02 v01 Mantenimiento PAN, SAD y comunicación",
+                    "state": "READ-SUCCESS",
+                    "error_description": "",
+                    "asset": "LC047",
+                    "gamma": "IP-PAN-6M"
+                },
+                {
+                    "area": "Señalización",
+                    "n_task": "614/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Pasos a Nivel – Mantenimiento semestral",
+                    "work_system": "EVB",
+                    "pk": {
+                        "initial_pk": "015+684",
+                        "final_pk": "016+473"
+                    },
+                    "begin_date": "16-02-2026",
+                    "end_date": "16-02-2026",
+                    "schedule": {
+                        "begin": "05:00",
+                        "end": "07:30"
+                    },
+                    "week_days": "L",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "",
+                    "considerations": "PaN: LC46, LC47, LC48, LC46",
+                    "procedure": "PR O-SEN-00-GEN-02 v01 Mantenimiento PAN, SAD y comunicación",
+                    "state": "READ-SUCCESS",
+                    "error_description": "",
+                    "asset": "LC048",
+                    "gamma": "IP-PAN-6M"
+                },
+                {
+                    "area": "Señalización",
+                    "n_task": "614/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Pasos a Nivel – Mantenimiento semestral",
+                    "work_system": "EVB",
+                    "pk": {
+                        "initial_pk": "015+684",
+                        "final_pk": "016+473"
+                    },
+                    "begin_date": "16-02-2026",
+                    "end_date": "16-02-2026",
+                    "schedule": {
+                        "begin": "05:00",
+                        "end": "07:30"
+                    },
+                    "week_days": "L",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "",
+                    "considerations": "PaN: LC46, LC47, LC48, LC46",
+                    "procedure": "PR O-SEN-00-GEN-02 v01 Mantenimiento PAN, SAD y comunicación",
+                    "state": "READ-SUCCESS",
+                    "error_description": "",
+                    "asset": "LC046",
+                    "gamma": "IP-PAN-6M"
+                },
+                {
+                    "area": "Señalización",
+                    "n_task": "615/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Instalación de extractores en armario PaN",
+                    "work_system": "EVB",
+                    "pk": {
+                        "initial_pk": "057+658",
+                        "final_pk": "060+561"
+                    },
+                    "begin_date": "16-02-2026",
+                    "end_date": "16-02-2026",
+                    "schedule": {
+                        "begin": "06:30",
+                        "end": "08:00"
+                    },
+                    "week_days": "L",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "",
+                    "considerations": "PaN: LC108, LC106",
+                    "procedure": "PR O-SEN-00-GEN-02 v01 Mantenimiento PAN, SAD y comunicación",
+                    "state": "READ-SUCCESS",
+                    "error_description": "",
+                    "asset": "LC108",
+                    "gamma": "S_F_CORRECTIVO"
+                },
+                {
+                    "area": "Señalización",
+                    "n_task": "615/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Instalación de extractores en armario PaN",
+                    "work_system": "EVB",
+                    "pk": {
+                        "initial_pk": "057+658",
+                        "final_pk": "060+561"
+                    },
+                    "begin_date": "16-02-2026",
+                    "end_date": "16-02-2026",
+                    "schedule": {
+                        "begin": "06:30",
+                        "end": "08:00"
+                    },
+                    "week_days": "L",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "",
+                    "considerations": "PaN: LC108, LC106",
+                    "procedure": "PR O-SEN-00-GEN-02 v01 Mantenimiento PAN, SAD y comunicación",
+                    "state": "READ-SUCCESS",
+                    "error_description": "",
+                    "asset": "LC106",
+                    "gamma": "S_F_CORRECTIVO"
+                },
+                {
+                    "area": "Infraestructura",
+                    "n_task": "616/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Limpieza puntuales de zanjas, alcantarillas y sistema de drenaje, mantenimiento y limpieza de puente y estructuras.",
+                    "work_system": "EVB",
+                    "pk": {
+                        "initial_pk": "063+621",
+                        "final_pk": "076+561"
+                    },
+                    "begin_date": "16-02-2026",
+                    "end_date": "16-02-2026",
+                    "schedule": {
+                        "begin": "08:30",
+                        "end": "12:00"
+                    },
+                    "week_days": "L",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "Mini excavadora, combinada y tractor",
+                    "considerations": "",
+                    "procedure": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación PR O-INF-PV-DRE-01 Limpieza de drenajes longitudinales y transversales",
+                    "state": "READ-SUCCESS",
+                    "error_description": "",
+                    "asset": null,
+                    "gamma": "I_F_10_LIMP_ZAD_COR"
+                },
+                {
+                    "area": "Señalización",
+                    "n_task": "617/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Pasos a Nivel – Mantenimiento semestral",
+                    "work_system": "EVB",
+                    "pk": {
+                        "initial_pk": "086+662",
+                        "final_pk": "067+607"
+                    },
+                    "begin_date": "16-02-2026",
+                    "end_date": "16-02-2026",
+                    "schedule": {
+                        "begin": "08:00",
+                        "end": "12:30"
+                    },
+                    "week_days": "L",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "",
+                    "considerations": "PaN: LC136, LC140, LC141, LC142, LC143, LC144, LC145, LC146, LC147, LC146",
+                    "procedure": "PR O-SEN-00-GEN-02 v01 Mantenimiento PAN, SAD y comunicación",
+                    "state": "READ-SUCCESS",
+                    "error_description": "",
+                    "asset": "LC136",
+                    "gamma": "IP-PAN-6M"
+                },
+                {
+                    "area": "Señalización",
+                    "n_task": "617/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Pasos a Nivel – Mantenimiento semestral",
+                    "work_system": "EVB",
+                    "pk": {
+                        "initial_pk": "086+662",
+                        "final_pk": "067+607"
+                    },
+                    "begin_date": "16-02-2026",
+                    "end_date": "16-02-2026",
+                    "schedule": {
+                        "begin": "08:00",
+                        "end": "12:30"
+                    },
+                    "week_days": "L",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "",
+                    "considerations": "PaN: LC136, LC140, LC141, LC142, LC143, LC144, LC145, LC146, LC147, LC146",
+                    "procedure": "PR O-SEN-00-GEN-02 v01 Mantenimiento PAN, SAD y comunicación",
+                    "state": "READ-SUCCESS",
+                    "error_description": "",
+                    "asset": "LC140",
+                    "gamma": "IP-PAN-6M"
+                },
+                {
+                    "area": "Señalización",
+                    "n_task": "617/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Pasos a Nivel – Mantenimiento semestral",
+                    "work_system": "EVB",
+                    "pk": {
+                        "initial_pk": "086+662",
+                        "final_pk": "067+607"
+                    },
+                    "begin_date": "16-02-2026",
+                    "end_date": "16-02-2026",
+                    "schedule": {
+                        "begin": "08:00",
+                        "end": "12:30"
+                    },
+                    "week_days": "L",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "",
+                    "considerations": "PaN: LC136, LC140, LC141, LC142, LC143, LC144, LC145, LC146, LC147, LC146",
+                    "procedure": "PR O-SEN-00-GEN-02 v01 Mantenimiento PAN, SAD y comunicación",
+                    "state": "READ-SUCCESS",
+                    "error_description": "",
+                    "asset": "LC141",
+                    "gamma": "IP-PAN-6M"
+                },
+                {
+                    "area": "Señalización",
+                    "n_task": "617/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Pasos a Nivel – Mantenimiento semestral",
+                    "work_system": "EVB",
+                    "pk": {
+                        "initial_pk": "086+662",
+                        "final_pk": "067+607"
+                    },
+                    "begin_date": "16-02-2026",
+                    "end_date": "16-02-2026",
+                    "schedule": {
+                        "begin": "08:00",
+                        "end": "12:30"
+                    },
+                    "week_days": "L",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "",
+                    "considerations": "PaN: LC136, LC140, LC141, LC142, LC143, LC144, LC145, LC146, LC147, LC146",
+                    "procedure": "PR O-SEN-00-GEN-02 v01 Mantenimiento PAN, SAD y comunicación",
+                    "state": "READ-SUCCESS",
+                    "error_description": "",
+                    "asset": "LC142",
+                    "gamma": "IP-PAN-6M"
+                },
+                {
+                    "area": "Señalización",
+                    "n_task": "617/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Pasos a Nivel – Mantenimiento semestral",
+                    "work_system": "EVB",
+                    "pk": {
+                        "initial_pk": "086+662",
+                        "final_pk": "067+607"
+                    },
+                    "begin_date": "16-02-2026",
+                    "end_date": "16-02-2026",
+                    "schedule": {
+                        "begin": "08:00",
+                        "end": "12:30"
+                    },
+                    "week_days": "L",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "",
+                    "considerations": "PaN: LC136, LC140, LC141, LC142, LC143, LC144, LC145, LC146, LC147, LC146",
+                    "procedure": "PR O-SEN-00-GEN-02 v01 Mantenimiento PAN, SAD y comunicación",
+                    "state": "READ-SUCCESS",
+                    "error_description": "",
+                    "asset": "LC143",
+                    "gamma": "IP-PAN-6M"
+                },
+                {
+                    "area": "Señalización",
+                    "n_task": "617/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Pasos a Nivel – Mantenimiento semestral",
+                    "work_system": "EVB",
+                    "pk": {
+                        "initial_pk": "086+662",
+                        "final_pk": "067+607"
+                    },
+                    "begin_date": "16-02-2026",
+                    "end_date": "16-02-2026",
+                    "schedule": {
+                        "begin": "08:00",
+                        "end": "12:30"
+                    },
+                    "week_days": "L",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "",
+                    "considerations": "PaN: LC136, LC140, LC141, LC142, LC143, LC144, LC145, LC146, LC147, LC146",
+                    "procedure": "PR O-SEN-00-GEN-02 v01 Mantenimiento PAN, SAD y comunicación",
+                    "state": "READ-SUCCESS",
+                    "error_description": "",
+                    "asset": "LC144",
+                    "gamma": "IP-PAN-6M"
+                },
+                {
+                    "area": "Señalización",
+                    "n_task": "617/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Pasos a Nivel – Mantenimiento semestral",
+                    "work_system": "EVB",
+                    "pk": {
+                        "initial_pk": "086+662",
+                        "final_pk": "067+607"
+                    },
+                    "begin_date": "16-02-2026",
+                    "end_date": "16-02-2026",
+                    "schedule": {
+                        "begin": "08:00",
+                        "end": "12:30"
+                    },
+                    "week_days": "L",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "",
+                    "considerations": "PaN: LC136, LC140, LC141, LC142, LC143, LC144, LC145, LC146, LC147, LC146",
+                    "procedure": "PR O-SEN-00-GEN-02 v01 Mantenimiento PAN, SAD y comunicación",
+                    "state": "READ-SUCCESS",
+                    "error_description": "",
+                    "asset": "LC145",
+                    "gamma": "IP-PAN-6M"
+                },
+                {
+                    "area": "Señalización",
+                    "n_task": "617/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Pasos a Nivel – Mantenimiento semestral",
+                    "work_system": "EVB",
+                    "pk": {
+                        "initial_pk": "086+662",
+                        "final_pk": "067+607"
+                    },
+                    "begin_date": "16-02-2026",
+                    "end_date": "16-02-2026",
+                    "schedule": {
+                        "begin": "08:00",
+                        "end": "12:30"
+                    },
+                    "week_days": "L",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "",
+                    "considerations": "PaN: LC136, LC140, LC141, LC142, LC143, LC144, LC145, LC146, LC147, LC146",
+                    "procedure": "PR O-SEN-00-GEN-02 v01 Mantenimiento PAN, SAD y comunicación",
+                    "state": "READ-SUCCESS",
+                    "error_description": "",
+                    "asset": "LC146",
+                    "gamma": "IP-PAN-6M"
+                },
+                {
+                    "area": "Señalización",
+                    "n_task": "617/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Pasos a Nivel – Mantenimiento semestral",
+                    "work_system": "EVB",
+                    "pk": {
+                        "initial_pk": "086+662",
+                        "final_pk": "067+607"
+                    },
+                    "begin_date": "16-02-2026",
+                    "end_date": "16-02-2026",
+                    "schedule": {
+                        "begin": "08:00",
+                        "end": "12:30"
+                    },
+                    "week_days": "L",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "",
+                    "considerations": "PaN: LC136, LC140, LC141, LC142, LC143, LC144, LC145, LC146, LC147, LC146",
+                    "procedure": "PR O-SEN-00-GEN-02 v01 Mantenimiento PAN, SAD y comunicación",
+                    "state": "READ-SUCCESS",
+                    "error_description": "",
+                    "asset": "LC147",
+                    "gamma": "IP-PAN-6M"
+                },
+                {
+                    "area": "Señalización",
+                    "n_task": "617/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Pasos a Nivel – Mantenimiento semestral",
+                    "work_system": "EVB",
+                    "pk": {
+                        "initial_pk": "086+662",
+                        "final_pk": "067+607"
+                    },
+                    "begin_date": "16-02-2026",
+                    "end_date": "16-02-2026",
+                    "schedule": {
+                        "begin": "08:00",
+                        "end": "12:30"
+                    },
+                    "week_days": "L",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "",
+                    "considerations": "PaN: LC136, LC140, LC141, LC142, LC143, LC144, LC145, LC146, LC147, LC146",
+                    "procedure": "PR O-SEN-00-GEN-02 v01 Mantenimiento PAN, SAD y comunicación",
+                    "state": "READ-SUCCESS",
+                    "error_description": "",
+                    "asset": "LC146",
+                    "gamma": "IP-PAN-6M"
+                },
+                {
+                    "area": "Infraestructura",
+                    "n_task": "618/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Limpieza puntuales de zanjas, alcantarillas y sistema de drenaje, control de vegetación.",
+                    "work_system": "EVB",
+                    "pk": {
+                        "initial_pk": "138+152",
+                        "final_pk": "164+864"
+                    },
+                    "begin_date": "16-02-2026",
+                    "end_date": "16-02-2026",
+                    "schedule": {
+                        "begin": "06:00",
+                        "end": "12:00"
+                    },
+                    "week_days": "L",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "Mini excavadora, combinada y tractor",
+                    "considerations": "",
+                    "procedure": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación PR O-INF-PV-DRE-01 Limpieza de drenajes longitudinales y transversales",
+                    "state": "READ-SUCCESS",
+                    "error_description": "",
+                    "asset": null,
+                    "gamma": "I_F_10_LIMP_ZAD_COR"
+                },
+                {
+                    "area": "Infraestructura",
+                    "n_task": "618/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Limpieza puntuales de zanjas, alcantarillas y sistema de drenaje, control de vegetación.",
+                    "work_system": "EVB",
+                    "pk": {
+                        "initial_pk": "138+152",
+                        "final_pk": "164+864"
+                    },
+                    "begin_date": "16-02-2026",
+                    "end_date": "16-02-2026",
+                    "schedule": {
+                        "begin": "06:00",
+                        "end": "12:00"
+                    },
+                    "week_days": "L",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "Mini excavadora, combinada y tractor",
+                    "considerations": "",
+                    "procedure": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación PR O-INF-PV-DRE-01 Limpieza de drenajes longitudinales y transversales",
+                    "state": "READ-SUCCESS",
+                    "error_description": "",
+                    "asset": null,
+                    "gamma": "I_F_08_CON_VEG_PREV"
+                },
+                {
+                    "area": "VIAS",
+                    "n_task": "616/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Mantenimiento de PAN",
+                    "work_system": "EVB",
+                    "pk": {
+                        "initial_pk": "178+681",
+                        "final_pk": "163+877"
+                    },
+                    "begin_date": "16-02-2026",
+                    "end_date": "16-02-2026",
+                    "schedule": {
+                        "begin": "06:00",
+                        "end": "08:30"
+                    },
+                    "week_days": "L",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "",
+                    "considerations": "LC225 / LC226 / LC234 / LC238",
+                    "procedure": "PR O-VIA-CO-PAN-001 Mantenimiento y reparación de PaN",
+                    "state": "READ-SUCCESS",
+                    "error_description": "",
+                    "asset": "LC225",
+                    "gamma": "V_F_54_MAN_PAN"
+                },
+                {
+                    "area": "VIAS",
+                    "n_task": "616/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Mantenimiento de PAN",
+                    "work_system": "EVB",
+                    "pk": {
+                        "initial_pk": "178+681",
+                        "final_pk": "163+877"
+                    },
+                    "begin_date": "16-02-2026",
+                    "end_date": "16-02-2026",
+                    "schedule": {
+                        "begin": "06:00",
+                        "end": "08:30"
+                    },
+                    "week_days": "L",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "",
+                    "considerations": "LC225 / LC226 / LC234 / LC238",
+                    "procedure": "PR O-VIA-CO-PAN-001 Mantenimiento y reparación de PaN",
+                    "state": "READ-SUCCESS",
+                    "error_description": "",
+                    "asset": "LC226",
+                    "gamma": "V_F_54_MAN_PAN"
+                },
+                {
+                    "area": "VIAS",
+                    "n_task": "616/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Mantenimiento de PAN",
+                    "work_system": "EVB",
+                    "pk": {
+                        "initial_pk": "178+681",
+                        "final_pk": "163+877"
+                    },
+                    "begin_date": "16-02-2026",
+                    "end_date": "16-02-2026",
+                    "schedule": {
+                        "begin": "06:00",
+                        "end": "08:30"
+                    },
+                    "week_days": "L",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "",
+                    "considerations": "LC225 / LC226 / LC234 / LC238",
+                    "procedure": "PR O-VIA-CO-PAN-001 Mantenimiento y reparación de PaN",
+                    "state": "READ-SUCCESS",
+                    "error_description": "",
+                    "asset": "LC234",
+                    "gamma": "V_F_54_MAN_PAN"
+                },
+                {
+                    "area": "VIAS",
+                    "n_task": "616/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Mantenimiento de PAN",
+                    "work_system": "EVB",
+                    "pk": {
+                        "initial_pk": "178+681",
+                        "final_pk": "163+877"
+                    },
+                    "begin_date": "16-02-2026",
+                    "end_date": "16-02-2026",
+                    "schedule": {
+                        "begin": "06:00",
+                        "end": "08:30"
+                    },
+                    "week_days": "L",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "",
+                    "considerations": "LC225 / LC226 / LC234 / LC238",
+                    "procedure": "PR O-VIA-CO-PAN-001 Mantenimiento y reparación de PaN",
+                    "state": "READ-SUCCESS",
+                    "error_description": "",
+                    "asset": "LC238",
+                    "gamma": "V_F_54_MAN_PAN"
+                },
+                {
+                    "area": "Señalización",
+                    "n_task": "620/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Pasos a Nivel – Mantenimiento semestral",
+                    "work_system": "EVB",
+                    "pk": {
+                        "initial_pk": "165+275",
+                        "final_pk": "168+746"
+                    },
+                    "begin_date": "16-02-2026",
+                    "end_date": "16-02-2026",
+                    "schedule": {
+                        "begin": "06:00",
+                        "end": "08:30"
+                    },
+                    "week_days": "L",
+                    "responsible": "Se puede realizar con encargado de trabajo en conjunto con tarea N° 426/02",
+                    "machinery": "",
+                    "considerations": "PaN: LC241, LC243, LC246, LC247, LC248, LC246",
+                    "procedure": "PR O-SEN-00-GEN-02 v01 Mantenimiento PAN, SAD y comunicación",
+                    "state": "READ-SUCCESS",
+                    "error_description": "",
+                    "asset": "LC241",
+                    "gamma": "IP-PAN-6M"
+                },
+                {
+                    "area": "Señalización",
+                    "n_task": "620/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Pasos a Nivel – Mantenimiento semestral",
+                    "work_system": "EVB",
+                    "pk": {
+                        "initial_pk": "165+275",
+                        "final_pk": "168+746"
+                    },
+                    "begin_date": "16-02-2026",
+                    "end_date": "16-02-2026",
+                    "schedule": {
+                        "begin": "06:00",
+                        "end": "08:30"
+                    },
+                    "week_days": "L",
+                    "responsible": "Se puede realizar con encargado de trabajo en conjunto con tarea N° 426/02",
+                    "machinery": "",
+                    "considerations": "PaN: LC241, LC243, LC246, LC247, LC248, LC246",
+                    "procedure": "PR O-SEN-00-GEN-02 v01 Mantenimiento PAN, SAD y comunicación",
+                    "state": "READ-SUCCESS",
+                    "error_description": "",
+                    "asset": "LC243",
+                    "gamma": "IP-PAN-6M"
+                },
+                {
+                    "area": "Señalización",
+                    "n_task": "620/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Pasos a Nivel – Mantenimiento semestral",
+                    "work_system": "EVB",
+                    "pk": {
+                        "initial_pk": "165+275",
+                        "final_pk": "168+746"
+                    },
+                    "begin_date": "16-02-2026",
+                    "end_date": "16-02-2026",
+                    "schedule": {
+                        "begin": "06:00",
+                        "end": "08:30"
+                    },
+                    "week_days": "L",
+                    "responsible": "Se puede realizar con encargado de trabajo en conjunto con tarea N° 426/02",
+                    "machinery": "",
+                    "considerations": "PaN: LC241, LC243, LC246, LC247, LC248, LC246",
+                    "procedure": "PR O-SEN-00-GEN-02 v01 Mantenimiento PAN, SAD y comunicación",
+                    "state": "READ-SUCCESS",
+                    "error_description": "",
+                    "asset": "LC246",
+                    "gamma": "IP-PAN-6M"
+                },
+                {
+                    "area": "Señalización",
+                    "n_task": "620/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Pasos a Nivel – Mantenimiento semestral",
+                    "work_system": "EVB",
+                    "pk": {
+                        "initial_pk": "165+275",
+                        "final_pk": "168+746"
+                    },
+                    "begin_date": "16-02-2026",
+                    "end_date": "16-02-2026",
+                    "schedule": {
+                        "begin": "06:00",
+                        "end": "08:30"
+                    },
+                    "week_days": "L",
+                    "responsible": "Se puede realizar con encargado de trabajo en conjunto con tarea N° 426/02",
+                    "machinery": "",
+                    "considerations": "PaN: LC241, LC243, LC246, LC247, LC248, LC246",
+                    "procedure": "PR O-SEN-00-GEN-02 v01 Mantenimiento PAN, SAD y comunicación",
+                    "state": "READ-SUCCESS",
+                    "error_description": "",
+                    "asset": "LC247",
+                    "gamma": "IP-PAN-6M"
+                },
+                {
+                    "area": "Señalización",
+                    "n_task": "620/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Pasos a Nivel – Mantenimiento semestral",
+                    "work_system": "EVB",
+                    "pk": {
+                        "initial_pk": "165+275",
+                        "final_pk": "168+746"
+                    },
+                    "begin_date": "16-02-2026",
+                    "end_date": "16-02-2026",
+                    "schedule": {
+                        "begin": "06:00",
+                        "end": "08:30"
+                    },
+                    "week_days": "L",
+                    "responsible": "Se puede realizar con encargado de trabajo en conjunto con tarea N° 426/02",
+                    "machinery": "",
+                    "considerations": "PaN: LC241, LC243, LC246, LC247, LC248, LC246",
+                    "procedure": "PR O-SEN-00-GEN-02 v01 Mantenimiento PAN, SAD y comunicación",
+                    "state": "READ-SUCCESS",
+                    "error_description": "",
+                    "asset": "LC248",
+                    "gamma": "IP-PAN-6M"
+                },
+                {
+                    "area": "Señalización",
+                    "n_task": "620/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Pasos a Nivel – Mantenimiento semestral",
+                    "work_system": "EVB",
+                    "pk": {
+                        "initial_pk": "165+275",
+                        "final_pk": "168+746"
+                    },
+                    "begin_date": "16-02-2026",
+                    "end_date": "16-02-2026",
+                    "schedule": {
+                        "begin": "06:00",
+                        "end": "08:30"
+                    },
+                    "week_days": "L",
+                    "responsible": "Se puede realizar con encargado de trabajo en conjunto con tarea N° 426/02",
+                    "machinery": "",
+                    "considerations": "PaN: LC241, LC243, LC246, LC247, LC248, LC246",
+                    "procedure": "PR O-SEN-00-GEN-02 v01 Mantenimiento PAN, SAD y comunicación",
+                    "state": "READ-SUCCESS",
+                    "error_description": "",
+                    "asset": "LC246",
+                    "gamma": "IP-PAN-6M"
+                },
+                {
+                    "area": "Infraestructura",
+                    "n_task": "621/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Limpieza puntuales de zanjas, alcantarillas y sistema de drenaje, control de vegetación.",
+                    "work_system": "EVB",
+                    "pk": {
+                        "initial_pk": "165+511",
+                        "final_pk": "212+676"
+                    },
+                    "begin_date": "16-02-2026",
+                    "end_date": "16-02-2026",
+                    "schedule": {
+                        "begin": "06:00",
+                        "end": "08:30"
+                    },
+                    "week_days": "L",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "Mini excavadora, combinada y tractor",
+                    "considerations": "",
+                    "procedure": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación PR O-INF-PV-DRE-01 Limpieza de drenajes longitudinales y transversales",
+                    "state": "READ-SUCCESS",
+                    "error_description": "",
+                    "asset": null,
+                    "gamma": "I_F_10_LIMP_ZAD_COR"
+                },
+                {
+                    "area": "Infraestructura",
+                    "n_task": "621/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Limpieza puntuales de zanjas, alcantarillas y sistema de drenaje, control de vegetación.",
+                    "work_system": "EVB",
+                    "pk": {
+                        "initial_pk": "165+511",
+                        "final_pk": "212+676"
+                    },
+                    "begin_date": "16-02-2026",
+                    "end_date": "16-02-2026",
+                    "schedule": {
+                        "begin": "06:00",
+                        "end": "08:30"
+                    },
+                    "week_days": "L",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "Mini excavadora, combinada y tractor",
+                    "considerations": "",
+                    "procedure": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación PR O-INF-PV-DRE-01 Limpieza de drenajes longitudinales y transversales",
+                    "state": "READ-SUCCESS",
+                    "error_description": "",
+                    "asset": null,
+                    "gamma": "I_F_08_CON_VEG_PREV"
+                },
+                {
+                    "area": "Infraestructura",
+                    "n_task": "622/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Limpieza puntuales de zanjas, alcantarillas y sistema de drenaje, control de vegetación.",
+                    "work_system": "EVB",
+                    "pk": {
+                        "initial_pk": "243+486",
+                        "final_pk": "255+826"
+                    },
+                    "begin_date": "16-02-2026",
+                    "end_date": "16-02-2026",
+                    "schedule": {
+                        "begin": "05:00",
+                        "end": "06:30"
+                    },
+                    "week_days": "L",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "Mini excavadora, combinada y tractor",
+                    "considerations": "",
+                    "procedure": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación PR O-INF-PV-DRE-01 Limpieza de drenajes longitudinales y transversales",
+                    "state": "READ-SUCCESS",
+                    "error_description": "",
+                    "asset": null,
+                    "gamma": "I_F_10_LIMP_ZAD_COR"
+                },
+                {
+                    "area": "Infraestructura",
+                    "n_task": "622/02",
+                    "occupation_zone": "PELIGRO",
+                    "description": "Limpieza puntuales de zanjas, alcantarillas y sistema de drenaje, control de vegetación.",
+                    "work_system": "EVB",
+                    "pk": {
+                        "initial_pk": "243+486",
+                        "final_pk": "255+826"
+                    },
+                    "begin_date": "16-02-2026",
+                    "end_date": "16-02-2026",
+                    "schedule": {
+                        "begin": "05:00",
+                        "end": "06:30"
+                    },
+                    "week_days": "L",
+                    "responsible": "Encargado de trabajo",
+                    "machinery": "Mini excavadora, combinada y tractor",
+                    "considerations": "",
+                    "procedure": "PR O-INF-PV-SUB-02 v01 Prevención de Vegetación PR O-INF-PV-DRE-01 Limpieza de drenajes longitudinales y transversales",
+                    "state": "READ-SUCCESS",
+                    "error_description": "",
+                    "asset": null,
+                    "gamma": "I_F_08_CON_VEG_PREV"
+                }
+            ]
+        }
+    }
+}

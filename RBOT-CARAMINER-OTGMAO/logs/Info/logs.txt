@@ -1,0 +1,945 @@
+Time: 10/03/2026 10:39:59 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 10/03/2026 10:39:59 | Type: INFO | Robot: CheckGmaoAPIStatus | Message: Validando el status de la API de Gmao.
+Time: 10/03/2026 10:40:13 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 10/03/2026 10:40:13 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 10/03/2026 10:41:59 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 10/03/2026 10:41:59 | Type: INFO | Robot: CheckGmaoAPIStatus | Message: Validando el status de la API de Gmao.
+Time: 10/03/2026 10:41:59 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 10/03/2026 10:42:05 | Type: INFO | Robot: ExecutionNotificationSender | Message: Se ha cerrado la conexión a Gmail correctamente.
+Time: 10/03/2026 10:42:27 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 10/03/2026 10:42:27 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 10/03/2026 10:42:30 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 10/03/2026 10:42:30 | Type: INFO | Robot: CheckGmaoAPIStatus | Message: Validando el status de la API de Gmao.
+Time: 10/03/2026 10:42:30 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 10/03/2026 10:42:36 | Type: INFO | Robot: ExecutionNotificationSender | Message: Se ha cerrado la conexión a Gmail correctamente.
+Time: 13/03/2026 14:22:56 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/03/2026 14:22:56 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 13/03/2026 14:22:59 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 13/03/2026 14:22:59 | Type: INFO | Robot: CheckGmaoAPIStatus | Message: Validando el status de la API de Gmao.
+Time: 13/03/2026 14:22:59 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/03/2026 14:23:05 | Type: INFO | Robot: ExecutionNotificationSender | Message: Se ha cerrado la conexión a Gmail correctamente.
+Time: 13/03/2026 14:24:05 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/03/2026 14:24:05 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 13/03/2026 14:24:08 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 13/03/2026 14:24:08 | Type: INFO | Robot: CheckGmaoAPIStatus | Message: Validando el status de la API de Gmao.
+Time: 13/03/2026 14:24:08 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/03/2026 14:24:16 | Type: INFO | Robot: ExecutionNotificationSender | Message: Se ha cerrado la conexión a Gmail correctamente.
+Time: 13/03/2026 14:25:12 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/03/2026 14:25:12 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 13/03/2026 14:25:14 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 13/03/2026 14:25:15 | Type: INFO | Robot: CheckGmaoAPIStatus | Message: Validando el status de la API de Gmao.
+Time: 13/03/2026 14:25:15 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/03/2026 14:25:20 | Type: INFO | Robot: ExecutionNotificationSender | Message: Se ha cerrado la conexión a Gmail correctamente.
+Time: 13/03/2026 14:28:10 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/03/2026 14:28:10 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 13/03/2026 14:28:12 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 13/03/2026 14:28:12 | Type: INFO | Robot: CheckGmaoAPIStatus | Message: Validando el status de la API de Gmao.
+Time: 13/03/2026 14:28:12 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/03/2026 14:28:19 | Type: INFO | Robot: ExecutionNotificationSender | Message: Se ha cerrado la conexión a Gmail correctamente.
+Time: 13/03/2026 14:31:23 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/03/2026 14:31:23 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 13/03/2026 14:31:25 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 13/03/2026 14:31:25 | Type: INFO | Robot: CheckGmaoAPIStatus | Message: Validando el status de la API de Gmao.
+Time: 13/03/2026 14:31:25 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/03/2026 14:31:32 | Type: INFO | Robot: ExecutionNotificationSender | Message: Se ha cerrado la conexión a Gmail correctamente.
+Time: 13/03/2026 15:32:52 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/03/2026 15:32:52 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 13/03/2026 15:32:54 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 13/03/2026 15:32:54 | Type: INFO | Robot: CheckGmaoAPIStatus | Message: Validando el status de la API de Gmao.
+Time: 13/03/2026 15:32:54 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/03/2026 15:33:01 | Type: INFO | Robot: ExecutionNotificationSender | Message: Se ha cerrado la conexión a Gmail correctamente.
+Time: 13/03/2026 15:34:39 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/03/2026 15:34:39 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 13/03/2026 15:34:42 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 13/03/2026 15:34:42 | Type: INFO | Robot: CheckGmaoAPIStatus | Message: Validando el status de la API de Gmao.
+Time: 13/03/2026 15:34:42 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/03/2026 15:34:48 | Type: INFO | Robot: ExecutionNotificationSender | Message: Se ha cerrado la conexión a Gmail correctamente.
+Time: 13/03/2026 15:38:49 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/03/2026 15:38:49 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 13/03/2026 15:38:52 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 13/03/2026 15:38:52 | Type: INFO | Robot: CheckGmaoAPIStatus | Message: Validando el status de la API de Gmao.
+Time: 13/03/2026 15:38:52 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/03/2026 15:38:58 | Type: INFO | Robot: ExecutionNotificationSender | Message: Se ha cerrado la conexión a Gmail correctamente.
+Time: 13/03/2026 16:02:46 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/03/2026 16:02:46 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 13/03/2026 16:02:49 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 13/03/2026 16:02:49 | Type: INFO | Robot: CheckGmaoAPIStatus | Message: Validando el status de la API de Gmao.
+Time: 13/03/2026 16:02:50 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/03/2026 16:02:57 | Type: INFO | Robot: ExecutionNotificationSender | Message: Se ha cerrado la conexión a Gmail correctamente.
+Time: 13/03/2026 16:25:22 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/03/2026 16:25:22 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 13/03/2026 16:25:25 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 13/03/2026 16:25:25 | Type: INFO | Robot: CheckGmaoAPIStatus | Message: Validando el status de la API de Gmao.
+Time: 13/03/2026 16:25:25 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/03/2026 16:25:33 | Type: INFO | Robot: ExecutionNotificationSender | Message: Se ha cerrado la conexión a Gmail correctamente.
+Time: 13/03/2026 16:29:44 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/03/2026 16:29:44 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 13/03/2026 16:29:46 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 13/03/2026 16:29:46 | Type: INFO | Robot: CheckGmaoAPIStatus | Message: Validando el status de la API de Gmao.
+Time: 13/03/2026 16:29:46 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/03/2026 16:29:52 | Type: INFO | Robot: ExecutionNotificationSender | Message: Se ha cerrado la conexión a Gmail correctamente.
+Time: 06/04/2026 11:10:14 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 06/04/2026 11:10:14 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 06/04/2026 11:10:17 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 06/04/2026 11:10:17 | Type: INFO | Robot: CheckGmaoAPIStatus | Message: Validando el status de la API de Gmao.
+Time: 06/04/2026 11:10:17 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 06/04/2026 11:10:23 | Type: INFO | Robot: ExecutionNotificationSender | Message: Se ha cerrado la conexión a Gmail correctamente.
+Time: 06/04/2026 11:14:40 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 06/04/2026 11:14:40 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 06/04/2026 11:14:42 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 06/04/2026 11:14:42 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 06/04/2026 11:14:48 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 06/04/2026 11:14:48 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 06/04/2026 11:15:47 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 06/04/2026 11:15:47 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 06/04/2026 11:15:49 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 06/04/2026 11:15:49 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 06/04/2026 11:15:57 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 06/04/2026 11:15:57 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 06/04/2026 11:17:13 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 06/04/2026 11:17:13 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 06/04/2026 11:17:15 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 06/04/2026 11:17:15 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 06/04/2026 11:17:22 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 06/04/2026 11:17:22 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 06/04/2026 11:30:18 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 06/04/2026 11:30:18 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 06/04/2026 11:30:20 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 06/04/2026 11:30:20 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 06/04/2026 11:30:26 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 06/04/2026 11:30:26 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 06/04/2026 11:34:41 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 06/04/2026 11:34:41 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 06/04/2026 11:34:44 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 06/04/2026 11:34:44 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 06/04/2026 11:34:50 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 06/04/2026 11:34:50 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 06/04/2026 11:35:19 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 06/04/2026 11:35:19 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 06/04/2026 11:35:21 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 06/04/2026 11:35:21 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 06/04/2026 11:35:29 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 06/04/2026 11:35:29 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 06/04/2026 11:36:41 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 06/04/2026 11:36:41 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 06/04/2026 11:36:43 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 06/04/2026 11:36:55 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 06/04/2026 11:36:55 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 06/04/2026 11:39:08 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 06/04/2026 11:39:09 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 06/04/2026 11:39:11 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 06/04/2026 11:39:28 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 06/04/2026 11:39:28 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 06/04/2026 11:42:47 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 06/04/2026 11:42:47 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 06/04/2026 11:42:49 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 06/04/2026 11:43:03 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 06/04/2026 11:43:03 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 06/04/2026 11:45:32 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 06/04/2026 11:45:32 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 06/04/2026 11:45:35 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 06/04/2026 11:45:46 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 06/04/2026 11:45:46 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 06/04/2026 11:47:06 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 06/04/2026 11:47:06 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 06/04/2026 11:47:08 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 06/04/2026 11:47:19 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 06/04/2026 11:47:19 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 06/04/2026 11:50:54 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 06/04/2026 11:50:54 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 06/04/2026 11:50:57 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 06/04/2026 11:51:08 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 06/04/2026 11:51:08 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 06/04/2026 11:53:29 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 06/04/2026 11:53:29 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 06/04/2026 11:53:32 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 06/04/2026 11:53:43 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 06/04/2026 11:53:43 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 06/04/2026 11:55:03 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 06/04/2026 11:55:03 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 06/04/2026 11:55:05 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 06/04/2026 11:55:05 | Type: INFO | Robot: CheckGmaoAPIStatus | Message: Validando el status de la API de Gmao.
+Time: 06/04/2026 11:55:05 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 06/04/2026 11:55:11 | Type: INFO | Robot: ExecutionNotificationSender | Message: Se ha cerrado la conexión a Gmail correctamente.
+Time: 06/04/2026 11:55:11 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 06/04/2026 11:55:11 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 06/04/2026 11:59:34 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 06/04/2026 11:59:34 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 06/04/2026 11:59:37 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 06/04/2026 11:59:37 | Type: INFO | Robot: CheckGmaoAPIStatus | Message: Validando el status de la API de Gmao.
+Time: 06/04/2026 11:59:37 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 06/04/2026 11:59:42 | Type: INFO | Robot: ExecutionNotificationSender | Message: Se ha cerrado la conexión a Gmail correctamente.
+Time: 06/04/2026 11:59:42 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 06/04/2026 11:59:42 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 06/04/2026 12:00:38 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 06/04/2026 12:00:38 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 06/04/2026 12:00:40 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 06/04/2026 12:00:40 | Type: INFO | Robot: CheckGmaoAPIStatus | Message: Validando el status de la API de Gmao.
+Time: 06/04/2026 12:00:40 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 06/04/2026 12:00:45 | Type: INFO | Robot: ExecutionNotificationSender | Message: Se ha cerrado la conexión a Gmail correctamente.
+Time: 06/04/2026 12:00:46 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 06/04/2026 12:00:46 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 06/04/2026 12:01:22 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 06/04/2026 12:01:22 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 06/04/2026 12:01:24 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 06/04/2026 12:01:40 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 06/04/2026 12:01:40 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 06/04/2026 15:45:11 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 06/04/2026 15:45:11 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 06/04/2026 15:45:13 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 06/04/2026 15:45:24 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 06/04/2026 15:45:24 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 06/04/2026 15:48:44 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 06/04/2026 15:48:44 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 06/04/2026 15:48:47 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 06/04/2026 15:48:47 | Type: INFO | Robot: CheckGmaoAPIStatus | Message: Validando el status de la API de Gmao.
+Time: 06/04/2026 15:48:47 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 06/04/2026 15:48:54 | Type: INFO | Robot: ExecutionNotificationSender | Message: Se ha cerrado la conexión a Gmail correctamente.
+Time: 06/04/2026 15:48:54 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 06/04/2026 15:48:54 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 06/04/2026 15:50:39 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 06/04/2026 15:50:39 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 06/04/2026 15:50:41 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 06/04/2026 15:50:41 | Type: INFO | Robot: CheckGmaoAPIStatus | Message: Validando el status de la API de Gmao.
+Time: 06/04/2026 15:50:41 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 06/04/2026 15:50:47 | Type: INFO | Robot: ExecutionNotificationSender | Message: Se ha cerrado la conexión a Gmail correctamente.
+Time: 06/04/2026 15:50:47 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 06/04/2026 15:50:47 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 06/04/2026 15:54:46 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 06/04/2026 15:54:46 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 06/04/2026 15:54:48 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 06/04/2026 15:54:48 | Type: INFO | Robot: CheckGmaoAPIStatus | Message: Validando el status de la API de Gmao.
+Time: 06/04/2026 15:54:55 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 06/04/2026 15:54:55 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 06/04/2026 15:56:38 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 06/04/2026 15:56:38 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 06/04/2026 15:56:40 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 06/04/2026 15:56:40 | Type: INFO | Robot: CheckGmaoAPIStatus | Message: Validando el status de la API de Gmao.
+Time: 06/04/2026 15:56:47 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 06/04/2026 15:56:47 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 06/04/2026 15:58:26 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 06/04/2026 15:58:26 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 06/04/2026 15:58:29 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 06/04/2026 15:58:29 | Type: INFO | Robot: CheckGmaoAPIStatus | Message: Validando el status de la API de Gmao.
+Time: 06/04/2026 15:58:29 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 06/04/2026 15:58:35 | Type: INFO | Robot: ExecutionNotificationSender | Message: Se ha cerrado la conexión a Gmail correctamente.
+Time: 06/04/2026 15:58:35 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 06/04/2026 15:58:35 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 06/04/2026 16:06:10 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 06/04/2026 16:06:10 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 06/04/2026 16:06:12 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 06/04/2026 16:06:12 | Type: INFO | Robot: CheckGmaoAPIStatus | Message: Validando el status de la API de Gmao.
+Time: 06/04/2026 16:06:13 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 06/04/2026 16:06:18 | Type: INFO | Robot: ExecutionNotificationSender | Message: Se ha cerrado la conexión a Gmail correctamente.
+Time: 06/04/2026 16:06:18 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 06/04/2026 16:06:18 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 08/04/2026 17:02:40 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 08/04/2026 17:02:40 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 08/04/2026 17:02:44 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 08/04/2026 17:02:44 | Type: INFO | Robot: CheckGmaoAPIStatus | Message: Validando el status de la API de Gmao.
+Time: 08/04/2026 17:02:44 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 08/04/2026 17:02:51 | Type: INFO | Robot: ExecutionNotificationSender | Message: Se ha cerrado la conexión a Gmail correctamente.
+Time: 08/04/2026 17:03:00 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 08/04/2026 17:03:00 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 08/04/2026 17:07:11 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 08/04/2026 17:07:11 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 08/04/2026 17:07:14 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 08/04/2026 17:07:14 | Type: INFO | Robot: CheckGmaoAPIStatus | Message: Validando el status de la API de Gmao.
+Time: 08/04/2026 17:07:14 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 08/04/2026 17:07:17 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 08/04/2026 17:07:17 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 08/04/2026 17:31:07 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 08/04/2026 17:31:07 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 08/04/2026 17:31:10 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 08/04/2026 17:31:10 | Type: INFO | Robot: CheckGmaoAPIStatus | Message: Validando el status de la API de Gmao.
+Time: 08/04/2026 17:31:11 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 08/04/2026 17:31:14 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 08/04/2026 17:31:14 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 08/04/2026 17:34:31 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 08/04/2026 17:34:31 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 08/04/2026 17:34:34 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 08/04/2026 17:34:34 | Type: INFO | Robot: CheckGmaoAPIStatus | Message: Validando el status de la API de Gmao.
+Time: 08/04/2026 17:34:34 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 08/04/2026 17:34:37 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 08/04/2026 17:34:37 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 08/04/2026 17:47:10 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 08/04/2026 17:47:10 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 08/04/2026 17:47:13 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 08/04/2026 17:47:13 | Type: INFO | Robot: CheckGmaoAPIStatus | Message: Validando el status de la API de Gmao.
+Time: 08/04/2026 17:47:13 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 08/04/2026 17:47:16 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 08/04/2026 17:47:16 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 08/04/2026 17:49:06 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 08/04/2026 17:49:06 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 08/04/2026 17:49:09 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 08/04/2026 17:49:09 | Type: INFO | Robot: CheckGmaoAPIStatus | Message: Validando el status de la API de Gmao.
+Time: 08/04/2026 17:49:09 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 08/04/2026 17:49:13 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 08/04/2026 17:49:13 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 09/04/2026 09:29:35 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 09/04/2026 09:29:35 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 09/04/2026 09:29:38 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 09/04/2026 09:29:38 | Type: INFO | Robot: CheckGmaoAPIStatus | Message: Validando el status de la API de Gmao.
+Time: 09/04/2026 09:29:39 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 09/04/2026 09:29:42 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 09/04/2026 09:29:42 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 09/04/2026 10:14:10 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 09/04/2026 10:14:10 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 09/04/2026 10:14:13 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 09/04/2026 10:14:13 | Type: INFO | Robot: CheckGmaoAPIStatus | Message: Validando el status de la API de Gmao.
+Time: 09/04/2026 10:14:13 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 09/04/2026 10:14:16 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 09/04/2026 10:14:16 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 09/04/2026 10:15:36 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 09/04/2026 10:15:36 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 09/04/2026 10:15:38 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 09/04/2026 10:15:38 | Type: INFO | Robot: CheckGmaoAPIStatus | Message: Validando el status de la API de Gmao.
+Time: 09/04/2026 10:15:39 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 09/04/2026 10:15:42 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 09/04/2026 10:15:42 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 09/04/2026 10:36:53 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 09/04/2026 10:36:53 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 09/04/2026 10:36:57 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 09/04/2026 10:36:57 | Type: INFO | Robot: CheckGmaoAPIStatus | Message: Validando el status de la API de Gmao.
+Time: 09/04/2026 10:36:58 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 09/04/2026 10:37:03 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 09/04/2026 10:37:03 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 09/04/2026 10:50:47 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 09/04/2026 10:50:47 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 09/04/2026 10:50:49 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 09/04/2026 10:50:49 | Type: INFO | Robot: CheckGmaoAPIStatus | Message: Validando el status de la API de Gmao.
+Time: 09/04/2026 10:50:50 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 09/04/2026 10:50:54 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 09/04/2026 10:50:54 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 09/04/2026 11:26:14 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 09/04/2026 11:26:14 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 09/04/2026 11:26:17 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 09/04/2026 11:26:17 | Type: INFO | Robot: CheckGmaoAPIStatus | Message: Validando el status de la API de Gmao.
+Time: 09/04/2026 11:26:18 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 09/04/2026 11:26:23 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 09/04/2026 11:26:23 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 09/04/2026 11:38:27 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 09/04/2026 11:38:27 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 09/04/2026 11:38:30 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 09/04/2026 11:38:30 | Type: INFO | Robot: CheckGmaoAPIStatus | Message: Validando el status de la API de Gmao.
+Time: 09/04/2026 11:38:31 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 09/04/2026 11:38:35 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 09/04/2026 11:38:35 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 09/04/2026 11:59:14 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 09/04/2026 11:59:14 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 09/04/2026 11:59:16 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 09/04/2026 11:59:16 | Type: INFO | Robot: CheckGmaoAPIStatus | Message: Validando el status de la API de Gmao.
+Time: 09/04/2026 11:59:17 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 09/04/2026 11:59:22 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 09/04/2026 11:59:22 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 09/04/2026 12:14:33 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 09/04/2026 12:14:33 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 09/04/2026 12:14:36 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 09/04/2026 12:14:36 | Type: INFO | Robot: CheckGmaoAPIStatus | Message: Validando el status de la API de Gmao.
+Time: 09/04/2026 12:14:36 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 09/04/2026 12:14:40 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 09/04/2026 12:14:40 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 09/04/2026 12:21:22 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 09/04/2026 12:21:23 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 09/04/2026 12:21:25 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 09/04/2026 12:21:25 | Type: INFO | Robot: CheckGmaoAPIStatus | Message: Validando el status de la API de Gmao.
+Time: 09/04/2026 12:21:26 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 09/04/2026 12:21:30 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 09/04/2026 12:21:30 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 09/04/2026 12:50:19 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 09/04/2026 12:50:19 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 09/04/2026 12:50:22 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 09/04/2026 12:50:22 | Type: INFO | Robot: CheckGmaoAPIStatus | Message: Validando el status de la API de Gmao.
+Time: 09/04/2026 12:50:22 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 09/04/2026 12:50:28 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 09/04/2026 12:50:28 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 09/04/2026 12:52:08 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 09/04/2026 12:52:08 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 09/04/2026 12:52:11 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 09/04/2026 12:52:11 | Type: INFO | Robot: CheckGmaoAPIStatus | Message: Validando el status de la API de Gmao.
+Time: 09/04/2026 12:52:11 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 09/04/2026 12:52:16 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 09/04/2026 12:52:16 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 09/04/2026 14:15:23 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 09/04/2026 14:15:23 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 09/04/2026 14:15:25 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 09/04/2026 14:15:25 | Type: INFO | Robot: CheckGmaoAPIStatus | Message: Validando el status de la API de Gmao.
+Time: 09/04/2026 14:15:26 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 09/04/2026 14:15:30 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 09/04/2026 14:15:30 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 09/04/2026 14:42:15 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 09/04/2026 14:42:15 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 09/04/2026 14:42:17 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 09/04/2026 14:42:17 | Type: INFO | Robot: CheckGmaoAPIStatus | Message: Validando el status de la API de Gmao.
+Time: 09/04/2026 14:42:18 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 09/04/2026 14:42:23 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 09/04/2026 14:42:23 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 09/04/2026 14:46:44 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 09/04/2026 14:46:44 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 09/04/2026 14:46:47 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 09/04/2026 14:46:47 | Type: INFO | Robot: CheckGmaoAPIStatus | Message: Validando el status de la API de Gmao.
+Time: 09/04/2026 14:46:47 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 09/04/2026 14:46:51 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 09/04/2026 14:46:51 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 09/04/2026 15:13:22 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 09/04/2026 15:13:22 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 09/04/2026 15:13:25 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 09/04/2026 15:13:25 | Type: INFO | Robot: CheckGmaoAPIStatus | Message: Validando el status de la API de Gmao.
+Time: 09/04/2026 15:13:25 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 09/04/2026 15:13:30 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 09/04/2026 15:13:30 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 09/04/2026 16:52:09 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 09/04/2026 16:52:09 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 09/04/2026 16:52:12 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 09/04/2026 16:52:12 | Type: INFO | Robot: CheckGmaoAPIStatus | Message: Validando el status de la API de Gmao.
+Time: 09/04/2026 16:52:13 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 09/04/2026 16:52:17 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 09/04/2026 16:52:17 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 09/04/2026 16:54:26 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 09/04/2026 16:54:26 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 09/04/2026 16:54:29 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 09/04/2026 16:54:29 | Type: INFO | Robot: CheckGmaoAPIStatus | Message: Validando el status de la API de Gmao.
+Time: 09/04/2026 16:54:31 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 09/04/2026 16:54:35 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 09/04/2026 16:54:35 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 09/04/2026 17:22:46 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 09/04/2026 17:22:46 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 09/04/2026 17:22:49 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 09/04/2026 17:22:49 | Type: INFO | Robot: CheckGmaoAPIStatus | Message: Validando el status de la API de Gmao.
+Time: 09/04/2026 17:22:49 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 09/04/2026 17:22:53 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 09/04/2026 17:22:53 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 10/04/2026 15:34:49 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 10/04/2026 15:34:49 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 10/04/2026 15:34:52 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 10/04/2026 15:34:52 | Type: INFO | Robot: CheckGmaoAPIStatus | Message: Validando el status de la API de Gmao.
+Time: 10/04/2026 15:34:53 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 10/04/2026 15:34:57 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 10/04/2026 15:34:57 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 10/04/2026 15:41:28 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 10/04/2026 15:41:28 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 10/04/2026 15:41:31 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 10/04/2026 15:41:31 | Type: INFO | Robot: CheckGmaoAPIStatus | Message: Validando el status de la API de Gmao.
+Time: 10/04/2026 15:41:32 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 10/04/2026 15:41:37 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 10/04/2026 15:41:37 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 10/04/2026 15:49:56 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 10/04/2026 15:49:57 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 10/04/2026 15:49:59 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 10/04/2026 15:49:59 | Type: INFO | Robot: CheckGmaoAPIStatus | Message: Validando el status de la API de Gmao.
+Time: 10/04/2026 15:50:00 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 10/04/2026 15:50:04 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 10/04/2026 15:50:04 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 10:09:04 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 10:09:04 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 13/04/2026 10:09:09 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 13/04/2026 10:09:09 | Type: INFO | Robot: CheckGmaoAPIStatus | Message: Validando el status de la API de Gmao.
+Time: 13/04/2026 10:09:10 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 10:09:17 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 10:09:17 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 10:20:36 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 10:20:36 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 13/04/2026 10:20:39 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 13/04/2026 10:20:39 | Type: INFO | Robot: CheckGmaoAPIStatus | Message: Validando el status de la API de Gmao.
+Time: 13/04/2026 10:20:40 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 10:20:45 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 10:20:45 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 10:21:18 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 10:21:18 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 13/04/2026 10:21:20 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 13/04/2026 10:21:20 | Type: INFO | Robot: CheckGmaoAPIStatus | Message: Validando el status de la API de Gmao.
+Time: 13/04/2026 10:21:20 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 10:21:25 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 10:21:25 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 10:23:56 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 10:23:56 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 13/04/2026 10:24:00 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 13/04/2026 10:24:00 | Type: INFO | Robot: CheckGmaoAPIStatus | Message: Validando el status de la API de Gmao.
+Time: 13/04/2026 10:24:00 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 10:24:05 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 10:24:05 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 10:24:37 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 10:24:37 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 13/04/2026 10:24:40 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 13/04/2026 10:24:40 | Type: INFO | Robot: CheckGmaoAPIStatus | Message: Validando el status de la API de Gmao.
+Time: 13/04/2026 10:24:40 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 10:24:45 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 10:24:45 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 10:28:53 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 10:28:53 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 13/04/2026 10:28:56 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 13/04/2026 10:28:56 | Type: INFO | Robot: CheckGmaoAPIStatus | Message: Validando el status de la API de Gmao.
+Time: 13/04/2026 10:28:56 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 10:29:01 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 10:29:01 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 10:32:34 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 10:32:34 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 13/04/2026 10:32:37 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 13/04/2026 10:32:37 | Type: INFO | Robot: CheckGmaoAPIStatus | Message: Validando el status de la API de Gmao.
+Time: 13/04/2026 10:32:38 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 10:32:43 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 10:32:43 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 10:35:01 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 10:35:01 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 13/04/2026 10:35:04 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 13/04/2026 10:35:04 | Type: INFO | Robot: CheckGmaoAPIStatus | Message: Validando el status de la API de Gmao.
+Time: 13/04/2026 10:35:04 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 10:35:09 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 10:35:09 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 10:43:32 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 10:43:32 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 13/04/2026 10:43:35 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 13/04/2026 10:43:35 | Type: INFO | Robot: CheckGmaoAPIStatus | Message: Validando el status de la API de Gmao.
+Time: 13/04/2026 10:43:35 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 10:43:40 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 10:43:40 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 10:45:57 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 10:45:57 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 13/04/2026 10:46:00 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 13/04/2026 10:46:00 | Type: INFO | Robot: CheckGmaoAPIStatus | Message: Validando el status de la API de Gmao.
+Time: 13/04/2026 10:46:01 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 10:46:05 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 10:46:05 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 10:51:12 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 10:51:12 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 13/04/2026 10:51:14 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 13/04/2026 10:51:14 | Type: INFO | Robot: CheckGmaoAPIStatus | Message: Validando el status de la API de Gmao.
+Time: 13/04/2026 10:51:15 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 10:51:19 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 10:51:19 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 10:54:09 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 10:54:09 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 13/04/2026 10:54:12 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 13/04/2026 10:54:12 | Type: INFO | Robot: CheckGmaoAPIStatus | Message: Validando el status de la API de Gmao.
+Time: 13/04/2026 10:54:13 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 10:54:18 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 10:54:18 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 11:16:57 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 11:16:57 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 13/04/2026 11:17:00 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 13/04/2026 11:17:00 | Type: INFO | Robot: CheckGmaoAPIStatus | Message: Validando el status de la API de Gmao.
+Time: 13/04/2026 11:17:01 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 11:17:06 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 11:17:06 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 11:17:43 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 11:17:43 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 13/04/2026 11:17:46 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 13/04/2026 11:17:46 | Type: INFO | Robot: CheckGmaoAPIStatus | Message: Validando el status de la API de Gmao.
+Time: 13/04/2026 11:17:47 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 11:17:48 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 11:17:48 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 11:19:29 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 11:19:29 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 13/04/2026 11:19:32 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 13/04/2026 11:19:32 | Type: INFO | Robot: CheckGmaoAPIStatus | Message: Validando el status de la API de Gmao.
+Time: 13/04/2026 11:19:33 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 11:19:37 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 11:19:37 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 11:23:38 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 11:23:38 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 13/04/2026 11:23:41 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 13/04/2026 11:23:41 | Type: INFO | Robot: CheckGmaoAPIStatus | Message: Validando el status de la API de Gmao.
+Time: 13/04/2026 11:23:41 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 11:23:42 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 11:23:42 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 11:24:55 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 11:24:55 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 13/04/2026 11:24:58 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 13/04/2026 11:24:58 | Type: INFO | Robot: CheckGmaoAPIStatus | Message: Validando el status de la API de Gmao.
+Time: 13/04/2026 11:24:58 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 11:24:59 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 11:24:59 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 11:26:40 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 11:26:40 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 13/04/2026 11:26:42 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 13/04/2026 11:26:42 | Type: INFO | Robot: CheckGmaoAPIStatus | Message: Validando el status de la API de Gmao.
+Time: 13/04/2026 11:26:43 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 11:26:43 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 11:26:43 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 11:27:14 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 11:27:14 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 13/04/2026 11:27:17 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 13/04/2026 11:27:17 | Type: INFO | Robot: CheckGmaoAPIStatus | Message: Validando el status de la API de Gmao.
+Time: 13/04/2026 11:27:17 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 11:27:21 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 11:27:22 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 11:32:35 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 11:32:35 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 13/04/2026 11:32:38 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 13/04/2026 11:32:38 | Type: INFO | Robot: CheckGmaoAPIStatus | Message: Validando el status de la API de Gmao.
+Time: 13/04/2026 11:32:39 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 11:32:43 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 11:32:43 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 11:36:09 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 11:36:09 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 13/04/2026 11:36:12 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 13/04/2026 11:36:12 | Type: INFO | Robot: CheckGmaoAPIStatus | Message: Validando el status de la API de Gmao.
+Time: 13/04/2026 11:36:12 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 11:36:17 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 11:36:17 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 11:38:04 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 11:38:04 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 13/04/2026 11:38:07 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 13/04/2026 11:38:07 | Type: INFO | Robot: CheckGmaoAPIStatus | Message: Validando el status de la API de Gmao.
+Time: 13/04/2026 11:38:08 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 11:38:12 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 11:38:12 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 11:39:21 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 11:39:21 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 13/04/2026 11:39:39 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 11:39:39 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 11:39:43 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 11:39:43 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 13/04/2026 11:39:46 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 13/04/2026 11:39:46 | Type: INFO | Robot: CheckGmaoAPIStatus | Message: Validando el status de la API de Gmao.
+Time: 13/04/2026 11:39:47 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 11:39:52 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 11:39:52 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 11:50:24 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 11:50:24 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 13/04/2026 11:50:27 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 13/04/2026 11:50:27 | Type: INFO | Robot: CheckGmaoAPIStatus | Message: Validando el status de la API de Gmao.
+Time: 13/04/2026 11:50:28 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 11:50:32 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 11:50:32 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 12:12:38 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 12:12:38 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 13/04/2026 12:12:40 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 13/04/2026 12:12:55 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 12:12:55 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 12:14:14 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 12:14:14 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 12:14:19 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 12:14:19 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 12:14:51 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 12:14:51 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 12:14:56 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 12:14:56 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 12:15:38 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 12:15:38 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 12:15:41 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 12:15:41 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 14:24:35 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 14:24:35 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 14:24:38 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 14:24:38 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 14:27:39 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 14:27:39 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 14:27:42 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 14:27:42 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 14:28:30 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 14:28:30 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 14:28:34 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 14:28:34 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 14:30:49 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 14:30:49 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 14:30:51 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 14:30:51 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 14:31:23 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 14:31:23 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 14:31:35 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 14:31:35 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 14:35:07 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 14:35:07 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 14:35:20 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 14:35:21 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 14:36:04 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 14:36:04 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 14:36:06 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 14:36:06 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 14:36:56 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 14:36:56 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 14:36:58 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 14:36:58 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 14:40:22 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 14:40:22 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 14:40:24 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 14:40:24 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 14:43:35 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 14:43:35 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 14:43:38 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 14:43:38 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 14:45:32 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 14:45:32 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 14:45:35 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 14:45:35 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 14:46:10 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 14:46:10 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 14:46:13 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 14:46:13 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 14:51:21 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 14:51:21 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 14:51:24 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 14:51:24 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 14:51:50 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 14:51:50 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 14:51:53 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 14:51:53 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 14:56:04 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 14:56:04 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 14:56:07 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 14:56:07 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 14:56:54 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 14:56:54 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 14:56:57 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 14:56:57 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 14:57:37 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 14:57:37 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 14:57:39 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 14:57:39 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 14:59:46 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 14:59:46 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 14:59:54 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 14:59:54 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 15:01:14 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 15:01:14 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 15:01:16 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 15:01:16 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 15:02:02 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 15:02:02 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 15:02:04 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 15:02:05 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 15:08:29 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 15:08:29 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 15:08:32 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 15:08:32 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 15:09:44 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 15:09:44 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 15:09:47 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 15:09:47 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 15:11:30 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 15:11:30 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 15:11:32 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 15:11:32 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 15:12:46 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 15:12:46 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 15:12:49 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 15:12:49 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 15:13:16 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 15:13:16 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 15:13:18 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 15:13:18 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 15:14:21 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 15:14:21 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 15:14:24 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 15:14:24 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 15:22:16 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 15:22:16 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 15:22:19 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 15:22:19 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 15:23:08 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 15:23:08 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 15:23:11 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 15:23:11 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 15:24:58 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 15:24:58 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 15:25:01 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 15:25:01 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 15:25:19 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 15:25:19 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 15:25:23 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 15:25:23 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 15:26:03 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 15:26:03 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 15:26:15 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 15:26:15 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 15:31:42 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 15:31:42 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 15:31:45 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 15:31:45 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 15:32:10 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 15:32:10 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 15:32:13 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 15:32:13 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 15:33:22 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 15:33:22 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 15:33:34 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 15:33:34 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 15:34:18 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 15:34:18 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 15:38:35 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 15:38:35 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 15:43:26 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 15:43:26 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 15:46:27 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 15:46:27 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 15:50:31 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 15:50:31 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 15:54:36 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 15:54:36 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 15:54:54 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 15:54:54 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 15:57:54 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 15:57:54 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 15:58:10 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 15:58:11 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 16:02:14 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 16:02:14 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 16:02:18 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 16:02:18 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 16:08:49 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 16:08:49 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 16:08:53 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 16:08:53 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 16:12:25 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 16:12:25 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 16:12:29 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 16:12:29 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 16:16:50 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 16:16:50 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 16:16:55 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 16:16:55 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 16:18:38 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 16:18:38 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 16:18:42 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 16:18:42 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 16:20:46 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 16:20:46 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 16:20:51 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 16:20:51 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 16:22:01 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 16:22:01 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 16:22:05 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 16:22:05 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 16:23:34 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 16:23:34 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 16:23:38 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 16:23:38 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 16:26:05 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 16:26:05 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 16:26:11 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 16:26:11 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 16:26:41 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 16:26:41 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 16:26:45 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 16:26:45 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 16:27:48 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 16:27:48 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 16:27:53 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 16:27:53 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 16:37:46 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 16:37:46 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 16:39:16 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 16:39:16 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 16:42:09 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 16:42:09 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 16:44:46 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 16:44:46 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 16:49:00 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 16:49:00 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 16:49:18 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 16:49:18 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 16:50:35 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 16:50:35 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 16:50:40 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 16:50:40 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 16:52:22 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 16:52:22 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 16:52:38 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 16:52:38 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 16:54:54 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 16:54:55 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 16:54:59 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 16:54:59 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 16:55:39 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 16:55:39 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 16:55:53 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 16:55:53 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 16:56:57 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 16:56:57 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 16:57:11 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 16:57:11 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 16:58:04 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 16:58:04 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 16:58:09 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 16:58:09 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 17:00:27 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 17:00:27 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 17:00:32 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 17:00:32 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 17:04:26 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 17:04:26 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 17:04:31 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 17:04:31 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 17:05:02 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 17:05:02 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 17:05:16 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 17:05:16 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 17:07:57 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 17:07:57 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 17:08:02 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 17:08:02 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 17:09:41 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 17:09:41 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 17:09:46 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 17:09:46 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 17:11:38 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 17:11:38 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 17:11:53 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 17:11:53 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 17:12:40 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 17:12:40 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 17:12:54 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 17:12:54 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 13/04/2026 17:25:46 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 13/04/2026 17:25:46 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 13/04/2026 17:26:02 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 13/04/2026 17:26:02 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 14/04/2026 10:54:27 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 14/04/2026 10:54:27 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 14/04/2026 10:54:41 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 14/04/2026 10:54:42 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 14/04/2026 11:31:12 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 14/04/2026 11:31:12 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 14/04/2026 11:31:15 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 14/04/2026 11:31:15 | Type: INFO | Robot: CheckGmaoAPIStatus | Message: Validando el status de la API de Gmao.
+Time: 14/04/2026 11:31:16 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 14/04/2026 11:31:29 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 14/04/2026 11:31:29 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 14/04/2026 11:32:43 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 14/04/2026 11:32:43 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 14/04/2026 11:32:46 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 14/04/2026 11:32:46 | Type: INFO | Robot: CheckGmaoAPIStatus | Message: Validando el status de la API de Gmao.
+Time: 14/04/2026 11:32:47 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 14/04/2026 11:32:48 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 14/04/2026 11:32:48 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 14/04/2026 11:35:29 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 14/04/2026 11:35:29 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 14/04/2026 11:35:32 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 14/04/2026 11:35:32 | Type: INFO | Robot: CheckGmaoAPIStatus | Message: Validando el status de la API de Gmao.
+Time: 14/04/2026 11:35:33 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 14/04/2026 11:35:35 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 14/04/2026 11:35:35 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 14/04/2026 11:37:10 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 14/04/2026 11:37:10 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 14/04/2026 11:37:12 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 14/04/2026 11:37:12 | Type: INFO | Robot: CheckGmaoAPIStatus | Message: Validando el status de la API de Gmao.
+Time: 14/04/2026 11:37:13 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 14/04/2026 11:37:15 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 14/04/2026 11:37:15 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 14/04/2026 11:39:53 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 14/04/2026 11:39:53 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 14/04/2026 11:39:56 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 14/04/2026 11:39:56 | Type: INFO | Robot: CheckGmaoAPIStatus | Message: Validando el status de la API de Gmao.
+Time: 14/04/2026 11:39:57 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 14/04/2026 11:39:58 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 14/04/2026 11:39:58 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 14/04/2026 11:44:17 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 14/04/2026 11:44:17 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 14/04/2026 11:44:19 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 14/04/2026 11:44:19 | Type: INFO | Robot: CheckGmaoAPIStatus | Message: Validando el status de la API de Gmao.
+Time: 14/04/2026 11:44:20 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 14/04/2026 11:44:22 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 14/04/2026 11:44:22 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 14/04/2026 11:47:38 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 14/04/2026 11:47:38 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 14/04/2026 11:47:40 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 14/04/2026 11:47:40 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 14/04/2026 11:47:42 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 14/04/2026 11:47:42 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.
+Time: 14/04/2026 11:50:08 | Type: INFO | Robot: Initializer | Message: Ejecución iniciada, variables globales exitosamente cargadas desde el archivo de configuración.
+Time: 14/04/2026 11:50:09 | Type: INFO | Robot: CheckGmailStatus | Message: Validando el status de conexión a Gmail.
+Time: 14/04/2026 11:50:11 | Type: INFO | Robot: CheckDirectoryStatus | Message: Validando el status de los directorios.
+Time: 14/04/2026 11:50:11 | Type: INFO | Robot: Initializer | Message: Validaciones iniciales pasadas exitosamente.
+Time: 14/04/2026 11:50:35 | Type: INFO | Robot: ExecutionFinalizer | Message: Todas las conexiones han sido cerradas correctamente.
+Time: 14/04/2026 11:50:35 | Type: INFO | Robot: ExecutionFinalizer | Message: Ejecución Finalizada.

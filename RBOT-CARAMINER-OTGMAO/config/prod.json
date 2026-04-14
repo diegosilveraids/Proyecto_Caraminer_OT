@@ -1,0 +1,44 @@
+{
+    "input_files": {
+        "input_report_path": ""
+    },
+    "output_files": {
+        "output_report_path": ""
+    },
+    "credentials": {
+        "GMAIL_CREDENTIAL": "mail_bot",
+        "GMAO_CREDENTIAL": "gmao_bot"
+    },
+
+    "parsed_report_path": "",
+    
+    "work_order_dictionary": {},
+
+    "gmail_open": false,
+    "use_output_report": false,
+    "register_info_logs": false,
+    "parsed_file_exists": false,
+
+    "gmao_api": "",
+    "gmao_api_token": "",
+
+    "log_type": "",
+    "log_message": "",
+    "log_time": "",
+    "log_error": "",
+    "log_robot": "",
+    "log_img": "",
+
+    "mail_ids_tecnitian1_user": "diego.silvera@idsltda.uy",
+    "mail_ids_tecnitian2_user": "juan.pacheco@idsltda.uy",
+    "mail_ids_tecnitian3_user": "juan.pacheco@idsltda.uy",
+    "mail_caraminer_tecnitian1_user": "juan.pacheco@idsltda.uy",
+    "mail_caraminer_notification_user": "juan.pacheco@idsltda.uy",
+    "mail_subject_execution_notification": "",
+    "mail_subject_error_notification": "",
+    "mail_body_execution_notification": "",
+    "mail_body_error_notification": "",
+
+    "script_wo_parser": "report_parser_v2.py",
+    "script_wo_loader": "concurrent_insert_ot.py"
+}
